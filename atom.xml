@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-14T05:42:39.237Z</updated>
+    <updated>2021-01-14T07:15:25.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -21,6 +21,19 @@
         <content type="html"><![CDATA[<p>德国质量协会Qualitätssprachendienste Deutsch(QSD)发布<a href="https://multilingual.com/state-of-german-industry-report-released/">德国语言行业报告</a>。该报告根据国家统计部门的数据和100多家公司的答复汇编而成，回顾了市场规模、笔译和口译价格、常见的垂直客户、机器翻译(MT)采用策略和技术发展。</p>
 <!-- more -->
 <p>报告还列出了德国顶级语言服务提供商的名单，并分析了行业在九年内的增长情况，以及创造的就业机会。另有一节介绍了covid-19全球大流行病对该行业的影响。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[误译导致去往比利时的游客可能遭受罚款]]></title>
+        <id>https://nansey.github.io/post/2/</id>
+        <link href="https://nansey.github.io/post/2/">
+        </link>
+        <updated>2021-01-04T07:11:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>据1月4日的<a href="https://www.brusselstimes.com/belgium/148060/english-speaking-arrivals-in-belgium-risk-fines-due-to-translation-error-crisis-centre-police-coronavirus-passenger-locator-form-plf-chistmas-consultative-committee-faq/">《布鲁塞尔时报》</a>报道，比利时新冠病毒信息官方网站上的一个翻译错误，让英语国家的游客接收了相互矛盾的信息，如果他们不小心，可能会被处以巨额罚款。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据1月4日的<a href="https://www.brusselstimes.com/belgium/148060/english-speaking-arrivals-in-belgium-risk-fines-due-to-translation-error-crisis-centre-police-coronavirus-passenger-locator-form-plf-chistmas-consultative-committee-faq/">《布鲁塞尔时报》</a>报道，比利时新冠病毒信息官方网站上的一个翻译错误，让英语国家的游客接收了相互矛盾的信息，如果他们不小心，可能会被处以巨额罚款。</p>
+<!-- more -->
+<p>“根据<a href="https://www.info-coronavirus.be/en/plf/">info-coronavirus.be</a>官网的英文版本，”记者MaithéChini和Jules Johnston 1月4日报道，“游客必须在抵达比利时后的48小时内填写 <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">Passenger Locator Form</a> (PLF) 表格。”“但问题是，这个信息并不正确。在最初的法语、荷兰语和德语（该国的三种官方语言）中，政府规定 PLF 必须在抵达之前填写，而不是之后。</p>
 ]]></content>
     </entry>
     <entry>
