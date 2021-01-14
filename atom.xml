@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-14T09:11:25.611Z</updated>
+    <updated>2021-01-14T09:25:46.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -61,6 +61,19 @@
         <content type="html"><![CDATA[<p>现代汽车集团周五<a href="http://www.koreaherald.com/view.php?ud=20201218000726">表示</a>，已开发出一款韩英翻译App，以支持其本地和海外办事处员工之间的顺畅沟通。</p>
 <!-- more -->
 <p>这款被称为H-Translator的翻译应用，基于人工神经网络（ANN）算法，专门用于汽车行业。现代汽车称，由于公司一直在积极招聘外国员工，为了支持及时沟通和加强工作效率，所以开发了这款应用。H-Translator不仅能翻译书面文字，还能从图像中识别文字。该公司表示，它还能够翻译在线聊天室的对话，使其在不同国家的员工能够用两种不同的语言进行即时交流。现代汽车自2019年开始研发基于ANN算法的机器翻译。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊宣布推出Alexa即时翻译功能]]></title>
+        <id>https://nansey.github.io/post/5/</id>
+        <link href="https://nansey.github.io/post/5/">
+        </link>
+        <updated>2020-12-14T09:23:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>亚马逊今天<a href="https://www.amazon.science/blog/how-alexas-new-live-translation-for-conversations-works">宣布</a>推出Alexa新功能 &quot;Live Translation&quot;，可以翻译两种不同语言之间的对话。该功能使用亚马逊的语音识别技术和神经机器翻译技术，支持在英语、法语、西班牙语、印度语、葡萄牙语、德语或意大利语之间进行翻译。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>亚马逊今天<a href="https://www.amazon.science/blog/how-alexas-new-live-translation-for-conversations-works">宣布</a>推出Alexa新功能 &quot;Live Translation&quot;，可以翻译两种不同语言之间的对话。该功能使用亚马逊的语音识别技术和神经机器翻译技术，支持在英语、法语、西班牙语、印度语、葡萄牙语、德语或意大利语之间进行翻译。</p>
+<!-- more -->
+<p>要使用Live Translation功能，Echo设备的主人可以直接说 &quot;Alexa，translate French &quot;，开始进行英语和法语之间的翻译。亚马逊称，当听到提示音后，你可以用任何一种语言讲话，甚至可以在句子间自然停顿，然后Alexa会自动检测你所讲的语言，并进行翻译。在Echo Show设备上，除了听到语音翻译，你还可以看到翻译文本。</p>
 ]]></content>
     </entry>
 </feed>
