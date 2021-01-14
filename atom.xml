@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-01-14T02:04:41.116Z</updated>
+    <title>翻译动态</title>
+    <updated>2021-01-14T02:06:00.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>art of failure</subtitle>
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 翻译动态</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://nansey.github.io/post/hello-gridea/</id>
