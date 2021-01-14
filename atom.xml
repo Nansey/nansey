@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-14T09:09:42.679Z</updated>
+    <updated>2021-01-14T09:11:25.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -48,6 +48,19 @@
         <content type="html"><![CDATA[<p>据1月4日的<a href="https://www.brusselstimes.com/belgium/148060/english-speaking-arrivals-in-belgium-risk-fines-due-to-translation-error-crisis-centre-police-coronavirus-passenger-locator-form-plf-chistmas-consultative-committee-faq/">《布鲁塞尔时报》</a>报道，比利时新冠病毒信息官方网站上的一个翻译错误，让英语国家的游客接收了相互矛盾的信息，如果他们不小心，可能会被处以巨额罚款。</p>
 <!-- more -->
 <p>“根据<a href="https://www.info-coronavirus.be/en/plf/">info-coronavirus.be</a>官网的英文版本，”记者MaithéChini和Jules Johnston 1月4日报道，“游客必须在抵达比利时后的48小时内填写 <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">Passenger Locator Form</a> (PLF) 表格。”“但问题是，这个信息并不正确。在最初的法语、荷兰语和德语（该国的三种官方语言）中，政府规定 PLF 必须在抵达之前填写，而不是之后。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国现代研发出基于ANN算法的翻译App]]></title>
+        <id>https://nansey.github.io/post/4/</id>
+        <link href="https://nansey.github.io/post/4/">
+        </link>
+        <updated>2020-12-18T09:09:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>现代汽车集团周五<a href="http://www.koreaherald.com/view.php?ud=20201218000726">表示</a>，已开发出一款韩英翻译App，以支持其本地和海外办事处员工之间的顺畅沟通。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>现代汽车集团周五<a href="http://www.koreaherald.com/view.php?ud=20201218000726">表示</a>，已开发出一款韩英翻译App，以支持其本地和海外办事处员工之间的顺畅沟通。</p>
+<!-- more -->
+<p>这款被称为H-Translator的翻译应用，基于人工神经网络（ANN）算法，专门用于汽车行业。现代汽车称，由于公司一直在积极招聘外国员工，为了支持及时沟通和加强工作效率，所以开发了这款应用。H-Translator不仅能翻译书面文字，还能从图像中识别文字。该公司表示，它还能够翻译在线聊天室的对话，使其在不同国家的员工能够用两种不同的语言进行即时交流。现代汽车自2019年开始研发基于ANN算法的机器翻译。</p>
 ]]></content>
     </entry>
 </feed>
