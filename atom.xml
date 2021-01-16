@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-16T03:53:34.458Z</updated>
+    <updated>2021-01-16T04:06:44.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -118,6 +118,19 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[北京地铁站名新版英文译法来了]]></title>
+        <id>https://nansey.github.io/post/beijing-subway-new-translation/</id>
+        <link href="https://nansey.github.io/post/beijing-subway-new-translation/">
+        </link>
+        <updated>2020-12-31T04:05:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>记者近日从北京市交通委获悉，北京市人民政府外事办公室会同交通系统相关单位共同确定了“北京市城市轨道交通站名英文译法”，在2020底发布的新版轨道交通线网图中率先应用，并逐步扩展至地铁全路网系统。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>记者近日从北京市交通委获悉，北京市人民政府外事办公室会同交通系统相关单位共同确定了“北京市城市轨道交通站名英文译法”，在2020底发布的新版轨道交通线网图中率先应用，并逐步扩展至地铁全路网系统。</p>
+<!-- more -->
+<p>以依法合规、简单明了，兼顾地理信息和人文内涵，体现标识对外服务功能为总译写原则，新版译法明确地铁站名使用汉语拼音的，应符合《汉语拼音方案》及《汉语拼音正词法基本规则》，每个拼写单位首字母大写，其余字母小写，按照汉语拼音规则间隔。如“蒲黄榆”写为“Puhuangyu”，“宣武门”写为“Xuanwu Men”。以名胜古迹、纪念地等命名，或有约定俗成、长期沿用且中外普遍接受的英文名称的站名，继续使用英文译写。如“颐和园”译为“Summer Palace”, “国家图书馆”译为“National Library”。站名以“东、西、南、北”等方位词结尾的，方位信息统一用英文缩写标注解释。如“角门西”写为“Jiaomen Xi (W)”,“北海北”写为“Beihai Bei (N)”。（<a href="http://news.china.com.cn/txt/2020-12/31/content_77068494.htm">中国网</a>）</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[韩国现代研发出基于ANN算法的翻译App]]></title>
         <id>https://nansey.github.io/post/hyundai-ann-translate-app/</id>
         <link href="https://nansey.github.io/post/hyundai-ann-translate-app/">
@@ -128,19 +141,6 @@
         <content type="html"><![CDATA[<p>现代汽车集团周五<a href="http://www.koreaherald.com/view.php?ud=20201218000726">表示</a>，已开发出一款韩英翻译App，以支持其本地和海外办事处员工之间的顺畅沟通。</p>
 <!-- more -->
 <p>这款被称为H-Translator的翻译应用，基于人工神经网络（ANN）算法，专门用于汽车行业。现代汽车称，由于公司一直在积极招聘外国员工，为了支持及时沟通和加强工作效率，所以开发了这款应用。H-Translator不仅能翻译书面文字，还能从图像中识别文字。该公司表示，它还能够翻译在线聊天室的对话，使其在不同国家的员工能够用两种不同的语言进行即时交流。现代汽车自2019年开始研发基于ANN算法的机器翻译。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊宣布推出Alexa即时翻译功能]]></title>
-        <id>https://nansey.github.io/post/amazon-alexa-live-translate/</id>
-        <link href="https://nansey.github.io/post/amazon-alexa-live-translate/">
-        </link>
-        <updated>2020-12-14T09:23:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>亚马逊今天<a href="https://www.amazon.science/blog/how-alexas-new-live-translation-for-conversations-works">宣布</a>推出Alexa新功能 &quot;Live Translation&quot;，可以翻译两种不同语言之间的对话。该功能使用亚马逊的语音识别技术和神经机器翻译技术，支持在英语、法语、西班牙语、印度语、葡萄牙语、德语或意大利语之间进行翻译。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>亚马逊今天<a href="https://www.amazon.science/blog/how-alexas-new-live-translation-for-conversations-works">宣布</a>推出Alexa新功能 &quot;Live Translation&quot;，可以翻译两种不同语言之间的对话。该功能使用亚马逊的语音识别技术和神经机器翻译技术，支持在英语、法语、西班牙语、印度语、葡萄牙语、德语或意大利语之间进行翻译。</p>
-<!-- more -->
-<p>要使用Live Translation功能，Echo设备的主人可以直接说 &quot;Alexa，translate French &quot;，开始进行英语和法语之间的翻译。亚马逊称，当听到提示音后，你可以用任何一种语言讲话，甚至可以在句子间自然停顿，然后Alexa会自动检测你所讲的语言，并进行翻译。在Echo Show设备上，除了听到语音翻译，你还可以看到翻译文本。</p>
 ]]></content>
     </entry>
 </feed>
