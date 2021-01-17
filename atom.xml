@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-16T10:50:45.361Z</updated>
+    <updated>2021-01-17T02:28:30.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -91,6 +91,20 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[海关总署批准“Chinese Baijiu”作为中国白酒的英译]]></title>
+        <id>https://nansey.github.io/post/chinese-baijiu-new-translation/</id>
+        <link href="https://nansey.github.io/post/chinese-baijiu-new-translation/">
+        </link>
+        <updated>2021-01-14T02:26:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>媒体报道，海关总署已经批准中国酒业协会的申请，正式采用他们建议的Chinese Baijiu作为中国白酒的英译。新的《中华人民共和国进出口税则》从2021年1月1日起<a href="http://www.gov.cn/xinwen/2020-12/31/content_5575816.htm">正式执行</a>，中文列目名称里的“白酒”，对应的英文是“Chinese Baijiu”。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>媒体报道，海关总署已经批准中国酒业协会的申请，正式采用他们建议的Chinese Baijiu作为中国白酒的英译。新的《中华人民共和国进出口税则》从2021年1月1日起<a href="http://www.gov.cn/xinwen/2020-12/31/content_5575816.htm">正式执行</a>，中文列目名称里的“白酒”，对应的英文是“Chinese Baijiu”。</p>
+<!-- more -->
+<p>中国酒业协会称，中国白酒与白兰地(Brandy)、威士忌(Whisky)、伏特加(Vodka)、朗姆酒(Rum) 和金酒(Gin)一起并称为世界六大蒸馏酒。白酒是中国的国粹，有两千多年的生产历史，所采用的是与西方完全不同的天然多菌种固态发酵、固态蒸馏、全生物质转化产品。但多年来，中国白酒缺乏一个官方的准确的英文名称， 造成海外消费者的困扰，比如Chinese spirits（中国白酒）, Chinese distilled spirits（中国蒸馏酒）, Chinese liquor（中国烈酒）等都称为“中国白酒”。</p>
+<p>東吳大學英文系副教授曾泰元在其<a href="https://mp.weixin.qq.com/s/P1WNXOMe1vCKY9ythm_EXw">文章</a>中指出，英国的《柯林斯英语词典》（Collins English Dictionary）早就收录了“<a href="https://www.collinsdictionary.com/dictionary/english/baijiu">baijiu</a>”一词。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[德国质量协会发布德国语言行业报告]]></title>
         <id>https://nansey.github.io/post/qsd-language-report/</id>
         <link href="https://nansey.github.io/post/qsd-language-report/">
@@ -128,19 +142,6 @@
         <content type="html"><![CDATA[<p>据1月4日的<a href="https://www.brusselstimes.com/belgium/148060/english-speaking-arrivals-in-belgium-risk-fines-due-to-translation-error-crisis-centre-police-coronavirus-passenger-locator-form-plf-chistmas-consultative-committee-faq/">《布鲁塞尔时报》</a>报道，比利时新冠病毒信息官方网站上的一个翻译错误，让英语国家的游客接收了相互矛盾的信息，如果他们不小心，可能会被处以巨额罚款。</p>
 <!-- more -->
 <p>“根据<a href="https://www.info-coronavirus.be/en/plf/">info-coronavirus.be</a>官网的英文版本，”记者MaithéChini和Jules Johnston 1月4日报道，“游客必须在抵达比利时后的48小时内填写 <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">Passenger Locator Form</a> (PLF) 表格。”“但问题是，这个信息并不正确。在最初的法语、荷兰语和德语（该国的三种官方语言）中，政府规定 PLF 必须在抵达之前填写，而不是之后。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京地铁站名新版英文译法来了]]></title>
-        <id>https://nansey.github.io/post/beijing-subway-new-translation/</id>
-        <link href="https://nansey.github.io/post/beijing-subway-new-translation/">
-        </link>
-        <updated>2020-12-31T04:05:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>记者近日从北京市交通委获悉，北京市人民政府外事办公室会同交通系统相关单位共同确定了“北京市城市轨道交通站名英文译法”，在2020底发布的新版轨道交通线网图中率先应用，并逐步扩展至地铁全路网系统。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>记者近日从北京市交通委获悉，北京市人民政府外事办公室会同交通系统相关单位共同确定了“北京市城市轨道交通站名英文译法”，在2020底发布的新版轨道交通线网图中率先应用，并逐步扩展至地铁全路网系统。</p>
-<!-- more -->
-<p>以依法合规、简单明了，兼顾地理信息和人文内涵，体现标识对外服务功能为总译写原则，新版译法明确地铁站名使用汉语拼音的，应符合《汉语拼音方案》及《汉语拼音正词法基本规则》，每个拼写单位首字母大写，其余字母小写，按照汉语拼音规则间隔。如“蒲黄榆”写为“Puhuangyu”，“宣武门”写为“Xuanwu Men”。以名胜古迹、纪念地等命名，或有约定俗成、长期沿用且中外普遍接受的英文名称的站名，继续使用英文译写。如“颐和园”译为“Summer Palace”, “国家图书馆”译为“National Library”。站名以“东、西、南、北”等方位词结尾的，方位信息统一用英文缩写标注解释。如“角门西”写为“Jiaomen Xi (W)”,“北海北”写为“Beihai Bei (N)”。（<a href="http://news.china.com.cn/txt/2020-12/31/content_77068494.htm">中国网</a>）</p>
 ]]></content>
     </entry>
 </feed>
