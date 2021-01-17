@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-17T13:37:56.631Z</updated>
+    <updated>2021-01-17T13:56:10.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊前工程师开发猫咪翻译App]]></title>
+        <id>https://nansey.github.io/post/amazon-engineer-cat-translation-app/</id>
+        <link href="https://nansey.github.io/post/amazon-engineer-cat-translation-app/">
+        </link>
+        <updated>2021-01-17T13:55:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>亚马逊Alexa前工程师Javier Sanchez买了一只新的暹罗猫，但Mochi的命运远不止是一只简单的家庭宠物：她还是主人的猫咪翻译应用<a href="https://play.google.com/store/apps/details?id=com.akvelon.meowtalk&amp;hl=en_US&amp;gl=US">MeowTalk</a>的测试员。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>亚马逊Alexa前工程师Javier Sanchez买了一只新的暹罗猫，但Mochi的命运远不止是一只简单的家庭宠物：她还是主人的猫咪翻译应用<a href="https://play.google.com/store/apps/details?id=com.akvelon.meowtalk&amp;hl=en_US&amp;gl=US">MeowTalk</a>的测试员。</p>
+<!-- more -->
+<p>MeowTalk可以在猫咪主人上传喵喵声后，告诉主人他们的宠物是否在表达 &quot;防御&quot;或 &quot;交配&quot;等九大类信号。该应用结合了亚马逊Alexa和谷歌语音助手背后的技术以及多年的猫咪交流研究。Sanchez表示，该应用目前已有200万下载量。</p>
+<p>这款应用虽然只是一个业余项目，但Sanchez计划全职维护并希望有一天能售卖电子猫咪项圈。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韩国初创公司发明翻译狗吠的智能项圈]]></title>
         <id>https://nansey.github.io/post/Smart-collar-translates-dog-barks/</id>
@@ -130,19 +144,6 @@
 <!-- more -->
 <p>中国酒业协会称，中国白酒与白兰地(Brandy)、威士忌(Whisky)、伏特加(Vodka)、朗姆酒(Rum) 和金酒(Gin)一起并称为世界六大蒸馏酒。白酒是中国的国粹，有两千多年的生产历史，所采用的是与西方完全不同的天然多菌种固态发酵、固态蒸馏、全生物质转化产品。但多年来，中国白酒缺乏一个官方的准确的英文名称， 造成海外消费者的困扰，比如Chinese spirits（中国白酒）, Chinese distilled spirits（中国蒸馏酒）, Chinese liquor（中国烈酒）等都称为“中国白酒”。</p>
 <p>東吳大學英文系副教授曾泰元在其<a href="https://mp.weixin.qq.com/s/P1WNXOMe1vCKY9ythm_EXw">文章</a>中指出，英国的《柯林斯英语词典》（Collins English Dictionary）早就收录了“<a href="https://www.collinsdictionary.com/dictionary/english/baijiu">baijiu</a>”一词。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国质量协会发布德国语言行业报告]]></title>
-        <id>https://nansey.github.io/post/qsd-language-report/</id>
-        <link href="https://nansey.github.io/post/qsd-language-report/">
-        </link>
-        <updated>2021-01-14T02:18:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>德国质量协会Qualitätssprachendienste Deutsch(QSD)发布<a href="https://multilingual.com/state-of-german-industry-report-released/">德国语言行业报告</a>。该报告根据国家统计部门的数据和100多家公司的答复汇编而成，回顾了市场规模、笔译和口译价格、常见的垂直客户、机器翻译(MT)采用策略和技术发展。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>德国质量协会Qualitätssprachendienste Deutsch(QSD)发布<a href="https://multilingual.com/state-of-german-industry-report-released/">德国语言行业报告</a>。该报告根据国家统计部门的数据和100多家公司的答复汇编而成，回顾了市场规模、笔译和口译价格、常见的垂直客户、机器翻译(MT)采用策略和技术发展。</p>
-<!-- more -->
-<p>报告还列出了德国顶级语言服务提供商的名单，并分析了行业在九年内的增长情况，以及创造的就业机会。另有一节介绍了covid-19全球大流行病对该行业的影响。</p>
 ]]></content>
     </entry>
 </feed>
