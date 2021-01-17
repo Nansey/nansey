@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-17T07:17:40.160Z</updated>
+    <updated>2021-01-17T07:36:58.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -132,17 +132,16 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区书记收到英文感谢信息]]></title>
-        <id>https://nansey.github.io/post/foreigner-thanks-secretary/</id>
-        <link href="https://nansey.github.io/post/foreigner-thanks-secretary/">
+        <title type="html"><![CDATA[Way2Global 推出全球首个无碳本地化服务]]></title>
+        <id>https://nansey.github.io/post/way2global-launches-first-carbon-free-l10n-service/</id>
+        <link href="https://nansey.github.io/post/way2global-launches-first-carbon-free-l10n-service/">
         </link>
-        <updated>2021-01-12T07:34:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>“谢谢你，帮了我们大忙！”几天前，顺义胜利街道太平社区党总支书记王岩收到了一条英文感谢信息。发信人是社区里的外籍居民戴女士。疫情期间，王岩靠着翻译软件，帮戴女士一家解决了不少生活难题，暖心服务赢得了赞许。</p>
+        <updated>2021-01-12T07:35:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>经过两年的研发，<a href="https://www.way2global.com/">Way2Global</a> 推出了一个新的翻译概念，将其 Benefit Corporation 的精神融入其语言服务中。这家总部位于意大利的语言服务提供商，通过一个环境和循环经济内部系统，消除部分有害排放，并对其他排放进行补偿。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>“谢谢你，帮了我们大忙！”几天前，顺义胜利街道太平社区党总支书记王岩收到了一条英文感谢信息。发信人是社区里的外籍居民戴女士。疫情期间，王岩靠着翻译软件，帮戴女士一家解决了不少生活难题，暖心服务赢得了赞许。</p>
+        <content type="html"><![CDATA[<p>经过两年的研发，<a href="https://www.way2global.com/">Way2Global</a> 推出了一个新的翻译概念，将其 Benefit Corporation 的精神融入其语言服务中。这家总部位于意大利的语言服务提供商，通过一个环境和循环经济内部系统，消除部分有害排放，并对其他排放进行补偿。</p>
 <!-- more -->
-<p>戴女士一家三口来自菲律宾，平时用英文交流，说不好中文。1月初，受疫情影响，社区组织全体居民紧急开展核酸检测。王岩主动承担起了这户外籍居民的沟通工作。“简单的英文对话尚可，专业性强的英文真有些力不从心。”王岩专门下载了翻译软件，先把核酸检测的时间、地点和所需证件等信息翻译成英文，再发给戴女士。在王岩的帮助下，戴女士一家顺利完成了核酸检测。</p>
-<p>深夜，为社区疫情防控忙碌了一天的王岩刚睡下，手机又响起了提示音。“请问我们社区里有护士吗？”是戴女士发来的消息。担心戴女士一家有人身体出了状况，王岩立刻从床上爬起来回复：“是谁不舒服吗？发热吗？”“我的丈夫做了手术，需要一名护士上门来用药。”借着翻译软件的帮助，王岩把最近的卫生服务站的位置和电话都发了过去。戴女士很快就联系上了医生，问题迎刃而解。(<a href="http://bjrbdzb.bjd.com.cn/bjwb/mobile/2021/20210112/20210112_010/content_20210112_010_2.htm#page8">北京晚报</a>)</p>
+<p>尽管遭遇新冠，绿色翻译项目（Green Translations project）还是在2020年4月22日的地球日这天达到了碳中和。该项目通过让公司的整个供应商和客户网络参与进来，助力地球清洁。</p>
 ]]></content>
     </entry>
 </feed>
