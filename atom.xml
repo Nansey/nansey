@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-17T13:56:10.163Z</updated>
+    <updated>2021-01-18T04:17:25.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[聚焦《共产党宣言》首位译者的电影在复旦大学开机]]></title>
+        <id>https://nansey.github.io/post/film-to-celebrate-Manifesto-translator/</id>
+        <link href="https://nansey.github.io/post/film-to-celebrate-Manifesto-translator/">
+        </link>
+        <updated>2021-01-18T04:16:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>1920年，年仅29岁的<a href="https://zh.wikipedia.org/zh-hans/%E9%99%88%E6%9C%9B%E9%81%93">陈望道</a>翻译了首个中文全译本《<a href="https://zh.wikipedia.org/wiki/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80">共产党宣言</a>》。1月17日，聚焦这一事件全历程的电影《望道》在复旦大学<a href="https://www.shine.cn/news/metro/2101173345/">宣布开机</a>。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1920年，年仅29岁的<a href="https://zh.wikipedia.org/zh-hans/%E9%99%88%E6%9C%9B%E9%81%93">陈望道</a>翻译了首个中文全译本《<a href="https://zh.wikipedia.org/wiki/%E5%85%B1%E4%BA%A7%E5%85%9A%E5%AE%A3%E8%A8%80">共产党宣言</a>》。1月17日，聚焦这一事件全历程的电影《望道》在复旦大学<a href="https://www.shine.cn/news/metro/2101173345/">宣布开机</a>。</p>
+<!-- more -->
+<p>1891年1月18日，陈望道出生在浙江义乌分水塘。1920年，年仅29岁的他翻译了首个中文全译本《<a href="https://en.wikipedia.org/wiki/The_Communist_Manifesto">共产党宣言</a>》，激励了无数先进分子投身革命，为中国共产党的创立奠定了思想和理论基础。也是在这一年，陈望道开始在复旦大学任教，解放后，他成为复旦大学校长，25载寒暑见证他作为复旦历史上任职时间最长校长的辛勤耕耘。</p>
+<p>据上影集团董事长王健儿介绍，作为一部新主流影片，电影《望道》聚焦陈望道翻译首个《共产党宣言》中文全译本的历程，刻画了20世纪20年代以陈望道为代表的一批知识分子群像，将他们的个人命运融入建党、抗日、建国等宏大历史叙事。电影以陈望道先生的生平事迹为线索，以“心有所信，方能行远”为主题，努力讲好以陈望道为代表的青年知识分子追寻真理、坚守大道的青春故事，表达主流价值、体现历史厚重的同时兼具可看性。陈望道一生同青年学生并肩作战，电影《望道》也力求贴近学生，贴近青年。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊前工程师开发猫咪翻译App]]></title>
         <id>https://nansey.github.io/post/amazon-engineer-cat-translation-app/</id>
@@ -130,20 +144,6 @@
         <content type="html"><![CDATA[<p>美国语言学家、中国文学翻译家 Bruce Humes 在他的<a href="https://bruce-humes.com/2021/01/04/african-writing-in-chinese-translation-2020-round-up-and-a-peek-at-2021/">博客</a>中指出，目前已有来自超过100位非洲作家的238部作品被翻译成中文——自2018年初以来增加了63%，当时只有146部作品被翻译。</p>
 <!-- more -->
 <p>作为一位狂热的读者和语言学习者，在坦桑尼亚学习一段时间的斯瓦希里语后，Humes开始维护一份非洲作品的中文翻译<a href="https://bruce-humes.com/2020/11/22/%e9%9d%9e%e6%b4%b2%e6%96%87%e5%ad%a6%ef%bc%9a%e4%b8%ad%e6%96%87%e8%af%91%e6%9c%ac-african-writing-in-chinese-translation-2/">清单</a>。在2019年接受Quartz Africa采访时，Humes指出，Chimamanda Adichie是 &quot;迄今为止中国读者中最热门的非洲作家&quot;，她有6本书翻译成了中文。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海关总署批准“Chinese Baijiu”作为中国白酒的英译]]></title>
-        <id>https://nansey.github.io/post/chinese-baijiu-new-translation/</id>
-        <link href="https://nansey.github.io/post/chinese-baijiu-new-translation/">
-        </link>
-        <updated>2021-01-14T02:26:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>媒体报道，海关总署已经批准中国酒业协会的申请，正式采用他们建议的Chinese Baijiu作为中国白酒的英译。新的《中华人民共和国进出口税则》从2021年1月1日起<a href="http://www.gov.cn/xinwen/2020-12/31/content_5575816.htm">正式执行</a>，中文列目名称里的“白酒”，对应的英文是“Chinese Baijiu”。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>媒体报道，海关总署已经批准中国酒业协会的申请，正式采用他们建议的Chinese Baijiu作为中国白酒的英译。新的《中华人民共和国进出口税则》从2021年1月1日起<a href="http://www.gov.cn/xinwen/2020-12/31/content_5575816.htm">正式执行</a>，中文列目名称里的“白酒”，对应的英文是“Chinese Baijiu”。</p>
-<!-- more -->
-<p>中国酒业协会称，中国白酒与白兰地(Brandy)、威士忌(Whisky)、伏特加(Vodka)、朗姆酒(Rum) 和金酒(Gin)一起并称为世界六大蒸馏酒。白酒是中国的国粹，有两千多年的生产历史，所采用的是与西方完全不同的天然多菌种固态发酵、固态蒸馏、全生物质转化产品。但多年来，中国白酒缺乏一个官方的准确的英文名称， 造成海外消费者的困扰，比如Chinese spirits（中国白酒）, Chinese distilled spirits（中国蒸馏酒）, Chinese liquor（中国烈酒）等都称为“中国白酒”。</p>
-<p>東吳大學英文系副教授曾泰元在其<a href="https://mp.weixin.qq.com/s/P1WNXOMe1vCKY9ythm_EXw">文章</a>中指出，英国的《柯林斯英语词典》（Collins English Dictionary）早就收录了“<a href="https://www.collinsdictionary.com/dictionary/english/baijiu">baijiu</a>”一词。</p>
 ]]></content>
     </entry>
 </feed>
