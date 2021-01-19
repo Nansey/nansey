@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-19T10:24:15.022Z</updated>
+    <updated>2021-01-19T14:29:25.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[TransPerfect 2020年收入增长11%]]></title>
+        <id>https://nansey.github.io/post/transperfect-revenues-growth/</id>
+        <link href="https://nansey.github.io/post/transperfect-revenues-growth/">
+        </link>
+        <updated>2021-01-19T14:27:14.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://www.transperfect.com/">TransPerfect</a>报告的2020年全年收入数据显示这家总部位于纽约的语言服务提供商(LSP)运营状况良好，尽管它已将全球最大（按收入计算）的语言服务提供商的桂冠让给了<a href="https://www.rws.com/">RWS</a>。总裁兼首席执行官<a href="https://twitter.com/philshawe">Phil Shawe</a>表示，“TransPerfec的收入从2019年的7.64亿美元增长到2020年的8.52亿美元——增长11.5%，即8800万美元。”</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.transperfect.com/">TransPerfect</a>报告的2020年全年收入数据显示这家总部位于纽约的语言服务提供商(LSP)运营状况良好，尽管它已将全球最大（按收入计算）的语言服务提供商的桂冠让给了<a href="https://www.rws.com/">RWS</a>。总裁兼首席执行官<a href="https://twitter.com/philshawe">Phil Shawe</a>表示，“TransPerfec的收入从2019年的7.64亿美元增长到2020年的8.52亿美元——增长11.5%，即8800万美元。”</p>
+<!-- more -->
+<p>Shawe告诉<a href="https://slator.com/financial-results/transperfect-2020-revenues-grow-11-to-usd-852m-in-2020/">Slator</a>，“2019年或2020年并购的收入，为我们2020年贡献了4600万美元。这相当于我们8800万美元增长的一半还多(52%)。</p>
+<p>就增长地区而言，Shawe表示，2020年第三季度以来的趋势仍在保持；亚洲增长最快，其次是欧洲和美洲。Shawe将该公司在亚洲的高增长率归因于三个因素：历史、市场饱和和数学。他补充说，Transperfect在美国起家并保持近30年增长，目前在美洲有55个办事处，在欧洲有38个，在亚洲只有12个。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弗吉尼亚州卫生部官网现错误机译]]></title>
         <id>https://nansey.github.io/post/vdh-translation-not-necessary/</id>
@@ -136,20 +150,6 @@
 <!-- more -->
 <p>这是ATA历史上第一次推出分期支付计划，也是该组织主席 Ted Wozniak 所说的“针对因新冠大流行而导致财务危机的现任会员的一种福利。”据 ATA 12月30日的一条<a href="https://twitter.com/atanet/status/1344308270463410181?s=20">推文</a>，会员必须在线更新（续费）。ATA目前在103个国家拥有<a href="https://www.atanet.org/aboutus/about_ata.php">超过10000个机构和个人会员</a>。</p>
 <p>ATA调查显示，2020年自由职业者受到经济衰退的打击最大。13.9%的自由职业者每周至少有一顿饭被迫依靠食物赒济库（food banks）、宗教或社区团体、或者朋友和家人。相比之下，在经济衰退前，只有8.7%的工人而非自由职业者会这样做。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cecilia Maldonado 当选 Women in Localization 新主席]]></title>
-        <id>https://nansey.github.io/post/Cecilia-Maldonado-localization-president/</id>
-        <link href="https://nansey.github.io/post/Cecilia-Maldonado-localization-president/">
-        </link>
-        <updated>2021-01-16T03:14:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>阿根廷翻译行业领袖 Cecilia Maldonado 当选女性本地化组织（<a href="https://womeninlocalization.com/">Women in Localization</a>）新任主席，并开启她一年的任期。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>阿根廷翻译行业领袖 Cecilia Maldonado 当选女性本地化组织（<a href="https://womeninlocalization.com/">Women in Localization</a>）新任主席，并开启她一年的任期。</p>
-<!-- more -->
-<p>Women in Localization 成立于 2008 年，通过提供网络、教育、职业发展、指导和对女性成就的认可，致力于促进女性和行业发展，同时它也是一个非营利性组织。可免费申请会员资格，男性和女性均可加入。</p>
-<p>Maldonado 曾在2020年担任副主席，并在董事会最后一论投票会议上被确认为今年的新主席。作为本地化领域的知名人物，她曾与他人共同创办了广受欢迎的行业协会 <a href="https://translatedinargentina.com/">Translated in Argentina</a> 和 Think Latin America，该协会后来成为全球化和本地化协会（<a href="https://www.gala-global.org/">Globalization and Localization Association</a>）Think系列的一部分。Maldonado也是美国语言公司协会（<a href="https://www.alcus.org/">Association of Language Companies</a>）的活跃志愿者。</p>
 ]]></content>
     </entry>
 </feed>
