@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-19T10:18:28.551Z</updated>
+    <updated>2021-01-19T10:20:15.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -16,12 +16,11 @@
         <link href="https://nansey.github.io/post/vdh-translation-not-necessary/">
         </link>
         <updated>2021-01-19T10:15:15.000Z</updated>
-        <summary type="html"><![CDATA[<p>弗吉尼亚州卫生部<a href="https://www.vdh.virginia.gov/">官网</a>出现了一个错误的西班牙语谷歌翻译：COVID-19疫苗 是&quot;不必要的&quot;。</p>
+        <summary type="html"><![CDATA[<p>弗吉尼亚州卫生部<a href="https://www.vdh.virginia.gov/">官网</a>出现了一个错误的西班牙语谷歌翻译：COVID-19疫苗是&quot;不必要的&quot;。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>弗吉尼亚州卫生部<a href="https://www.vdh.virginia.gov/">官网</a>出现了一个错误的西班牙语谷歌翻译：COVID-19疫苗 是&quot;不必要的&quot;。</p>
+        <content type="html"><![CDATA[<p>弗吉尼亚州卫生部<a href="https://www.vdh.virginia.gov/">官网</a>出现了一个错误的西班牙语谷歌翻译：COVID-19疫苗是&quot;不必要的&quot;。</p>
 <!-- more -->
-<p>弗吉尼亚州疫苗接种咨询工作组的一名成员对错误翻译表达担忧后，《弗吉尼亚领航者》（The Virginian Pilot）周一首次<a href="https://www.pilotonline.com/news/health/vp-nw-coronavirus-virginia-vaccines-1b-20210111-z67qvueosvhrplfxsxggwii5qq-story.html">报道</a>了该问题。</p>
-<p>出现问题的翻译属于弗吉尼亚州卫生部'常见问题'（<a href="https://www.vdh.virginia.gov/covid-19-faq/vaccination/">FAQ</a>）页面的一部分，该页面将 &quot;疫苗不是必需的 &quot;翻译为 &quot;la vacuna no es necesaria&quot;——&quot;疫苗是不必要的&quot;。</p>
+<p>弗吉尼亚州疫苗接种咨询工作组的一名成员对错误翻译表达担忧后，《弗吉尼亚领航者》（The Virginian Pilot）周一首次<a href="https://www.pilotonline.com/news/health/vp-nw-coronavirus-virginia-vaccines-1b-20210111-z67qvueosvhrplfxsxggwii5qq-story.html">报道</a>了该问题。出现问题的翻译属于弗吉尼亚州卫生部'常见问题'（<a href="https://www.vdh.virginia.gov/covid-19-faq/vaccination/">FAQ</a>）页面的一部分，该页面将 &quot;疫苗不是必需的 &quot;翻译为 &quot;la vacuna no es necesaria&quot;——&quot;疫苗是不必要的&quot;。</p>
 <p>在整个大流行期间，弗吉尼亚州的拉美人<a href="https://www.vdh.virginia.gov/coronavirus/coronavirus/covid-19-in-virginia-demographics/">感染率</a>十分可怕。</p>
 ]]></content>
     </entry>
