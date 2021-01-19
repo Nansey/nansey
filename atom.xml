@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-19T08:16:00.760Z</updated>
+    <updated>2021-01-19T09:36:59.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[以色列小说首次译成阿语进入摩洛哥]]></title>
+        <id>https://nansey.github.io/post/first-Israeli-novel-into-Morocco/</id>
+        <link href="https://nansey.github.io/post/first-Israeli-novel-into-Morocco/">
+        </link>
+        <updated>2021-01-19T09:33:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>本月，由<a href="https://www.ithl.org.il/page_15450">Gabriel Bensimhon</a>教授撰写的以色列小说《穿蓝衬衫的女孩》（<a href="https://www.ithl.org.il/page_15452">Blue Shirt</a>）成为第一本译成阿拉伯语的希伯来语书籍，并将很快于摩洛哥各大书店销售。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>本月，由<a href="https://www.ithl.org.il/page_15450">Gabriel Bensimhon</a>教授撰写的以色列小说《穿蓝衬衫的女孩》（<a href="https://www.ithl.org.il/page_15452">Blue Shirt</a>）成为第一本译成阿拉伯语的希伯来语书籍，并将很快于摩洛哥各大书店销售。</p>
+<!-- more -->
+<p>这部小说出版于2013，讲述了一个来自摩洛哥的移民男孩与一个以色列出生的女孩之间的爱情故事，故事的背景是以色列国刚刚建国，摩洛哥的移民大量涌入。</p>
+<p>Bensimhon教授出生于摩洛哥，他说：&quot;我在摩洛哥的Sefrou镇长大，10岁时移民以色列。作为一名学者，我广泛地研究了摩洛哥文化。在我的心中，始终有一个温暖的角落，那就是丰富多彩的摩洛哥文化。作为一个摩洛哥犹太人，我觉得自己已经实现了一个梦想：我的作品在我的家乡被人阅读，这让我个人感到非常自豪。“</p>
+<p>去年十二月，以色列总理Benjamin Netanyahu曾亲自电话邀请摩洛哥国王穆罕默德六世<a href="https://www.jpost.com/middle-east/moroccan-delegation-to-arrive-in-israel-sunday-653350">访问</a>以色列。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memsource收购软件本地化平台Phrase]]></title>
         <id>https://nansey.github.io/post/Memsource-Acquires-Phrase/</id>
@@ -134,19 +149,6 @@
         <content type="html"><![CDATA[<p>据Nimdzi<a href="https://www.nimdzi.com/custom-machine-translation-evaluation/">报道</a>，<a href="https://inten.to/">Intento</a>开发了一款分析机器翻译(MT)结果的新产品<a href="https://spotlight.inten.to/">Spotlight</a>，产品主要面向那些训练定制机器翻译模型需要评估机器翻译质量的人。</p>
 <!-- more -->
 <p>Nimdzi称，Spotlight代表了一种快速而有效的MT评估方法，它能够聚焦于那些真正需要审核的部分。作为一个云端解决方案，用户可从<a href="https://console.inten.to/dashboard">Intento Console</a>按需使用。用户界面(UI)简单，用户只需上传测试集（包含源文本、参考翻译和不同MT模型翻译，目前只支持.xls或.xlsx格式的测试集，大小不超过10MB），从评估图中即可快速浏览训练结果，用户随后可在Spotlight中检查句对。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年第三十三届韩素音国际翻译大赛开放报名]]></title>
-        <id>https://nansey.github.io/post/hansuyin-contest-open/</id>
-        <link href="https://nansey.github.io/post/hansuyin-contest-open/">
-        </link>
-        <updated>2021-01-15T08:15:38.000Z</updated>
-        <summary type="html"><![CDATA[<p>由中国翻译协会、北京第二外国语学院联合主办，《中国翻译》编辑部与北京第二外国语学院高级翻译学院联合承办的2021年第三十三届韩素音国际翻译大赛即日起<a href="https://mp.weixin.qq.com/s/vONTjcRdnlssncC9ywidTQ">开放报名</a>。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>由中国翻译协会、北京第二外国语学院联合主办，《中国翻译》编辑部与北京第二外国语学院高级翻译学院联合承办的2021年第三十三届韩素音国际翻译大赛即日起<a href="https://mp.weixin.qq.com/s/vONTjcRdnlssncC9ywidTQ">开放报名</a>。</p>
-<!-- more -->
-<p>本届竞赛设立汉语与英语、法语、俄语、西班牙语、阿拉伯语、德语、日语、韩语8个语种的双向互译，共计16个比赛项目，参赛者可任选一项或同时参加多项竞赛。竞赛原文见中国翻译协会<a href="www.tac-online.org.cn">官网</a>“韩素音国际翻译大赛”专栏第三十三届中刊登的<a href="http://www.tac-online.org.cn/index.php?m=content&amp;c=index&amp;a=show&amp;catid=696&amp;id=3861">内容</a>。</p>
 ]]></content>
     </entry>
 </feed>
