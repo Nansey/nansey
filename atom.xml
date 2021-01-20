@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-19T14:29:25.355Z</updated>
+    <updated>2021-01-20T03:38:46.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[“爽言爽语”的翻译腔]]></title>
+        <id>https://nansey.github.io/post/zhengshuang-translationese/</id>
+        <link href="https://nansey.github.io/post/zhengshuang-translationese/">
+        </link>
+        <updated>2021-01-20T03:36:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>1月19日中午，郑爽发文<a href="http://weibointl.api.weibo.com/share/197451544.html?weibo_id=4595073046027785">回应</a>美国代孕风波，称此事是她“非常伤心和私密的事情，本不愿意多说，但事已至此，被别有用心的一步一步曝光，因此不得不有所回应”。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1月19日中午，郑爽发文<a href="http://weibointl.api.weibo.com/share/197451544.html?weibo_id=4595073046027785">回应</a>美国代孕风波，称此事是她“非常伤心和私密的事情，本不愿意多说，但事已至此，被别有用心的一步一步曝光，因此不得不有所回应”。</p>
+<!-- more -->
+<p>回应一出，众网友惊呼：这&quot;爽言爽语&quot; 风格的回应信，真是看不懂！特别是最后一句 “这就是我最真诚的回答”，味儿太浓了！还有网友说：吓我一跳，难道我的中文退步到幼儿园水平了吗？也有网友认为郑爽的回应好像外语用机器翻译过来的。果不其然，立马即有热心豆瓣网友将其声明使用机译翻成了<a href="https://www.douban.com/group/topic/208764588/">英文</a>，竟然异常地通顺。网友评价：郑爽赴美抛弃孩子，本人也有可能被自己的母语遗弃了。</p>
+<p>郑爽一直以来说话风格如此，顾左右而言他，文理不通，让人根本不知道说的是啥又觉得放在哪里皆可，而她的这次回应，已经被称为入行以来最规范的行文了。</p>
+<p>截止小编发文前，堪称21世纪的文言文“<a href="https://baike.baidu.com/item/%E7%88%BD%E8%A8%80%E7%88%BD%E8%AF%AD/53707482?fr=aladdin">爽言爽语</a>”已经拥有了自己的百度词条。</p>
+<p>（这的确是非常伤心和私密的事情，本不愿意多说，但事已至此，被吃瓜群众的热情感动，想了很久，还是推送一篇。至于如何避开翻译腔，推荐阅读余光中的这篇：《<a href="https://mp.weixin.qq.com/s/-3m0aU7YvWlIwiJuID4KhQ">怎样改进英式中文</a>》</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TransPerfect 2020年收入增长11%]]></title>
         <id>https://nansey.github.io/post/transperfect-revenues-growth/</id>
@@ -136,20 +152,6 @@
         <content type="html"><![CDATA[<p>顶级机器翻译（MT）研究人员最近的一篇论文揭示，定向搜索（<a href="https://en.wikipedia.org/wiki/Beam_search">beam search</a>）虽然是一种非常有效的提高<a href="https://en.wikipedia.org/wiki/BLEU">BLEU</a>（bilingual evaluation understudy，即双语替换评测，是用于评估自然语言的字句用机器翻译出来的品质的一种演算法）得分的方式，却会导致极高的性别代词错误率。</p>
 <!-- more -->
 <p>这篇发表于2020年11月的论文《机器翻译中的解码和多样性》（<a href="https://arxiv.org/abs/2011.13477">Decoding and Diversity in Machine Translation</a>）是由卡耐基梅隆大学的Graham Neubig、Nicholas Roberts和Zachary C. Lipton与亚马逊机器学习科学家Davis Liang合作完成。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATA 允许会员通过分期付款支付会费]]></title>
-        <id>https://nansey.github.io/post/ata-members-pay-installments/</id>
-        <link href="https://nansey.github.io/post/ata-members-pay-installments/">
-        </link>
-        <updated>2021-01-16T03:50:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>美国翻译协会（<a href="https://www.atanet.org/">ATA</a>）出台新规定，允许会员分两次支付会费：先付50%，接下来六个月内付清尾款。根据会员不同类型，每年的会费<a href="https://www.atanet.org/membership/renew_form.php">从89美元到492美元不等</a>。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>美国翻译协会（<a href="https://www.atanet.org/">ATA</a>）出台新规定，允许会员分两次支付会费：先付50%，接下来六个月内付清尾款。根据会员不同类型，每年的会费<a href="https://www.atanet.org/membership/renew_form.php">从89美元到492美元不等</a>。</p>
-<!-- more -->
-<p>这是ATA历史上第一次推出分期支付计划，也是该组织主席 Ted Wozniak 所说的“针对因新冠大流行而导致财务危机的现任会员的一种福利。”据 ATA 12月30日的一条<a href="https://twitter.com/atanet/status/1344308270463410181?s=20">推文</a>，会员必须在线更新（续费）。ATA目前在103个国家拥有<a href="https://www.atanet.org/aboutus/about_ata.php">超过10000个机构和个人会员</a>。</p>
-<p>ATA调查显示，2020年自由职业者受到经济衰退的打击最大。13.9%的自由职业者每周至少有一顿饭被迫依靠食物赒济库（food banks）、宗教或社区团体、或者朋友和家人。相比之下，在经济衰退前，只有8.7%的工人而非自由职业者会这样做。</p>
 ]]></content>
     </entry>
 </feed>
