@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-22T09:56:38.385Z</updated>
+    <updated>2021-01-22T10:17:35.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[新西兰LSP Straker收购Lingotek]]></title>
+        <id>https://nansey.github.io/post/Straker Acquires Lingotek/</id>
+        <link href="https://nansey.github.io/post/Straker Acquires Lingotek/">
+        </link>
+        <updated>2021-01-22T10:16:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>2021年1月21日，总部位于新西兰的语言服务提供商（LSP）Straker<a href="https://slator.com/ma-and-funding/straker-acquires-lingotek-for-up-to-usd-9-6m/">宣布</a>以现金和股票交易的方式收购Lingotek，后者是一家位于犹他州的翻译管理系统（TMS）提供商和语言服务提供商。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2021年1月21日，总部位于新西兰的语言服务提供商（LSP）Straker<a href="https://slator.com/ma-and-funding/straker-acquires-lingotek-for-up-to-usd-9-6m/">宣布</a>以现金和股票交易的方式收购Lingotek，后者是一家位于犹他州的翻译管理系统（TMS）提供商和语言服务提供商。</p>
+<!-- more -->
+<p>在悉尼上市的Straker（ASX：STG）将在交易结束时向Lingotek的所有者支付647万美元——527万美元现金和120万美元Straker股票。该交易预计将于2021年2月1日完成。此外，Straker将以现金支付高达313万美元的获利能力付款，条件是Lingotek 在两年内&quot;达到显著的超额收入和稳定的利润率&quot;。</p>
+<p>Lingotek创始人兼首席执行官Jeff Labrum将与其他高管如首席技术官Nick Ramond、产品总监Brad Ross和营收总监Greg Larsen一起加入Straker领导团队。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[疫情中东非小镇上的语言困境]]></title>
         <id>https://nansey.github.io/post/coronavirus-warnings-lost-failure-translate-in-uganda/</id>
@@ -152,20 +166,6 @@
 <p>这部小说出版于2013，讲述了一个来自摩洛哥的移民男孩与一个以色列出生的女孩之间的爱情故事，故事的背景是以色列刚刚建国，摩洛哥的移民大量涌入。</p>
 <p>Bensimhon教授出生于摩洛哥，他说：&quot;我在摩洛哥的Sefrou镇长大，10岁时移民以色列。作为一名学者，我广泛地研究了摩洛哥文化。在我的心中，始终有一个温暖的角落，那就是丰富多彩的摩洛哥文化。作为一个摩洛哥犹太人，我觉得自己已经实现了一个梦想：我的作品在我的家乡被人阅读，这让我个人感到非常自豪。“</p>
 <p>去年十二月，以色列总理Benjamin Netanyahu曾亲自电话邀请摩洛哥国王穆罕默德六世<a href="https://www.jpost.com/middle-east/moroccan-delegation-to-arrive-in-israel-sunday-653350">访问</a>以色列。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memsource收购软件本地化平台Phrase]]></title>
-        <id>https://nansey.github.io/post/Memsource-Acquires-Phrase/</id>
-        <link href="https://nansey.github.io/post/Memsource-Acquires-Phrase/">
-        </link>
-        <updated>2021-01-19T08:07:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>AI翻译管理系统<a href="https://www.memsource.com/">Memsource</a>与其大股东<a href="https://www.carlyle.com/">Carlyle集团</a>今天共同宣布收购软件本地化平台Phrase。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>AI翻译管理系统<a href="https://www.memsource.com/">Memsource</a>与其大股东<a href="https://www.carlyle.com/">Carlyle集团</a>今天共同宣布收购软件本地化平台Phrase。</p>
-<!-- more -->
-<p>Memsource总部位于捷克布拉格，是一家领先的翻译技术供应商，协助全球企业和语言服务行业实现大量多语种内容的自动本地化。该公司是人工智能驱动的翻译技术领导者，致力于让本地化更简单、更快、更具成本效益。Memsource翻译软件也被各行各业的领导品牌所使用，如Uber、Zendesk、Supercell和Vistaprint。</p>
-<p>此次<a href="https://slator.com/press-releases/memsource-acquires-phrase/">收购</a>使Memsource进一步扩大了产品线、地理版图和客户群。</p>
 ]]></content>
     </entry>
 </feed>
