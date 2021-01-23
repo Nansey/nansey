@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-23T05:28:14.989Z</updated>
+    <updated>2021-01-23T05:40:58.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[英国媒体本地化服务商Iyuno收购SDI Media]]></title>
+        <id>https://nansey.github.io/post/Iyuno-to-Acquire-Rival-SDI/</id>
+        <link href="https://nansey.github.io/post/Iyuno-to-Acquire-Rival-SDI/">
+        </link>
+        <updated>2021-01-23T05:39:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>2021年1月22日，英国媒体本地化服务商<a href="https://www.iyunomg.com/about">Iyuno Media Group</a>（简称Iyuno）<a href="https://www.prnewswire.com/in/news-releases/iyuno-media-group-enters-agreement-to-acquire-sdi-media-891400906.html">宣布</a>将收购其最大的竞争对手<a href="https://www.sdimedia.com/">SDI Media</a>。交易条款未披露。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2021年1月22日，英国媒体本地化服务商<a href="https://www.iyunomg.com/about">Iyuno Media Group</a>（简称Iyuno）<a href="https://www.prnewswire.com/in/news-releases/iyuno-media-group-enters-agreement-to-acquire-sdi-media-891400906.html">宣布</a>将收购其最大的竞争对手<a href="https://www.sdimedia.com/">SDI Media</a>。交易条款未披露。</p>
+<!-- more -->
+<p>一旦交易通过审核和批准，Iyuno将接管总部位于美国的SDI Media的全部所有权。SDI目前主要由其母公司Imagica集团控股，Imagica集团在2015年<a href="https://slator.com/ma-and-funding/sdi-media-parent-imagica-group-invests-in-pixelogic/">投资</a>了SDI。</p>
+<p>交易完成后，按营收计算，Iyuno将成为<a href="https://slator.com/language-service-provider-index/the-slator-2020-language-service-provider-index/">最大的</a>纯媒体本地化提供商，而这一头衔此前的所有者正是SDI Media。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧盟理事会翻译器打破新纪录]]></title>
         <id>https://nansey.github.io/post/German-EU-Council-Presidency-Translator/</id>
@@ -148,22 +162,6 @@
 <!-- more -->
 <p><a href="https://www.timekettle.co/blogs/news/timekettle-wt2-edge-translation-earbuds-redefined">Timekettle WT2 Edge</a>在全球有15个服务器，提供93种口音40种语言的实时低延迟翻译，据说准确率高达95%。全球最常用的7种语言甚至直接离线存储在WT2 Edge上，即使在没有网络连接的情况下也能提供翻译服务。</p>
 <p>耳机由6个业界领先的翻译引擎（DeepL、Google、Microsoft、iFlytek、AmiVoice和Hoya）以及Timekettle自己的翻译引擎提供翻译。只需戴上耳机，就可以在 3 种不同的模式下使用。模拟模式 &quot;可让你与谈话对象共享一个耳塞，两个耳塞作为独立的翻译器工作，实时主动翻译和输入输出。对于较短的对话，可以使用&quot;扬声器模式 &quot;，只需对着耳机说话，手机自动为对面的人翻译和播放。第三种 &quot;触摸模式 &quot;则方便了跨文化交流，通过触碰耳机激活（并使其他人静音），好比一个智能对讲机，可同时为6个人实时语音翻译。除了 &quot;触摸模式 &quot;功能外，WT2 Edge还可以实现30个人同时使用30种不同语言进行群聊。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“爽言爽语”的翻译腔]]></title>
-        <id>https://nansey.github.io/post/zhengshuang-translationese/</id>
-        <link href="https://nansey.github.io/post/zhengshuang-translationese/">
-        </link>
-        <updated>2021-01-20T03:36:52.000Z</updated>
-        <summary type="html"><![CDATA[<p>1月19日中午，郑爽发文<a href="http://weibointl.api.weibo.com/share/197451544.html?weibo_id=4595073046027785">回应</a>美国代孕风波，称此事是她“非常伤心和私密的事情，本不愿意多说，但事已至此，被别有用心的一步一步曝光，因此不得不有所回应”。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>1月19日中午，郑爽发文<a href="http://weibointl.api.weibo.com/share/197451544.html?weibo_id=4595073046027785">回应</a>美国代孕风波，称此事是她“非常伤心和私密的事情，本不愿意多说，但事已至此，被别有用心的一步一步曝光，因此不得不有所回应”。</p>
-<!-- more -->
-<p>回应一出，众网友惊呼：这&quot;爽言爽语&quot; 风格的回应信，真是看不懂！特别是最后一句 “这就是我最真诚的回答”，味儿太浓了！还有网友说：吓我一跳，难道我的中文退步到幼儿园水平了吗？也有网友认为郑爽的回应好像外语用机器翻译过来的。果不其然，立马即有热心豆瓣网友将其声明使用机译翻成了<a href="https://www.douban.com/group/topic/208764588/">英文</a>，竟然异常地通顺。网友评价：郑爽赴美抛弃孩子，本人也有可能被自己的母语遗弃了。</p>
-<p>郑爽一直以来说话风格如此，顾左右而言他，文理不通，让人根本不知道说的是啥又觉得放在哪里皆可，而她的这次回应，已经被称为入行以来最规范的行文了。</p>
-<p>截止小编发文前，堪称21世纪的文言文“<a href="https://baike.baidu.com/item/%E7%88%BD%E8%A8%80%E7%88%BD%E8%AF%AD/53707482?fr=aladdin">爽言爽语</a>”已经拥有了自己的百度词条。</p>
-<p>（这的确是非常伤心和私密的事情，本不愿意多说，但事已至此，被吃瓜群众的热情感动，想了很久，还是推送一篇。至于如何避开翻译腔，推荐阅读余光中的这篇《<a href="https://mp.weixin.qq.com/s/-3m0aU7YvWlIwiJuID4KhQ">怎样改进英式中文</a>》。）</p>
 ]]></content>
     </entry>
 </feed>
