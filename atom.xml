@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-24T02:47:54.263Z</updated>
+    <updated>2021-01-24T02:53:11.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -56,7 +56,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为英军带路的伊拉克翻译遭遇死亡威胁]]></title>
+        <title type="html"><![CDATA[为英军“带路”的伊拉克翻译遭遇死亡威胁]]></title>
         <id>https://nansey.github.io/post/Iraqi-interpreters-stalked-helpi-British/</id>
         <link href="https://nansey.github.io/post/Iraqi-interpreters-stalked-helpi-British/">
         </link>
