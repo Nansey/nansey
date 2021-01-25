@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-25T01:46:55.782Z</updated>
+    <updated>2021-01-25T01:53:32.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[日本初创企业开发出智能翻译口罩]]></title>
+        <id>https://nansey.github.io/post/jp-company-smart-translation-mask/</id>
+        <link href="https://nansey.github.io/post/jp-company-smart-translation-mask/">
+        </link>
+        <updated>2021-01-25T01:53:09.000Z</updated>
+        <content type="html"><![CDATA[<p>日本初创企业Donut Robotics就开发出了一款智能口罩“<a href="https://www.donutrobotics.com/c-mask">C-FACE</a>”，它能够将佩戴者说的话转变成文字，还能翻译成八种语音。</p>
+<p>据日经中文网<a href="https://cn.nikkei.com/industry/scienceatechnology/43521-2021-01-21-04-00-02.html">报道</a>，该口罩的佩戴方式是叠加在普通口罩上的，将口罩的挂耳绳从两端的孔中穿过后进行固定。它通过口罩内置的麦克风收集佩戴者说的话，然后经由蓝牙连接传输到智能手机，这样就可以达到将语音转换成文字并且进行翻译的效果了，它能翻译成中英等8种语言。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[26岁美国手语译员死于COVID-19]]></title>
         <id>https://nansey.github.io/post/26-sui-mei-guo-shou-yu-yi-yuan-si-yu-covid-19/</id>
@@ -155,33 +165,6 @@
 <!-- more -->
 <p>在悉尼上市的Straker（ASX：STG）将在交易结束时向Lingotek的所有者支付647万美元——527万美元现金和120万美元Straker股票。该交易预计将于2021年2月1日完成。此外，Straker将以现金支付高达313万美元的获利能力付款，条件是Lingotek 在两年内&quot;达到显著的超额收入和稳定的利润率&quot;。</p>
 <p>Lingotek创始人兼首席执行官Jeff Labrum将与其他高管如首席技术官Nick Ramond、产品总监Brad Ross和营收总监Greg Larsen一起加入Straker领导团队。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疫情中东非小镇上的语言困境]]></title>
-        <id>https://nansey.github.io/post/coronavirus-warnings-lost-failure-translate-in-uganda/</id>
-        <link href="https://nansey.github.io/post/coronavirus-warnings-lost-failure-translate-in-uganda/">
-        </link>
-        <updated>2021-01-22T09:06:15.000Z</updated>
-        <summary type="html"><![CDATA[<p>最近的一个傍晚，基旺加村（Kiwanga village）贸易市场的小卖部里，Joyce Abalo一边等待顾客，一边分拣着地瓜，小卖部的周边散落着超市、餐馆和其他商贩。街上人来人往，人们使用卢干达语聊天。这是乌干达的主要语言之一。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>最近的一个傍晚，基旺加村（Kiwanga village）贸易市场的小卖部里，Joyce Abalo一边等待顾客，一边分拣着地瓜，小卖部的周边散落着超市、餐馆和其他商贩。街上人来人往，人们使用卢干达语聊天。这是乌干达的主要语言之一。</p>
-<!-- more -->
-<p>在首都坎帕拉以东25英里的穆科诺区（Mukono District），这个乌干达中部的村庄里，100米之外即是地方议会主席的家。屋前的喇叭中聒噪地播放着录制好的COVID-19信息：&quot;请洗手，保持社交距离。&quot; 同样是用卢干达语。</p>
-<p>问题来了：54岁的Abalo并不会说卢干达语。</p>
-<p>因此，COVID-19信息的大众传播形式——包括海报和总统演讲——都让她感到困惑。&quot;我15岁的女儿不得不为我翻译这些信息，&quot;Abalo说。她是一个有六个孩子的单身母亲。&quot;直到现在，我仍然搞不明白这种疾病是怎么回事。&quot;</p>
-<p>在这个拥有4100多万人口的东非国家，Abalo的困境并不足为奇。该国已经确诊了超过3.8万COVID-19病例，并有300多人死亡。</p>
-<p>3月疫情爆发时，政府制作了电视和广播广告，并在乌干达的城市、城镇和乡村到处贴满了五颜六色的海报。COVID-19的提醒和指南主要以英语和卢干达语发布，这也是该国最流行的两种语言。</p>
-<p>由于缺乏现行数据，鲜有人知道到底有多少乌干达人会讲该国宪法承认的其他50多种语言。但显而易见的是，一些乌干达人，比如Abalo，因为不了解情况，又感到困惑，不得不找人翻译这些信息。</p>
-<p>&quot;没有任何人来协调将COVID-19信息翻译成当地语言，&quot;坎帕拉马凯雷雷大学（Makerere University）语言、文学和传播学院的协调员Jane Frances Alowo说，&quot;毫无传播策略&quot;。</p>
-<p>马凯雷雷大学的一个研究小组发现，许多不会说英语和卢干达语的乌干达社区对冠状病毒都知之甚少。</p>
-<p>他们的研究还发现了另一个重大挑战。诸如 &quot;自来水&quot;、&quot;消毒 &quot;和 &quot;社交距离&quot;等短语均无法直接翻译。</p>
-<p>&quot;在翻译时，为了引起注意，我们需要将关键术语本地化。&quot;研究团队的另一名成员、马凯雷雷大学（Makerere University）语言学系的讲师Sarah Nakijoba说。</p>
-<p>他们既不能用文字也不能用标志来表示 &quot;消毒液&quot;，因为这个概念对许多农村居民来说是陌生的。对于 &quot;自来水&quot;，他们使用了一个标志——一个人用罐子里的水洗手——这是一个熟悉的仪式，特别是对乌干达的农村人来说。</p>
-<p>Abalo来自阿乔利部落（Acholi tribe），25年前搬到乌干达中部。她性格乐观，谈笑风生。除了母语，她也会说基本的英语和斯瓦希里语。她说她从来没有学过卢干达语，因为和阿乔利语非常不同，卢干达语的单词太长啦。</p>
-<p>她表示自己也很想遵守COVID-19的命令。但是看不懂。&quot;COVID-19信息需要翻译，这样我才能理解，才能知道如何保护自己&quot;Abalo说。</p>
-<p>她说COVID-19的症状似乎和疟疾的症状很像：头痛、疲劳、发烧。</p>
-<p>她生病的时候会问，&quot;我怎么才能知道我是不是得了新冠呢？&quot;（<a href="https://globalpressjournal.com/africa/uganda/coronavirus-warnings-lost-failure-translate/">来源</a>）</p>
 ]]></content>
     </entry>
 </feed>
