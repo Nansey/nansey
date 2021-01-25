@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-25T03:24:43.535Z</updated>
+    <updated>2021-01-25T03:30:03.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="https://nansey.github.io/post/Iranian-translator-mahmud-kianush-obituary/">
         </link>
         <updated>2021-01-25T03:19:14.000Z</updated>
-        <content type="html"><![CDATA[<p>据英国《卫报》<a href="https://www.theguardian.com/books/2021/jan/24/mahmud-kianush-obituary">报道</a>，伊朗诗人、作家和翻译家Mahmud Kianush已于<a href="https://www.wikidata.org/wiki/Q5956571">2021年1月12日</a>去世，享年86岁。自1974年以来，他一直在伦敦生活和工作。Kianush将许多伊朗现代诗歌翻译成英文，在向伊朗人介绍英国文学方面也发挥了重要作用。</p>
+        <summary type="html"><![CDATA[<p>据英国《卫报》<a href="https://www.theguardian.com/books/2021/jan/24/mahmud-kianush-obituary">报道</a>，伊朗诗人、作家和翻译家Mahmud Kianush已于<a href="https://www.wikidata.org/wiki/Q5956571">2021年1月12日</a>去世，享年86岁。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据英国《卫报》<a href="https://www.theguardian.com/books/2021/jan/24/mahmud-kianush-obituary">报道</a>，伊朗诗人、作家和翻译家Mahmud Kianush已于<a href="https://www.wikidata.org/wiki/Q5956571">2021年1月12日</a>去世，享年86岁。</p>
+<!-- more -->
+<p>自1974年以来，他一直在伦敦生活和工作。Kianush将许多伊朗现代诗歌翻译成英文，在向伊朗人介绍英国文学方面也发挥了重要作用。</p>
 <p>Kianush出生在伊朗西部的马沙德（Mashad）。12岁时全家搬到德黑兰，十几岁就开始写作，并且发表诗歌和短篇小说。他的父亲是个商人，目不识丁，却能说会道。</p>
 <p>Kianush曾在德黑兰大学学习英语，这使他得以进入英国文学的世界，并开启了他的翻译生涯。1959年，他与同是作家和翻译家的Pari Mansouri结婚。但妻子去年也因新冠不幸去世。</p>
 ]]></content>
