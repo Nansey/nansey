@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-25T03:30:27.866Z</updated>
+    <updated>2021-01-25T03:31:07.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -31,7 +31,10 @@
         <link href="https://nansey.github.io/post/jp-company-smart-translation-mask/">
         </link>
         <updated>2021-01-25T01:53:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>日本初创企业Donut Robotics就开发出了一款智能口罩“<a href="https://www.donutrobotics.com/c-mask">C-FACE</a>”，它能够将佩戴者说的话转变成文字，还能翻译成八种语音。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>日本初创企业Donut Robotics就开发出了一款智能口罩“<a href="https://www.donutrobotics.com/c-mask">C-FACE</a>”，它能够将佩戴者说的话转变成文字，还能翻译成八种语音。</p>
+<!-- more -->
 <p>据日经中文网<a href="https://cn.nikkei.com/industry/scienceatechnology/43521-2021-01-21-04-00-02.html">报道</a>，该口罩的佩戴方式是叠加在普通口罩上的，将口罩的挂耳绳从两端的孔中穿过后进行固定。它通过口罩内置的麦克风收集佩戴者说的话，然后经由蓝牙连接传输到智能手机，这样就可以达到将语音转换成文字并且进行翻译的效果了，它能翻译成中英等8种语言。</p>
 ]]></content>
     </entry>
