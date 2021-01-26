@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-25T10:30:39.926Z</updated>
+    <updated>2021-01-26T02:56:17.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[身残志坚却心怀翻译梦]]></title>
+        <id>https://nansey.github.io/post/zhengbeikun-translation-story/</id>
+        <link href="https://nansey.github.io/post/zhengbeikun-translation-story/">
+        </link>
+        <updated>2021-01-26T02:55:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>23岁的郑倍昆患有先天性大脑性麻痹症，但身体上的局限并不阻碍他追求梦想。目前从事游戏翻译工作的他，计划研究障碍学和比较文学的结合，希望激发年轻一代反思社会对残障人士的态度。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>23岁的郑倍昆患有先天性大脑性麻痹症，但身体上的局限并不阻碍他追求梦想。目前从事游戏翻译工作的他，计划研究障碍学和比较文学的结合，希望激发年轻一代反思社会对残障人士的态度。</p>
+<!-- more -->
+<p>在疫情的冲击下，应届毕业生想要从事喜爱的工作，甚至连就职本身都面对不小的考验。去年刚从南洋理工大学毕业，主修英文，辅修翻译的郑倍昆如同许多刚毕业的学生，投了多份履历，才找到目前在游戏公司的工作，负责公司中文游戏的英文翻译。</p>
+<p>在念初院时，郑倍昆修读中英文学，而他所属的神之心教会的牧师得知他的主修，也让他尝试翻译讲道等资料，郑倍昆意识到不应被自己的情况所束缚，欣然接受牧师委托的工作，开启了翻译生涯。</p>
+<p>上大学时，郑倍昆逐渐萌生从事专业翻译的念头，还报读翻译辅修。他坦言：“父母之前一直担心我毕业后找不到稳定工作，不仅是疫情当前，也因为新加坡市场小，大部分当翻译的都是兼职，薪金不多。”然而，他相信在教会做翻译所累积的经验，多少有助于他在去年8月找到这份工资合理的全职专业翻译工作。</p>
+<p>获知游戏公司决定聘请他时，他与母亲都感到十分雀跃。（<a href="https://www.zaobao.com.sg/zlifestyle/trending/story20210120-1117664">来源</a>）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《心灵奇旅》本土化引发种族主义争议]]></title>
         <id>https://nansey.github.io/post/soul-localization-cause-racialism/</id>
@@ -157,20 +173,6 @@
 <!-- more -->
 <p>德国轮值主席国期间的翻译量相当于1949卷《哈利波特》，而对于一个产量极高的人工译者来说，要完成这么大的翻译量需要290年。</p>
 <p>欧盟理事会轮值主席国翻译器（（EU Council Presidency Translator）是为德国欧盟理事会轮值主席国（German EU Council Presidency）开发的机器翻译系统。该翻译工具公开免费。其系统基于人工智能，促进了跨语言、跨国界的信息交流。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本将投资110亿日元开发AI翻译程序]]></title>
-        <id>https://nansey.github.io/post/japan-invest-ai-translation/</id>
-        <link href="https://nansey.github.io/post/japan-invest-ai-translation/">
-        </link>
-        <updated>2021-01-23T05:09:37.000Z</updated>
-        <summary type="html"><![CDATA[<p>据日经中文网<a href="https://www.sohu.com/a/446081735_561670">消息</a>，日本总务省将投资约110亿日元着手开发使用人工智能(AI)的多语言同时翻译程序。力争到2025年前完成开发，并在2025年举行的大阪世博会上投入实用。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据日经中文网<a href="https://www.sohu.com/a/446081735_561670">消息</a>，日本总务省将投资约110亿日元着手开发使用人工智能(AI)的多语言同时翻译程序。力争到2025年前完成开发，并在2025年举行的大阪世博会上投入实用。</p>
-<!-- more -->
-<p>报道称，日本总务省将强化下属的国立研究开发法人“日本情报通信研究机构(NICT)”的Universal Communication研究所的AI相关设施，负责具体开发工作。已经在日本的第3次补充预算案中计入了约113亿日元的相关费用。</p>
-<p>报道提到，现有的翻译程序以翻译短句和简短对话为主。日本总务省将开发能顺畅翻译演讲等长时间语音的程序。还将提高与人对话程序的准确度，例如开发未来搭载在机器人等设备上、可根据与老年人的日常会话感知其身体状况变化的技术。</p>
 ]]></content>
     </entry>
 </feed>
