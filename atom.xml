@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-26T02:56:17.399Z</updated>
+    <updated>2021-01-26T03:14:30.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[《联合早报》社论批新政府：提高翻译水平须先正视问题]]></title>
+        <id>https://nansey.github.io/post/zaobao-translation-editorial/</id>
+        <link href="https://nansey.github.io/post/zaobao-translation-editorial/">
+        </link>
+        <updated>2021-01-26T03:13:57.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://www.zaobao.com.sg/zopinions/editorial/story20210121-1118019">社论</a>指出，在新加坡的多语社会，翻译文字的错误却层出不穷，就以华文翻译而言，语文弊病与笑话时有所闻。新政府几天前公布提升政府公文翻译水平的<a href="https://fanyi.news/post/Singapore-hire-citizen-translator/">三大策略</a>，也点出了当局在这方面所面临的困境。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.zaobao.com.sg/zopinions/editorial/story20210121-1118019">社论</a>指出，在新加坡的多语社会，翻译文字的错误却层出不穷，就以华文翻译而言，语文弊病与笑话时有所闻。新政府几天前公布提升政府公文翻译水平的<a href="https://fanyi.news/post/Singapore-hire-citizen-translator/">三大策略</a>，也点出了当局在这方面所面临的困境。</p>
+<!-- more -->
+<p>通讯及新闻部的翻译部门雇有30个职员，主要负责“最关键”的翻译任务。据最新统计，政府每月平均需要翻译的项目大约有550个，总字数超过30万。政府目前有与值得信赖的翻译公司签订周期性合同，把翻译项目外包出去。在时间压力下要完成大量内容的翻译和审核工作，对于确保翻译质量是个巨大的挑战。</p>
+<p>社论指出，政府出台的新政策新措施，经常涉及专门术语，要翻译成容易理解，易于广泛宣传的其他官方语言，具有一定的难度。更普遍的问题是，错误往往出在把关与问责的关键上。政府应以身作则，通讯及新闻部的翻译部门犹如政府机构的“中央翻译”，责任重大，即使只是负责“最关键”的翻译，也不胜负荷。政府提出三大策略改善翻译质量，也应该同时加重这方面的人力与资金的投入。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[身残志坚却心怀翻译梦]]></title>
         <id>https://nansey.github.io/post/zhengbeikun-translation-story/</id>
@@ -159,20 +173,6 @@
 <!-- more -->
 <p>一旦交易通过审核和批准，Iyuno将接管总部位于美国的SDI Media的全部所有权。SDI目前主要由其母公司Imagica集团控股，Imagica集团在2015年<a href="https://slator.com/ma-and-funding/sdi-media-parent-imagica-group-invests-in-pixelogic/">投资</a>了SDI。</p>
 <p>交易完成后，按营收计算，Iyuno将成为<a href="https://slator.com/language-service-provider-index/the-slator-2020-language-service-provider-index/">最大的</a>纯媒体本地化提供商，而这一头衔此前的所有者正是SDI Media。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟理事会翻译器打破新纪录]]></title>
-        <id>https://nansey.github.io/post/German-EU-Council-Presidency-Translator/</id>
-        <link href="https://nansey.github.io/post/German-EU-Council-Presidency-Translator/">
-        </link>
-        <updated>2021-01-23T05:27:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>作为德国欧盟理事会轮值主席国（Germany’s Presidency of the Council of the European Union）的一部分，在2020年下半年，欧盟理事会轮值主席国翻译器（<a href="https://presidencymt.eu/page/about">EU Council Presidency Translator</a>）帮助克服了语言障碍，翻译了超过<a href="https://slator.com/press-releases/150-million-words-translated-the-german-eu-council-presidency-translator-sets-new-records/">1.5亿字</a>！这是去年同期的10倍。这种多语言交流工具已在139个国家投入使用，翻译量比前六届欧盟理事会轮值主席国的翻译量总和还要多。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>作为德国欧盟理事会轮值主席国（Germany’s Presidency of the Council of the European Union）的一部分，在2020年下半年，欧盟理事会轮值主席国翻译器（<a href="https://presidencymt.eu/page/about">EU Council Presidency Translator</a>）帮助克服了语言障碍，翻译了超过<a href="https://slator.com/press-releases/150-million-words-translated-the-german-eu-council-presidency-translator-sets-new-records/">1.5亿字</a>！这是去年同期的10倍。这种多语言交流工具已在139个国家投入使用，翻译量比前六届欧盟理事会轮值主席国的翻译量总和还要多。</p>
-<!-- more -->
-<p>德国轮值主席国期间的翻译量相当于1949卷《哈利波特》，而对于一个产量极高的人工译者来说，要完成这么大的翻译量需要290年。</p>
-<p>欧盟理事会轮值主席国翻译器（（EU Council Presidency Translator）是为德国欧盟理事会轮值主席国（German EU Council Presidency）开发的机器翻译系统。该翻译工具公开免费。其系统基于人工智能，促进了跨语言、跨国界的信息交流。</p>
 ]]></content>
     </entry>
 </feed>
