@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-28T05:38:11.658Z</updated>
+    <updated>2021-01-28T05:47:17.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -16,9 +16,9 @@
         <link href="https://nansey.github.io/post/wara-machine-translation/">
         </link>
         <updated>2021-01-28T05:36:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>生草翻译是网友们基于谷歌翻译、百度翻译等翻译器创造的一种恶搞内容的生产模式。网友口中的“<a href="https://search.bilibili.com/all?keyword=%E7%94%9F%E8%8D%89%E7%BF%BB%E8%AF%91%E5%99%A8&amp;from_source=video_tag">生草翻译器</a>”并不是一个专门的软件，而是一套制作流程。在这套流程操作下，一切翻译器都可以用来“<a href="https://jikipedia.com/definition/612822860">生草</a>”。</p>
+        <summary type="html"><![CDATA[<p>生草翻译是网友们基于<a href="https://translate.google.com/">谷歌翻译</a>、<a href="https://fanyi.baidu.com/#zh/en/">百度翻译</a>等翻译器创造的一种恶搞内容的生产模式。网友口中的“<a href="https://search.bilibili.com/all?keyword=%E7%94%9F%E8%8D%89%E7%BF%BB%E8%AF%91%E5%99%A8&amp;from_source=video_tag">生草翻译器</a>”并不是一个专门的软件，而是一套制作流程。在这套流程操作下，一切翻译器都可以用来“<a href="https://jikipedia.com/definition/612822860">生草</a>”。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>生草翻译是网友们基于谷歌翻译、百度翻译等翻译器创造的一种恶搞内容的生产模式。网友口中的“<a href="https://search.bilibili.com/all?keyword=%E7%94%9F%E8%8D%89%E7%BF%BB%E8%AF%91%E5%99%A8&amp;from_source=video_tag">生草翻译器</a>”并不是一个专门的软件，而是一套制作流程。在这套流程操作下，一切翻译器都可以用来“<a href="https://jikipedia.com/definition/612822860">生草</a>”。</p>
+        <content type="html"><![CDATA[<p>生草翻译是网友们基于<a href="https://translate.google.com/">谷歌翻译</a>、<a href="https://fanyi.baidu.com/#zh/en/">百度翻译</a>等翻译器创造的一种恶搞内容的生产模式。网友口中的“<a href="https://search.bilibili.com/all?keyword=%E7%94%9F%E8%8D%89%E7%BF%BB%E8%AF%91%E5%99%A8&amp;from_source=video_tag">生草翻译器</a>”并不是一个专门的软件，而是一套制作流程。在这套流程操作下，一切翻译器都可以用来“<a href="https://jikipedia.com/definition/612822860">生草</a>”。</p>
 <!-- more -->
 <p>方法很简单。比如，打开任何一个翻译工具，将歌词或文字依照中、英、日、韩、法的顺序循环翻译20次，最后翻回中文即可。国内“生草翻译视频”的头部制作者，是在B站拥有38.6万粉丝的“<a href="https://space.bilibili.com/39492344/">鹰目大人</a>”，代表作为“谷歌翻译20次鲁迅《狂人日记》中的经典<a href="https://www.bilibili.com/video/BV1nK4y1r75x">‘吃人’片段</a>”。</p>
 <p>在此过程中，一切在互联网上不能爬取到充足语料的文本，都属于低资源范畴。巧妇难为无米之炊，“没有样例语料”就是翻译AI的死穴。让AI翻译连人类翻译家都怵的内容，UP主们简直是在玩赛博虐待。</p>
