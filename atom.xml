@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-27T11:40:55.405Z</updated>
+    <updated>2021-01-28T01:54:37.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[Google Translate更新其实时语音翻译]]></title>
+        <id>https://nansey.github.io/post/Google-Translate-Live-Speech-Translation-update/</id>
+        <link href="https://nansey.github.io/post/Google-Translate-Live-Speech-Translation-update/">
+        </link>
+        <updated>2021-01-28T01:54:04.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://translate.google.com/">Google Translate</a>针对其实时语音翻译（Live Speech Translation）进行了几个方面的<a href="https://ai.googleblog.com/2021/01/stabilizing-live-speech-translation-in.html">优化更新</a>。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://translate.google.com/">Google Translate</a>针对其实时语音翻译（Live Speech Translation）进行了几个方面的<a href="https://ai.googleblog.com/2021/01/stabilizing-live-speech-translation-in.html">优化更新</a>。</p>
+<!-- more -->
+<p>翻译功能得以改进，实时翻译更加准确。此次更新还带来了更好的用户体验，减少了翻译的错误。更新同样降低了闪退，以及在 &quot;多人发言时，实现更好的转录&quot;。</p>
+<p>实时语音翻译（Live Speech Translation）常用于演讲或会议等现场活动，也可用于午餐或晚餐的日常对话中。如果你不会说或不懂某种语言，同样可以使用这个工具。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讣告：伊朗诗人、翻译家Abbas Saffari去世]]></title>
         <id>https://nansey.github.io/post/obituary-Abbas-Saffari/</id>
@@ -142,19 +156,6 @@
 <!-- more -->
 <p>全国各高校各专业在校专科生、本科生、硕士生及博士生均可报名参赛，比赛不限专业和年级。大赛为英语笔译竞赛，分为“汉译英”与“英译汉”两个科目，参赛选手可同时报名参加“汉译英”和“英译汉”两项比赛，也可选择其中一项参加。报名截止时间为2021年2月20日12:00。</p>
 <p>详细的大赛相关信息请参考第三届全国专利翻译大赛组委会<a href="https://dasai.ygym.com/zhuanli/dsj/">官网</a>。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本初创企业开发出智能翻译口罩]]></title>
-        <id>https://nansey.github.io/post/jp-company-smart-translation-mask/</id>
-        <link href="https://nansey.github.io/post/jp-company-smart-translation-mask/">
-        </link>
-        <updated>2021-01-25T01:53:09.000Z</updated>
-        <summary type="html"><![CDATA[<p>日本初创企业Donut Robotics就开发出了一款智能口罩“<a href="https://www.donutrobotics.com/c-mask">C-FACE</a>”，它能够将佩戴者说的话转变成文字，还能翻译成八种语音。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>日本初创企业Donut Robotics就开发出了一款智能口罩“<a href="https://www.donutrobotics.com/c-mask">C-FACE</a>”，它能够将佩戴者说的话转变成文字，还能翻译成八种语音。</p>
-<!-- more -->
-<p>据日经中文网<a href="https://cn.nikkei.com/industry/scienceatechnology/43521-2021-01-21-04-00-02.html">报道</a>，该口罩的佩戴方式是叠加在普通口罩上的，将口罩的挂耳绳从两端的孔中穿过后进行固定。它通过口罩内置的麦克风收集佩戴者说的话，然后经由蓝牙连接传输到智能手机，这样就可以达到将语音转换成文字并且进行翻译的效果了，它能翻译成中英等8种语言。</p>
 ]]></content>
     </entry>
 </feed>
