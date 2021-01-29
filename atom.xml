@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-29T09:32:26.179Z</updated>
+    <updated>2021-01-29T10:32:03.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[Facebook AI开源新的多语言自动语音识别数据集]]></title>
+        <id>https://nansey.github.io/post/Facebook-Open-Sources-New-Multilingual-Automatic-Speech-Recognition-Data-Set/</id>
+        <link href="https://nansey.github.io/post/Facebook-Open-Sources-New-Multilingual-Automatic-Speech-Recognition-Data-Set/">
+        </link>
+        <updated>2021-01-29T10:31:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>2021年1月22日，Facebook AI发布了多语种<a href="https://ieeexplore.ieee.org/document/7178964">LibriSpeech</a>（MLS），这是一个新的推进自动语音识别（<a href="http://www.iitg.ac.in/samudravijaya/tutorials/asrTutorial.pdf">ASR</a>）研究的大规模开源数据集。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2021年1月22日，Facebook AI发布了多语种<a href="https://ieeexplore.ieee.org/document/7178964">LibriSpeech</a>（MLS），这是一个新的推进自动语音识别（<a href="http://www.iitg.ac.in/samudravijaya/tutorials/asrTutorial.pdf">ASR</a>）研究的大规模开源数据集。</p>
+<!-- more -->
+<p>据介绍MLS的官方<a href="https://ai.facebook.com/blog/a-new-open-data-set-for-multilingual-speech-research/">博客</a>，其英文数据集比原来的<a href="https://ieeexplore.ieee.org/document/7178964">LibriSpeech</a>大了约47倍，这个语料库包含了1000小时的英语阅读量。</p>
+<p>与LibriSpeech一样，MLS的内容也来自<a href="https://librivox.org/">LibriVox</a>项目的公共领域有声读物，该项目提供了广泛的音频，并允许Facebook AI以非限制性许可的方式发布数据。</p>
+<p>Facebook AI博客<a href="https://ai.facebook.com/blog/a-new-open-data-set-for-multilingual-speech-research/">文章</a>指出，虽然存在非英语语言的数据集和基准，但 &quot;它们通常相对较小或分散在不同的地方，并且在开放、允许的许可证下基本不可用。&quot;</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS版谷歌翻译释放连续翻译功能]]></title>
+        <id>https://nansey.github.io/post/Google-Translate-iOS-Continuous-Translation/</id>
+        <link href="https://nansey.github.io/post/Google-Translate-iOS-Continuous-Translation/">
+        </link>
+        <updated>2021-01-29T10:16:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>根据谷歌的<a href="https://www.iphoneincanada.ca/app-store/google-translate-for-ios-gets-continuous-translation-feature/">说法</a>，&quot;用户现在可以用翻译App近乎实时地连续翻译&quot;。Google给出了该功能用于课堂讲座或演讲的示例。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>根据谷歌的<a href="https://www.iphoneincanada.ca/app-store/google-translate-for-ios-gets-continuous-translation-feature/">说法</a>，&quot;用户现在可以用翻译App近乎实时地连续翻译&quot;。Google给出了该功能用于课堂讲座或演讲的示例。</p>
+<!-- more -->
+<p>新的转录功能可以让用户翻译单一的音频源，Google称在安静的环境中翻译效果最好。要使用转录功能，只需在App的主屏幕上点击Home标签下的 &quot;转录&quot;（Transcribe），该功能即可启用。</p>
+<p>测试人员用讲法语的YouTube视频测试了该功能，App工作时断时续。应用提示在听音频时有时会出现问题，当源音频语速太快时，翻译即会卡壳。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[藏在拜登政府里的右翼川粉手语译员]]></title>
         <id>https://nansey.github.io/post/Sign-Language-interpreter-Heather-Mewshaw/</id>
@@ -125,36 +154,6 @@
 <p>Abbas Saffari 1951年生于伊朗中部城市亚兹德（Yazd），1979年移居美国。在伊朗读高中时，他就为多位流行歌手写过歌词，包括<a href="https://en.wikipedia.org/wiki/Farhad_(singer)">Farhad Mehrad</a>的经典歌曲《Captured by Night》。</p>
 <p>他同时也是《Confluence of Hands and Apples》、《Twilight of Presence》和《Old Camera and Other Poems》的作者。</p>
 <p>他曾将众多书籍翻译成波斯语，如Izumi Shikibu的《Moon and the Solitude of Lovers》、Ezra Pound和Noel Stock的《Egyptian Love Poems》。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手语翻译首次亮相浙江省两会]]></title>
-        <id>https://nansey.github.io/post/sign-interpreter-zhejiang-two-sessions/</id>
-        <link href="https://nansey.github.io/post/sign-interpreter-zhejiang-two-sessions/">
-        </link>
-        <updated>2021-01-27T01:42:52.000Z</updated>
-        <summary type="html"><![CDATA[<p>1月25日，浙江省政协十二届四次会议在杭州开幕。与以往不同的是，本次开幕会首次加入手语翻译，浙江103万听力残疾人可通过直播同步收看。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>1月25日，浙江省政协十二届四次会议在杭州开幕。与以往不同的是，本次开幕会首次加入手语翻译，浙江103万听力残疾人可通过直播同步收看。</p>
-<!-- more -->
-<p>面带微笑，不急不缓，长达一个多小时的时间里，手语翻译员宋晨燕的双手几乎没有停歇。电视屏幕右下角的“小窗口”，是宋晨燕当日的“战场”，谈及此次以这种特殊的方式参会，她直言“责任与欣喜并存”。</p>
-<p>由于浙江省政协常委会工作报告要在开幕式当日公布，宋晨燕只能参考往年的报告。“我特地看了往年开幕式的直播，主要关注报告人的语速、报告内容中的新生词汇等。此外，我还罗列了大量2020年出现的高频词，如‘十四五规划’‘全面小康’‘疫情防控’等。”她说，虽然从事了十多年手语翻译工作，但因此次翻译内容有不少新提法、新词汇，且翻译时间较长，极大地考验着自己的随机应变能力。</p>
-<p>不仅是浙江省政协十二届四次会议，即将于26日召开的浙江省十三届人大五次会议开幕会上，电视直播中也将加配手语翻译，开展手语播报。（<a href="https://www.chinanews.com/gn/2021/01-25/9396318.shtml">来源</a>）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Lens释放离线翻译功能]]></title>
-        <id>https://nansey.github.io/post/google-lens-translate-offline/</id>
-        <link href="https://nansey.github.io/post/google-lens-translate-offline/">
-        </link>
-        <updated>2021-01-26T07:51:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>去年以来，谷歌一直努力让用户在无网络的情况下，也能在其视觉搜索工具中进行翻译。现在，<a href="https://lens.google.c">Google Lens</a>即在安卓设备上推出了<a href="https://9to5google.com/2021/01/25/google-lens-translate-offline/">离线翻译功能</a>。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>去年以来，谷歌一直努力让用户在无网络的情况下，也能在其视觉搜索工具中进行翻译。现在，<a href="https://lens.google.c">Google Lens</a>即在安卓设备上推出了<a href="https://9to5google.com/2021/01/25/google-lens-translate-offline/">离线翻译功能</a>。</p>
-<!-- more -->
-<p>首次启动时，用户会看到 &quot;点击下载 &quot;的提示，大多数语言旁边会有一个新按钮，谷歌会提示离线语言包大小，以及你的设备空余内存。下载完成后，该语言列表上会出现一个勾选标记。</p>
-<p>与<a href="https://translate.google.com/?hl=zh-CN">Google Translate</a>中的 &quot;拍照翻译&quot;（<a href="https://9to5google.com/2019/07/10/google-translate-camera-revamp/">Instant</a>）类似，Google Lens离线功能甚至在你按下快门键之前就已经开始翻译了，翻译结果可实时预览。用户可 &quot;复制全部&quot;（Copy all）译文，但无法选择单行文本（联网时支持此功能）。</p>
-<p>Google Lens离线翻译功能需要依赖最新的<a href="https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&amp;hl=en_US&amp;gl=US">Google App</a>。</p>
 ]]></content>
     </entry>
 </feed>
