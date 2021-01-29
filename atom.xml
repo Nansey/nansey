@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-28T15:40:29.447Z</updated>
+    <updated>2021-01-29T07:08:52.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌地图推出自动翻译功能]]></title>
+        <id>https://nansey.github.io/post/Google-Maps-Introduces-Automatic-Transliteration/</id>
+        <link href="https://nansey.github.io/post/Google-Maps-Introduces-Automatic-Transliteration/">
+        </link>
+        <updated>2021-01-29T07:08:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>谷歌在其最新的<a href="https://india.googleblog.com/2021/01/improving-indian-language.html">博文</a>里宣布手机版谷歌地图应用新增10种新语言。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>谷歌在其最新的<a href="https://india.googleblog.com/2021/01/improving-indian-language.html">博文</a>里宣布手机版谷歌地图应用新增10种新语言。</p>
+<!-- more -->
+<p>谷歌通过新建一个学习模型的系综，将名胜古迹的拉丁字母名称<a href="https://en.wikipedia.org/wiki/Transliteration">直译</a>为10种印度主流语言，其中包括印地语、孟加拉语、马拉地语、泰卢固语、泰米尔语、古吉拉特语、埃纳德语、马拉雅拉姆语、旁遮普语和奥里亚语。</p>
+<p>按照<a href="https://india.googleblog.com/2021/01/improving-indian-language.html">博文</a>的说法，&quot;这将使现有的数百万不会说英语的印度用户立即受益，使他们能够使用自己的语言找到医生、医院、杂货店、银行、汽车站、火车站和其他基础服务。&quot;</p>
+<p>印度有多达75%的人口通过<a href="https://assets.kpmg/content/dam/kpmg/in/pdf/2017/04/Indian-languages-Defining-Indias-Internet.pdf">母语</a>上网。未来5年，这一数字有望增加到<a href="https://assets.kpmg/content/dam/kpmg/in/pdf/2017/04/Indian-languages-Defining-Indias-Internet.pdf">90%</a>。据谷歌的博客，一些用户无法使用母语在地图上找到目的地。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国文学翻译协会开放2021年度奖项申请]]></title>
         <id>https://nansey.github.io/post/2021-ALTA-awards-open/</id>
@@ -136,20 +151,6 @@
 <!-- more -->
 <p>据《每日邮报》援引英国外交部的消息称，英国官员们认为，阿富汗政府和塔利班虽然在本月初开始尝试签订和平协议，但仍有武装分子不断在阿富汗各地制造交火和流血事件，而这样的事态可能会威胁到那些英国大使馆雇员以及曾为英国军队工作的“翻译官”的生命安全。根据英国政府一项即将出台的新计划，数百名的阿富汗“翻译官”将被允许进入英国，并有望获得定居权。英国政府相信，该计划会让数百名这样的阿富汗工作人员或“翻译官”及其家属来到英国。</p>
 <p>据英国媒体称，此前曾有一些为英军工作的阿富汗“翻译官”在身份遭到曝光后被突然解雇，他们也无法通过严苛的条件前往英国，只能冒着遭到塔利班武装组织袭击的风险继续留在阿富汗。尽管在一些英国媒体的努力下，这些翻译官的遭遇得到了英国民众的同情。但此前英国官员认为，如果允许更多的翻译官进入英国，将导致阿富汗社会的严重的“人才流失”。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《联合早报》社论批新政府：提高翻译水平须先正视问题]]></title>
-        <id>https://nansey.github.io/post/zaobao-translation-editorial/</id>
-        <link href="https://nansey.github.io/post/zaobao-translation-editorial/">
-        </link>
-        <updated>2021-01-26T03:13:57.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://www.zaobao.com.sg/zopinions/editorial/story20210121-1118019">社论</a>指出，在新加坡的多语社会，翻译文字的错误却层出不穷，就以华文翻译而言，语文弊病与笑话时有所闻。新政府几天前公布提升政府公文翻译水平的<a href="https://fanyi.news/post/Singapore-hire-citizen-translator/">三大策略</a>，也点出了当局在这方面所面临的困境。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://www.zaobao.com.sg/zopinions/editorial/story20210121-1118019">社论</a>指出，在新加坡的多语社会，翻译文字的错误却层出不穷，就以华文翻译而言，语文弊病与笑话时有所闻。新政府几天前公布提升政府公文翻译水平的<a href="https://fanyi.news/post/Singapore-hire-citizen-translator/">三大策略</a>，也点出了当局在这方面所面临的困境。</p>
-<!-- more -->
-<p>通讯及新闻部的翻译部门雇有30个职员，主要负责“最关键”的翻译任务。据最新统计，政府每月平均需要翻译的项目大约有550个，总字数超过30万。政府目前有与值得信赖的翻译公司签订周期性合同，把翻译项目外包出去。在时间压力下要完成大量内容的翻译和审核工作，对于确保翻译质量是个巨大的挑战。</p>
-<p>社论称，政府出台的新政策新措施，经常涉及专门术语，要翻译成容易理解，易于广泛宣传的其他官方语言，具有一定的难度。更普遍的问题是，错误往往出在把关与问责的关键上。政府应以身作则，通讯及新闻部的翻译部门犹如政府机构的“中央翻译”，责任重大，即使只是负责“最关键”的翻译，也不胜负荷。政府提出三大策略改善翻译质量，也应该同时加重这方面的人力与资金的投入。</p>
 ]]></content>
     </entry>
 </feed>
