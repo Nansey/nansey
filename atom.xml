@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-29T10:32:03.824Z</updated>
+    <updated>2021-01-30T02:53:23.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[《中华人民共和国民法典》翻译研讨会在线上举行]]></title>
+        <id>https://nansey.github.io/post/civil-code-online-seminar/</id>
+        <link href="https://nansey.github.io/post/civil-code-online-seminar/">
+        </link>
+        <updated>2021-01-30T02:52:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>据中国译协<a href="https://mp.weixin.qq.com/s/fgFNLYzTLHZ-W2aLDrbcog">消息</a>，1月23日，由华东政法大学外语学院主办、上海市法学会法学翻译研究会和国家社科重大项目“‘一带一路’沿线国家法律文本翻译、研究及数据库建设”课题组共同协办的《中华人民共和国民法典》翻译研讨会在线上举行。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据中国译协<a href="https://mp.weixin.qq.com/s/fgFNLYzTLHZ-W2aLDrbcog">消息</a>，1月23日，由华东政法大学外语学院主办、上海市法学会法学翻译研究会和国家社科重大项目“‘一带一路’沿线国家法律文本翻译、研究及数据库建设”课题组共同协办的《中华人民共和国民法典》翻译研讨会在线上举行。</p>
+<!-- more -->
+<p>本次研讨会聚焦《中华人民共和国民法典》英译与域外传播，采取线上视频会议形式，并在哔哩哔哩平台线上同步直播。会议邀请九位与会专家就《民法典》翻译进行主题发言，华东政法大学应培礼副书记、上海市法学会施伟东付副会长为研讨会致辞。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook AI开源新的多语言自动语音识别数据集]]></title>
         <id>https://nansey.github.io/post/Facebook-Open-Sources-New-Multilingual-Automatic-Speech-Recognition-Data-Set/</id>
@@ -138,22 +151,6 @@
 <!-- more -->
 <p>翻译功能得以改进，实时翻译更加准确。此次更新还带来了更好的用户体验，减少了翻译的错误。更新同样降低了闪退，以及在 &quot;多人发言时，实现更好的转录&quot;。</p>
 <p>实时语音翻译（Live Speech Translation）常用于演讲或会议等现场活动，也可用于午餐或晚餐的日常对话中。如果你不会说或不懂某种语言，同样可以使用这个工具。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讣告：伊朗诗人、翻译家Abbas Saffari去世]]></title>
-        <id>https://nansey.github.io/post/obituary-Abbas-Saffari/</id>
-        <link href="https://nansey.github.io/post/obituary-Abbas-Saffari/">
-        </link>
-        <updated>2021-01-27T07:43:18.000Z</updated>
-        <summary type="html"><![CDATA[<p>伊朗诗人、翻译家、亚当和夏娃的现代模仿秀《<a href="https://www.wordswithoutborders.org/article/our-story">Our Story</a>》作者<a href="http://www.thetranslationproject.org/writers/abbas-saffari/">Abbas Saffari</a>，周二于加利福尼亚州长滩的一家医院死于COVID-19，享年69岁。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>伊朗诗人、翻译家、亚当和夏娃的现代模仿秀《<a href="https://www.wordswithoutborders.org/article/our-story">Our Story</a>》作者<a href="http://www.thetranslationproject.org/writers/abbas-saffari/">Abbas Saffari</a>，周二于加利福尼亚州长滩的一家医院死于COVID-19，享年69岁。</p>
-<!-- more -->
-<p>&quot;他早先患有肺部疾病，后来又感染了冠状病毒。&quot;他的姐姐Shayesteh告诉<a href="https://www.isna.ir/">ISNA</a>。</p>
-<p>Abbas Saffari 1951年生于伊朗中部城市亚兹德（Yazd），1979年移居美国。在伊朗读高中时，他就为多位流行歌手写过歌词，包括<a href="https://en.wikipedia.org/wiki/Farhad_(singer)">Farhad Mehrad</a>的经典歌曲《Captured by Night》。</p>
-<p>他同时也是《Confluence of Hands and Apples》、《Twilight of Presence》和《Old Camera and Other Poems》的作者。</p>
-<p>他曾将众多书籍翻译成波斯语，如Izumi Shikibu的《Moon and the Solitude of Lovers》、Ezra Pound和Noel Stock的《Egyptian Love Poems》。</p>
 ]]></content>
     </entry>
 </feed>
