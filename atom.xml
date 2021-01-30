@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-01-30T04:12:11.279Z</updated>
+    <updated>2021-01-30T07:27:35.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[「台湾文学翻译在线工作坊」开放译者报名]]></title>
+        <id>https://nansey.github.io/post/taiwan-literature-translation-workshop-open/</id>
+        <link href="https://nansey.github.io/post/taiwan-literature-translation-workshop-open/">
+        </link>
+        <updated>2021-01-30T07:26:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>驻英国代表处文化组今（110）年夏季将邀集英国文学翻译中心（British Centre for Literary Translation）、国立台湾文学馆，合作办理「台湾文学翻译在线工作坊」，征选全球10名华文译者，于7月19日至24日参与英国文学翻译中心规划的系列课程，接受翻译业师的在线训练，透过工作坊提升译者的专业能力，促进台湾文学作品英译的机会。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>驻英国代表处文化组今（110）年夏季将邀集英国文学翻译中心（British Centre for Literary Translation）、国立台湾文学馆，合作办理「台湾文学翻译在线工作坊」，征选全球10名华文译者，于7月19日至24日参与英国文学翻译中心规划的系列课程，接受翻译业师的在线训练，透过工作坊提升译者的专业能力，促进台湾文学作品英译的机会。</p>
+<!-- more -->
+<p>「台湾文学翻译在线工作坊」将纳为英国文学翻译中心夏季学程（Summer School）之一，与其他语言如丹麦文、荷文、德文、义文等文学翻译工作坊同步展开，由英国文学翻译中心及台文馆自国际、台湾本地各征选5名译者免费参与工作坊。台湾本地译者的申请期间为2月1日起至4月12日，预计于5月底前公布获选名单。</p>
+<p>详细信息可参考台湾“文化部”<a href="https://www.moc.gov.tw/information_250_122764.html">官网</a>和台湾文学馆<a href="https://www.nmtl.gov.tw/information_118_122699.html">官网</a>。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软翻译应用新增因纽特语]]></title>
         <id>https://nansey.github.io/post/Microsoft-translation-adds-Inuit/</id>
@@ -137,21 +151,6 @@
 <!-- more -->
 <p>根据专利摘要，本申请公开了一种基于人工智能技术实现的文本翻译模型训练方法和文本翻译方法，具体涉及自然语言处理领域以及机器学习领域，文本翻译模型训练方法包括：获取第一文本以及第二文本；若第一文本以及第二文本满足文本对齐条件，则获取第一待训练平行文本；基于第一待训练平行文本所包括的第一句子，通过文本翻译模型获取第一翻译文本；根据第一翻译文本以及第二句子，对文本翻译模型进行训练。</p>
 <p>申请实施例还提供了一种相关装置，能够将自动抓取到的文本进行对齐处理，从而生成用于模型训练的平行语料，由此实现模型的自我训练。（<a href="https://t.qianzhan.com/caijing/detail/210128-ebc6cf00.html">来源</a>）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生草翻译是翻译还是赛博虐待？]]></title>
-        <id>https://nansey.github.io/post/wara-machine-translation/</id>
-        <link href="https://nansey.github.io/post/wara-machine-translation/">
-        </link>
-        <updated>2021-01-28T05:36:10.000Z</updated>
-        <summary type="html"><![CDATA[<p>生草翻译是网友们基于<a href="https://translate.google.com/">谷歌翻译</a>、<a href="https://fanyi.baidu.com/#zh/en/">百度翻译</a>等翻译器创造的一种恶搞内容的生产模式。网友口中的“<a href="https://search.bilibili.com/all?keyword=%E7%94%9F%E8%8D%89%E7%BF%BB%E8%AF%91%E5%99%A8&amp;from_source=video_tag">生草翻译器</a>”并不是一个专门的软件，而是一套制作流程。在这套流程操作下，一切翻译器都可以用来“<a href="https://jikipedia.com/definition/612822860">生草</a>”。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>生草翻译是网友们基于<a href="https://translate.google.com/">谷歌翻译</a>、<a href="https://fanyi.baidu.com/#zh/en/">百度翻译</a>等翻译器创造的一种恶搞内容的生产模式。网友口中的“<a href="https://search.bilibili.com/all?keyword=%E7%94%9F%E8%8D%89%E7%BF%BB%E8%AF%91%E5%99%A8&amp;from_source=video_tag">生草翻译器</a>”并不是一个专门的软件，而是一套制作流程。在这套流程操作下，一切翻译器都可以用来“<a href="https://jikipedia.com/definition/612822860">生草</a>”。</p>
-<!-- more -->
-<p>方法很简单。比如，打开任何一个翻译工具，将歌词或文字依照中、英、日、韩、法的顺序循环翻译20次，最后翻回中文即可。国内“生草翻译视频”的头部制作者，是在B站拥有38.6万粉丝的“<a href="https://space.bilibili.com/39492344/">鹰目大人</a>”，代表作为“谷歌翻译20次鲁迅《狂人日记》中的经典<a href="https://www.bilibili.com/video/BV1nK4y1r75x">‘吃人’片段</a>”。</p>
-<p>在此过程中，一切在互联网上不能爬取到充足语料的文本，都属于低资源范畴。巧妇难为无米之炊，“没有样例语料”就是翻译AI的死穴。让AI翻译连人类翻译家都怵的内容，UP主们简直是在玩赛博虐待。</p>
-<p>但是生草真的可以成为否定机器翻译水平的理由吗？（<a href="https://mp.weixin.qq.com/s/mDLGy7VPDWZk8Ss0OkVyWQ">来源</a>）</p>
 ]]></content>
     </entry>
 </feed>
