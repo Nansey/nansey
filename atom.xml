@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-02T03:29:07.739Z</updated>
+    <updated>2021-02-02T07:29:53.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[讣告：著名翻译家林戊荪先生因病与世长辞]]></title>
+        <id>https://nansey.github.io/post/Obituary-linwusun/</id>
+        <link href="https://nansey.github.io/post/Obituary-linwusun/">
+        </link>
+        <updated>2021-02-02T07:29:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>据《北京周报》<a href="https://mp.weixin.qq.com/s/w_maTGLUmmjw-rK-_Kd9cw">消息</a>，1月27日下午，中国著名翻译家，原中国外文局局长，原国际译联理事，原中国译协中译外委员会主任、原理论与教学委员会主任、原《中国翻译》主编、“翻译文化终身成就奖”获得者林戊荪先生因病与世长辞，享年93岁。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据《北京周报》<a href="https://mp.weixin.qq.com/s/w_maTGLUmmjw-rK-_Kd9cw">消息</a>，1月27日下午，中国著名翻译家，原中国外文局局长，原国际译联理事，原中国译协中译外委员会主任、原理论与教学委员会主任、原《中国翻译》主编、“翻译文化终身成就奖”获得者林戊荪先生因病与世长辞，享年93岁。</p>
+<!-- more -->
+<p>林戊荪先生1928年9月出生，系天津人，先后就学于天津、上海、印度加尔各答市。1946年赴美国新泽西州劳伦斯威尔学校学习，就读于罕布什尔州达特矛斯大学，主修哲学。1950年夏提前返国参加祖国建设，开始了为之奋斗一生的对外传播与翻译事业。先后任英文《人民中国》政治组编辑、《人民中国》通联组组长，并多次借调至中国国际广播电台撰写英文稿件。1958年参与创办《北京周报》，撰写国际问题专栏。50年代初曾两次赴朝鲜，担任红十字小组和解释代表团翻译。在此前后还为亚太地区和平会议（1952年）与中国共产党第八次代表大会（1956年）从事同声传译。并曾担任全国翻译系列高级职称评审委员会主任。</p>
+<p>代表作：《孙子兵法》、《孙膑兵法》、《论语》、《南京大屠杀》、《西藏》、《布达拉宫珍宝》、《丝绸之路》等。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当游戏厂商采用糟糕的机译]]></title>
         <id>https://nansey.github.io/post/Tabletop-Simulator-terrible-translations/</id>
@@ -135,21 +149,6 @@
         <content type="html"><![CDATA[<p>据中国译协<a href="https://mp.weixin.qq.com/s/fgFNLYzTLHZ-W2aLDrbcog">消息</a>，1月23日，由华东政法大学外语学院主办、上海市法学会法学翻译研究会和国家社科重大项目“‘一带一路’沿线国家法律文本翻译、研究及数据库建设”课题组共同协办的《中华人民共和国民法典》翻译研讨会在线上举行。</p>
 <!-- more -->
 <p>本次研讨会聚焦《中华人民共和国民法典》英译与域外传播，采取线上视频会议形式，并在哔哩哔哩平台线上同步直播。会议邀请九位与会专家就《民法典》翻译进行主题发言，华东政法大学应培礼副书记、上海市法学会施伟东付副会长为研讨会致辞。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook AI开源新的多语言自动语音识别数据集]]></title>
-        <id>https://nansey.github.io/post/Facebook-Open-Sources-New-Multilingual-Automatic-Speech-Recognition-Data-Set/</id>
-        <link href="https://nansey.github.io/post/Facebook-Open-Sources-New-Multilingual-Automatic-Speech-Recognition-Data-Set/">
-        </link>
-        <updated>2021-01-29T10:31:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>2021年1月22日，Facebook AI发布了多语种<a href="https://ieeexplore.ieee.org/document/7178964">LibriSpeech</a>（MLS），这是一个新的推进自动语音识别（<a href="http://www.iitg.ac.in/samudravijaya/tutorials/asrTutorial.pdf">ASR</a>）研究的大规模开源数据集。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>2021年1月22日，Facebook AI发布了多语种<a href="https://ieeexplore.ieee.org/document/7178964">LibriSpeech</a>（MLS），这是一个新的推进自动语音识别（<a href="http://www.iitg.ac.in/samudravijaya/tutorials/asrTutorial.pdf">ASR</a>）研究的大规模开源数据集。</p>
-<!-- more -->
-<p>据介绍MLS的官方<a href="https://ai.facebook.com/blog/a-new-open-data-set-for-multilingual-speech-research/">博客</a>，其英文数据集比原来的<a href="https://ieeexplore.ieee.org/document/7178964">LibriSpeech</a>大了约47倍，这个语料库包含了1000小时的英语阅读量。</p>
-<p>与LibriSpeech一样，MLS的内容也来自<a href="https://librivox.org/">LibriVox</a>项目的公共领域有声读物，该项目提供了广泛的音频，并允许Facebook AI以非限制性许可的方式发布数据。</p>
-<p>Facebook AI博客<a href="https://ai.facebook.com/blog/a-new-open-data-set-for-multilingual-speech-research/">文章</a>指出，虽然存在非英语语言的数据集和基准，但 &quot;它们通常相对较小或分散在不同的地方，并且在开放、允许的许可证下基本不可用。&quot;</p>
 ]]></content>
     </entry>
 </feed>
