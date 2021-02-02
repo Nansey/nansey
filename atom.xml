@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-01T15:24:19.981Z</updated>
+    <updated>2021-02-02T01:53:53.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="https://nansey.github.io/post/TAUS-Named-Representative-Vendor/">
         </link>
         <updated>2021-02-01T15:20:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>2021年2月1日，语言数据领域的引领者<a href="https://www.taus.net">TAUS</a>宣布，其已被全球领先的研究和咨询公司之一<a href="https://www.gartner.com/en">Gartner</a>认定为AI赋能翻译服务市场指南的代表供应商。</p>
+        <summary type="html"><![CDATA[<p>2021年2月1日，语言数据领域的引领者<a href="https://www.taus.net">TAUS</a><a href="https://blog.taus.net/taus-named-as-a-representative-vendor-in-gartner-market-guide-for-ai-enabled-translation-services">宣布</a>，其已被全球领先的研究和咨询公司之一<a href="https://www.gartner.com/en">Gartner</a>的《AI赋能翻译服务市场指南》（Market Guide for AI Enabled Translation Services）认定为代表供应商。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>2021年2月1日，语言数据领域的引领者<a href="https://www.taus.net">TAUS</a>宣布，其已被全球领先的研究和咨询公司之一<a href="https://www.gartner.com/en">Gartner</a>认定为AI赋能翻译服务市场指南的代表供应商。</p>
+        <content type="html"><![CDATA[<p>2021年2月1日，语言数据领域的引领者<a href="https://www.taus.net">TAUS</a><a href="https://blog.taus.net/taus-named-as-a-representative-vendor-in-gartner-market-guide-for-ai-enabled-translation-services">宣布</a>，其已被全球领先的研究和咨询公司之一<a href="https://www.gartner.com/en">Gartner</a>的《AI赋能翻译服务市场指南》（Market Guide for AI Enabled Translation Services）认定为代表供应商。</p>
 <!-- more -->
-<p>这份由Gartner分析师<a href="http://www.gartner.com/analyst/15762">Bern Elliot</a>、<a href="http://www.gartner.com/analyst/57852">Anthony Mullen</a>、<a href="http://www.gartner.com/analyst/15397">Jessica Ekholm</a>和<a href="http://www.gartner.com/analyst/62983">Adrian Lee</a>编写的报告旨在为认可和促进这一类新兴翻译服务（即AI赋能翻译服务）提供指导。。</p>
+<p>这份由Gartner分析师<a href="http://www.gartner.com/analyst/15762">Bern Elliot</a>、<a href="http://www.gartner.com/analyst/57852">Anthony Mullen</a>、<a href="http://www.gartner.com/analyst/15397">Jessica Ekholm</a>和<a href="http://www.gartner.com/analyst/62983">Adrian Lee</a>编写的报告旨在为认可和促进这一类新兴翻译服务（即AI赋能翻译服务）提供指导。</p>
 <p>TAUS成立于2005年，是一个以翻译自动化和翻译创新为使命的智库。TAUS已成为提供行业最大共享数据库、语言工程专业知识和全球人类语言项目工作者网络的语言数据网络。</p>
 ]]></content>
     </entry>
