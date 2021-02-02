@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-02T01:54:14.676Z</updated>
+    <updated>2021-02-02T03:29:07.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[当游戏厂商采用糟糕的机译]]></title>
+        <id>https://nansey.github.io/post/Tabletop-Simulator-terrible-translations/</id>
+        <link href="https://nansey.github.io/post/Tabletop-Simulator-terrible-translations/">
+        </link>
+        <updated>2021-02-02T03:28:37.000Z</updated>
+        <summary type="html"><![CDATA[<p><a href="https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E6%9C%AC%E5%9C%B0%E5%8C%96">本地化</a>很重要——它让那些不懂某种语言的人也能玩懂一款游戏。但是，做本地化有正确的方法，也有错误的方法。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E6%9C%AC%E5%9C%B0%E5%8C%96">本地化</a>很重要——它让那些不懂某种语言的人也能玩懂一款游戏。但是，做本地化有正确的方法，也有错误的方法。</p>
+<!-- more -->
+<p>正确方法当然是雇佣专业人工译员，这可以确保最终的产品能够被它的新受众所接理解和接受。<a href="https://www.tabletopsimulator.com/">Tabletop Simulator</a>则选择用<a href="https://translate.google.com/">Google Translate</a>将其游戏中的文本翻译成29种不同的语言，结果毫不意外：糟糕透顶。</p>
+<p>昨天，该游戏的Twitter账户发布<a href="https://twitter.com/TabletopSim/status/1355270761171345411">回应</a>称，&quot;我们选择使用Google Translate，同时为社区翻译提供工具，因为这是支持29种不同语言翻译的唯一可行性方案。&quot;</p>
+<p>而且Tabletop Simulator的开发商Berserk Games表示，不会改变翻译的方式——即把翻译的责任推给了游戏社区，它决定让玩家自己翻译。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TAUS成为AI赋能翻译服务代表供应商]]></title>
         <id>https://nansey.github.io/post/TAUS-Named-Representative-Vendor/</id>
@@ -135,20 +150,6 @@
 <p>据介绍MLS的官方<a href="https://ai.facebook.com/blog/a-new-open-data-set-for-multilingual-speech-research/">博客</a>，其英文数据集比原来的<a href="https://ieeexplore.ieee.org/document/7178964">LibriSpeech</a>大了约47倍，这个语料库包含了1000小时的英语阅读量。</p>
 <p>与LibriSpeech一样，MLS的内容也来自<a href="https://librivox.org/">LibriVox</a>项目的公共领域有声读物，该项目提供了广泛的音频，并允许Facebook AI以非限制性许可的方式发布数据。</p>
 <p>Facebook AI博客<a href="https://ai.facebook.com/blog/a-new-open-data-set-for-multilingual-speech-research/">文章</a>指出，虽然存在非英语语言的数据集和基准，但 &quot;它们通常相对较小或分散在不同的地方，并且在开放、允许的许可证下基本不可用。&quot;</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS版谷歌翻译释放连续翻译功能]]></title>
-        <id>https://nansey.github.io/post/Google-Translate-iOS-Continuous-Translation/</id>
-        <link href="https://nansey.github.io/post/Google-Translate-iOS-Continuous-Translation/">
-        </link>
-        <updated>2021-01-29T10:16:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>根据谷歌的<a href="https://www.iphoneincanada.ca/app-store/google-translate-for-ios-gets-continuous-translation-feature/">说法</a>，&quot;用户现在可以用翻译App近乎实时地连续翻译&quot;。Google给出了该功能用于课堂讲座或演讲的示例。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>根据谷歌的<a href="https://www.iphoneincanada.ca/app-store/google-translate-for-ios-gets-continuous-translation-feature/">说法</a>，&quot;用户现在可以用翻译App近乎实时地连续翻译&quot;。Google给出了该功能用于课堂讲座或演讲的示例。</p>
-<!-- more -->
-<p>新的转录功能可以让用户翻译单一的音频源，Google称在安静的环境中翻译效果最好。要使用转录功能，只需在App的主屏幕上点击Home标签下的 &quot;转录&quot;（Transcribe），该功能即可启用。</p>
-<p>测试人员用讲法语的YouTube视频测试了该功能，App工作时断时续。应用提示在听音频时有时会出现问题，当源音频语速太快时，翻译即会卡壳。</p>
 ]]></content>
     </entry>
 </feed>
