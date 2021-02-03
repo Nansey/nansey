@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-03T01:49:23.164Z</updated>
+    <updated>2021-02-03T08:33:32.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA["人人影视字幕组”彻底凉了]]></title>
+        <id>https://nansey.github.io/post/renren-caught-by-police/</id>
+        <link href="https://nansey.github.io/post/renren-caught-by-police/">
+        </link>
+        <updated>2021-02-03T08:32:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>经查，自2018年起，犯罪嫌疑人梁某等人先后成立多家公司，在境内外分散架设、租用服务器，开发、运行、维护“人人影视字幕组”APP及相关网站，在未经著作权人授权的情况下，通过境外盗版论坛网站下载获取片源，以<strong>约400元/部（集）的报酬雇人翻译、压片</strong>后，上传至APP服务器向公众传播，通过收取网站会员费、广告费和出售刻录侵权影视作品移动硬盘等手段非法牟利。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>经查，自2018年起，犯罪嫌疑人梁某等人先后成立多家公司，在境内外分散架设、租用服务器，开发、运行、维护“人人影视字幕组”APP及相关网站，在未经著作权人授权的情况下，通过境外盗版论坛网站下载获取片源，以<strong>约400元/部（集）的报酬雇人翻译、压片</strong>后，上传至APP服务器向公众传播，通过收取网站会员费、广告费和出售刻录侵权影视作品移动硬盘等手段非法牟利。</p>
+<!-- more -->
+<p>现初步查证，各端口应用软件刊载影视作品20000余部（集），注册会员数量800余万。目前，警方抓获以梁某为首的犯罪嫌疑人14名，查处涉案公司3家，查获作案用手机20部和电脑主机、服务器12台，涉案金额1600余万元。（<a href="https://m.jiemian.com/article/5639243.html">来源</a>）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[越南新娘“翻译官”上线]]></title>
         <id>https://nansey.github.io/post/Vietnamese-bride-interpreter/</id>
@@ -133,21 +146,6 @@
 <!-- more -->
 <p>正如翻译记忆库 (TM) 技术从根本上改变了翻译并显著提高了生产效率一样，NMT 现在也被认为是提高翻译效率的另一个重要新典范。</p>
 <p>语言服务提供商 (LSP) 和企业组织现在可以翻译大量内容，而且翻译以前从未考虑过的内容也变得负担得起。对于自由译者来说，机器翻译的译后编辑 (PEMT) 工作已经变得越来越普遍，然而他们对使用机器翻译和接受这样的工作仍然褒贬不一。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在魁北克翻译新冠指南可能是件麻烦事]]></title>
-        <id>https://nansey.github.io/post/Montreal-translating-COVID-19-guidelines-daunting/</id>
-        <link href="https://nansey.github.io/post/Montreal-translating-COVID-19-guidelines-daunting/">
-        </link>
-        <updated>2021-01-31T06:43:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>蒙特利尔的区域卫生当局、社区团体和礼拜场所正在努力调整卫生指示，以适应其多族裔人口的现实情况。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>蒙特利尔的区域卫生当局、社区团体和礼拜场所正在努力调整卫生指示，以适应其多族裔人口的现实情况。</p>
-<!-- more -->
-<p>比如在城中心的人口稠密地区——Cote-des-Neiges，50%以上的居民是新移民，在两波新冠期间，该地区是魁北克省受COVID-19影响最大的地区之一。</p>
-<p>区域卫生局公共卫生和伙伴关系协调员Valerie Lahaie说，该地区有40多种代表性文化，附近有许多新来的人口和难民。由于居民讲的语言和方言都很多——超过100种，因此有必要将卫生当局的指示以及有关封锁和宵禁的信息翻译成多种语言。</p>
-<p>目前该地区正以18种语言分发宣传单。同时，配备了扩音器，用12种不同的语言在Cote-des-Neiges的街道上广播指示。（<a href="https://www.thestar.com/news/canada/2021/01/30/in-montreal-translating-covid-19-guidelines-is-a-daunting-job.html">来源</a>）</p>
 ]]></content>
     </entry>
 </feed>
