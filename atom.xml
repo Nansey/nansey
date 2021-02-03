@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-03T08:33:32.914Z</updated>
+    <updated>2021-02-03T09:34:19.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[欧盟一月份授予翻译合同达1040万欧]]></title>
+        <id>https://nansey.github.io/post/eu-awards-translation-contracts-in-january/</id>
+        <link href="https://nansey.github.io/post/eu-awards-translation-contracts-in-january/">
+        </link>
+        <updated>2021-02-03T09:33:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>新年伊始，欧盟11国<a href="https://slator.com/deal-wins/eu-awards-usd-13m-worth-of-translation-contracts-in-january-2021/">宣布</a>了它们选定的语言服务供应商（LSP）笔译和口译合同总估值达到1040万欧元(1260万美元)。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>新年伊始，欧盟11国<a href="https://slator.com/deal-wins/eu-awards-usd-13m-worth-of-translation-contracts-in-january-2021/">宣布</a>了它们选定的语言服务供应商（LSP）笔译和口译合同总估值达到1040万欧元(1260万美元)。</p>
+<!-- more -->
+<p>截至发稿时，比利时、保加利亚、捷克、丹麦、芬兰、法国、德国、意大利、斯洛文尼亚、西班牙和瑞典已指定他们几个框架合同的供应商，这些合同可能将持续到2023年。（大多数中标通知没有明确合同期限，只有个别标书文件中有明确）。</p>
+<p>作为最大的赢家，<a href="https://www.diction-group.co.uk/">Diction ApS</a>赢得了一份由劳工部（Ministry of Employment）管理的框架合同，为劳工部、气候部和社会事务部（Employment, Climate, and Social Affairs ministries）提供翻译和校对服务。该合同估值74万欧元(90万美元)，语言为丹麦语与英语或另一种官方语言的互译，以及部分英语材料的校对。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["人人影视字幕组”彻底凉了]]></title>
         <id>https://nansey.github.io/post/renren-caught-by-police/</id>
@@ -132,20 +146,6 @@
         <content type="html"><![CDATA[<p>成立翻译团队的目的是通过将英文材料翻译成母语，使大众都能获取科技知识。</p>
 <!-- more -->
 <p>印度联邦财政部长Nirmala Sitharaman在提交2021年<a href="https://www.indiabudget.gov.in/">联邦预算</a>时<a href="https://www.edexlive.com/news/2021/feb/01/union-budget-2021-national-language-translation-mission-to-be-set-up-to-translate-science-tech-con-17845.html">表示</a>，政府将很快开展一项名为国家语言翻译使命团队（National Language Translation Mission）的新举措。作为2019年百日行动计划（2019 100-day action plan）的一部分，该使命由电子和信息技术部（Ministry of Electronics and Information Technology）提出。使命旨在将英语材料翻译成几种印度语言，从而提高科技内容对于大众的普及度。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器翻译的采用率正在上升]]></title>
-        <id>https://nansey.github.io/post/machine-translation-usage-increase/</id>
-        <link href="https://nansey.github.io/post/machine-translation-usage-increase/">
-        </link>
-        <updated>2021-01-31T09:01:19.000Z</updated>
-        <summary type="html"><![CDATA[<p>据Trados<a href="https://mp.weixin.qq.com/s/vU02JlvBttKxmR02ieBf2g">官方消息</a>，数据记录到，SDL 的神经机器翻译 (NMT) 自 2019 年 11 月发布以来在 SDL Trados Studio 中翻译了超过 1 亿个单词，与此同时，月平均翻译量仍在不断增加，现在 Studio 每月的翻译量已经超过了 1 亿个单词。从这些数字来看，SDL Machine Translation (MT) 的采用率正在上升，没有放缓的迹象。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据Trados<a href="https://mp.weixin.qq.com/s/vU02JlvBttKxmR02ieBf2g">官方消息</a>，数据记录到，SDL 的神经机器翻译 (NMT) 自 2019 年 11 月发布以来在 SDL Trados Studio 中翻译了超过 1 亿个单词，与此同时，月平均翻译量仍在不断增加，现在 Studio 每月的翻译量已经超过了 1 亿个单词。从这些数字来看，SDL Machine Translation (MT) 的采用率正在上升，没有放缓的迹象。</p>
-<!-- more -->
-<p>正如翻译记忆库 (TM) 技术从根本上改变了翻译并显著提高了生产效率一样，NMT 现在也被认为是提高翻译效率的另一个重要新典范。</p>
-<p>语言服务提供商 (LSP) 和企业组织现在可以翻译大量内容，而且翻译以前从未考虑过的内容也变得负担得起。对于自由译者来说，机器翻译的译后编辑 (PEMT) 工作已经变得越来越普遍，然而他们对使用机器翻译和接受这样的工作仍然褒贬不一。</p>
 ]]></content>
     </entry>
 </feed>
