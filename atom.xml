@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-04T10:17:15.595Z</updated>
+    <updated>2021-02-05T13:47:55.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[首届语言数据科学与应用论坛]]></title>
+        <id>https://nansey.github.io/post/1st-language-data-forum/</id>
+        <link href="https://nansey.github.io/post/1st-language-data-forum/">
+        </link>
+        <updated>2021-02-05T13:43:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>为推动语言数据科学与应用相关研究，拓展语言数据与外语专业及其他人文社会学科的交叉研究，上海外国语大学语料库研究院拟定于2021年4月10日-11日与中国外语学科联盟语言学跨学科研究委员会、洛阳师范学院外国语学院、河南省“一带一路”语言服务研究中心联合举办“首届语言数据科学与应用论坛”。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>为推动语言数据科学与应用相关研究，拓展语言数据与外语专业及其他人文社会学科的交叉研究，上海外国语大学语料库研究院拟定于2021年4月10日-11日与中国外语学科联盟语言学跨学科研究委员会、洛阳师范学院外国语学院、河南省“一带一路”语言服务研究中心联合举办“首届语言数据科学与应用论坛”。</p>
+<!-- more -->
+<p>会议主题及会议详细信息请参考上外语料库研究院<a href="https://mp.weixin.qq.com/s/AZZOuK48nj2wsirkBFycYw">公众号</a>。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新译科技完成近亿元A轮融资]]></title>
         <id>https://nansey.github.io/post/newtranx-a-round-financing/</id>
@@ -134,20 +147,6 @@
         <content type="html"><![CDATA[<p>总部位于美国的语言服务提供商（LSP）Ad Astra 在2020年底收购了加拿大的竞争对手 MontLingo，合同于2020年12月24日签署，但未披露交易条款。</p>
 <!-- more -->
 <p>MontLingo 由公司收购前的CEO Bryan Montpetit 于2016年创立。在 Montpetit 的领导下，公司预计2021年收入将达到100万加元(80万美元)，Montpetit 现已加入Ad Astra担任营销副总裁。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讣告：著名翻译家林戊荪因病与世长辞]]></title>
-        <id>https://nansey.github.io/post/Obituary-linwusun/</id>
-        <link href="https://nansey.github.io/post/Obituary-linwusun/">
-        </link>
-        <updated>2021-02-02T07:29:26.000Z</updated>
-        <summary type="html"><![CDATA[<p>据《北京周报》<a href="https://mp.weixin.qq.com/s/w_maTGLUmmjw-rK-_Kd9cw">消息</a>，1月27日下午，中国著名翻译家，原中国外文局局长，原国际译联理事，原中国译协中译外委员会主任、原理论与教学委员会主任、原《中国翻译》主编、“翻译文化终身成就奖”获得者林戊荪先生因病与世长辞，享年93岁。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据《北京周报》<a href="https://mp.weixin.qq.com/s/w_maTGLUmmjw-rK-_Kd9cw">消息</a>，1月27日下午，中国著名翻译家，原中国外文局局长，原国际译联理事，原中国译协中译外委员会主任、原理论与教学委员会主任、原《中国翻译》主编、“翻译文化终身成就奖”获得者林戊荪先生因病与世长辞，享年93岁。</p>
-<!-- more -->
-<p>林戊荪先生1928年9月出生，系天津人，先后就学于天津、上海、印度加尔各答市。1946年赴美国新泽西州劳伦斯威尔学校学习，就读于罕布什尔州达特矛斯大学，主修哲学。1950年夏提前返国参加祖国建设，开始了为之奋斗一生的对外传播与翻译事业。先后任英文《人民中国》政治组编辑、《人民中国》通联组组长，并多次借调至中国国际广播电台撰写英文稿件。1958年参与创办《北京周报》，撰写国际问题专栏。50年代初曾两次赴朝鲜，担任红十字小组和解释代表团翻译。在此前后还为亚太地区和平会议（1952年）与中国共产党第八次代表大会（1956年）从事同声传译。并曾担任全国翻译系列高级职称评审委员会主任。</p>
-<p>代表作：《孙子兵法》、《孙膑兵法》、《论语》、《南京大屠杀》、《西藏》、《布达拉宫珍宝》、《丝绸之路》等。</p>
 ]]></content>
     </entry>
 </feed>
