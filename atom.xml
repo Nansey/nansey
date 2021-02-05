@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-05T14:04:02.242Z</updated>
+    <updated>2021-02-05T14:04:46.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://nansey.github.io/post/translation-tech-edu-innovation-seminar/">
         </link>
         <updated>2021-02-05T14:02:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>为了促进新时期翻译研究与实践创新，探讨新文科背景下翻译技术人才培养模式创新，推动翻译技术资源的共建共享，激发翻译学术共同体的活力，河南工业大学外语学院将于2021年4月29日举办第六届翻译技术教育创新研讨会。届时邀请全国高等院校、语言服务行业领域专家为大会做主旨报告，共享翻译技术相关领域研究议题。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>为了促进新时期翻译研究与实践创新，探讨新文科背景下翻译技术人才培养模式创新，推动翻译技术资源的共建共享，激发翻译学术共同体的活力，河南工业大学外语学院将于2021年4月29日举办第六届翻译技术教育创新研讨会。届时邀请全国高等院校、语言服务行业领域专家为大会做主旨报告，共享翻译技术相关领域研究议题。</p>
+<!-- more -->
 <p>会议主题和会议说明详见商务英语教学与研究<a href="https://mp.weixin.qq.com/s/TJEx9ydLr8WzGf4ABDOFXQ">公众号</a>。</p>
 ]]></content>
     </entry>
