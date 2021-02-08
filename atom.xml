@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-08T09:05:57.165Z</updated>
+    <updated>2021-02-08T09:20:31.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[SYSTRAN 推出首个特定行业翻译模型]]></title>
+        <id>https://nansey.github.io/post/SYSTRAN-Launch-First--Industry-Specific-Translation-Models/</id>
+        <link href="https://nansey.github.io/post/SYSTRAN-Launch-First--Industry-Specific-Translation-Models/">
+        </link>
+        <updated>2021-02-08T09:19:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>神经机器翻译技术领导者<a href="https://www.systransoft.com/">SYSTRAN</a>宣布推出新的多语言行业特定翻译模型目录。独特的模型由被称为 &quot;培训师 &quot;的专家——模型所有者、翻译、语言专家、大学、公共组织等设计，并以自助服务的方式提供给专业用户——中小企业、翻译、企业主——这些群体通常受到通用翻译的限制。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>神经机器翻译技术领导者<a href="https://www.systransoft.com/">SYSTRAN</a>宣布推出新的多语言行业特定翻译模型目录。独特的模型由被称为 &quot;培训师 &quot;的专家——模型所有者、翻译、语言专家、大学、公共组织等设计，并以自助服务的方式提供给专业用户——中小企业、翻译、企业主——这些群体通常受到通用翻译的限制。</p>
+<!-- more -->
+<p>SYSTRAN Marketplace的目标是满足专业人士对翻译质量水平的期望，并根据他们的商业术语，行业特定词汇和品牌声音进行定制化。新技术将覆盖农业、教育、金融、IT、法律和卫生等行业。</p>
+<p>SYSTRAN Translate Pro（高级版）目前提供<a href="https://www.systransoft.com/translation-products/pro/">14天的试用</a>。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATA 发博文助美译员申请贷款]]></title>
         <id>https://nansey.github.io/post/PPP-application-help-for-translators/</id>
@@ -133,18 +147,6 @@
         <content type="html"><![CDATA[<p>据菲龙网<a href="https://mp.weixin.qq.com/s/-lhiyCzWzhsBk98vZsXmxw">消息</a>，当地时间2月2日，菲律宾国家警察通报称，首都东警区（EPD）成员近日逮捕涉嫌向菲离岸博彩运营商（POGO）员工进行敲诈勒索的中国公民及三名现役警察。</p>
 <!-- more -->
 <p>东警区总监巴凯（Matthew Baccay）准将报告称，被捕嫌疑人分别是警察下士Jason Bourne Daligdig、警察下士Marvil Pagod、巡警Jerry Uni 以及一名翻译员江某，前三者都隶属于奎松市警区（QCPD）Eastwood 警察局。受害者为博彩公司员工林某（马来西亚公民）以及陈某（中国公民）。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微博国际版接入搜狗翻译]]></title>
-        <id>https://nansey.github.io/post/weibo-intl-integrate-with-sogou-translate/</id>
-        <link href="https://nansey.github.io/post/weibo-intl-integrate-with-sogou-translate/">
-        </link>
-        <updated>2021-02-05T14:15:38.000Z</updated>
-        <summary type="html"><![CDATA[<p>据微博国际版官方账号<a href="http://weibointl.api.weibo.com/share/201034660.html?weibo_id=4600848414152794">@国际版小助理</a> 和搜狗翻译官方账号<a href="http://weibointl.api.weibo.com/share/201035525.html?weibo_id=4600851710087560">@搜狗翻译</a>，更新后的国际版微博App接入<a href="https://fanyi.sogou.com/text">搜狗翻译</a>功能。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据微博国际版官方账号<a href="http://weibointl.api.weibo.com/share/201034660.html?weibo_id=4600848414152794">@国际版小助理</a> 和搜狗翻译官方账号<a href="http://weibointl.api.weibo.com/share/201035525.html?weibo_id=4600851710087560">@搜狗翻译</a>，更新后的国际版微博App接入<a href="https://fanyi.sogou.com/text">搜狗翻译</a>功能。</p>
-<!-- more -->
 ]]></content>
     </entry>
 </feed>
