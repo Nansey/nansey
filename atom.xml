@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-07T13:57:53.271Z</updated>
+    <updated>2021-02-08T06:58:24.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[国门车站翻译员的跨国“接力赛”]]></title>
+        <id>https://nansey.github.io/post/guangxi-vietnam-station-translator/</id>
+        <link href="https://nansey.github.io/post/guangxi-vietnam-station-translator/">
+        </link>
+        <updated>2021-02-08T06:57:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>2月5日15时40分，24511次跨境货物列车驶出广西凭祥火车站，翻译员马金萍坐在“守车”（挂在货物列车尾部，车长及翻译乘座的工作车——记者注）上，翻译货物编组单的品名信息。这是她今天第二次送车出国，目的地是几十公里外的越南同登站。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2月5日15时40分，24511次跨境货物列车驶出广西凭祥火车站，翻译员马金萍坐在“守车”（挂在货物列车尾部，车长及翻译乘座的工作车——记者注）上，翻译货物编组单的品名信息。这是她今天第二次送车出国，目的地是几十公里外的越南同登站。</p>
+<!-- more -->
+<p>马金萍是中国铁路南宁局集团凭祥火车站的一名95后铁路翻译员，日常主要负责跨境列车旅客、车辆、货物相关的翻译交接工作。2018年，马金萍从广西民族大学越南语专业毕业后，回到家乡凭祥，成为了一名国门车站的铁路翻译员。</p>
+<p>据了解，像马金萍这样的翻译员，目前广西凭祥火车站有5名，大多数都是90后的小姑娘。她们在一趟趟跨境列车的往返接力中，挥洒着青春汗水，成为国门车站的青春担当。（<a href="http://www.xinhuanet.com/local/2021-02/08/c_1127077939.htm">来源</a>）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《山海情》将被翻译成英文在海外上映]]></title>
         <id>https://nansey.github.io/post/morning-town-show-overseas/</id>
@@ -132,19 +146,6 @@
         <content type="html"><![CDATA[<p>为了促进新时期翻译研究与实践创新，探讨新文科背景下翻译技术人才培养模式创新，推动翻译技术资源的共建共享，激发翻译学术共同体的活力，河南工业大学外语学院将于2021年4月29日举办第六届翻译技术教育创新研讨会。届时邀请全国高等院校、语言服务行业领域专家为大会做主旨报告，共享翻译技术相关领域研究议题。</p>
 <!-- more -->
 <p>会议主题和会议说明详见商务英语教学与研究<a href="https://mp.weixin.qq.com/s/TJEx9ydLr8WzGf4ABDOFXQ">公众号</a>。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首届语言数据科学与应用论坛]]></title>
-        <id>https://nansey.github.io/post/1st-language-data-forum/</id>
-        <link href="https://nansey.github.io/post/1st-language-data-forum/">
-        </link>
-        <updated>2021-02-05T13:43:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>为推动语言数据科学与应用相关研究，拓展语言数据与外语专业及其他人文社会学科的交叉研究，上海外国语大学语料库研究院拟定于2021年4月10日-11日与中国外语学科联盟语言学跨学科研究委员会、洛阳师范学院外国语学院、河南省“一带一路”语言服务研究中心联合举办“首届语言数据科学与应用论坛”。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>为推动语言数据科学与应用相关研究，拓展语言数据与外语专业及其他人文社会学科的交叉研究，上海外国语大学语料库研究院拟定于2021年4月10日-11日与中国外语学科联盟语言学跨学科研究委员会、洛阳师范学院外国语学院、河南省“一带一路”语言服务研究中心联合举办“首届语言数据科学与应用论坛”。</p>
-<!-- more -->
-<p>会议主题及会议详细信息请参考上外语料库研究院<a href="https://mp.weixin.qq.com/s/AZZOuK48nj2wsirkBFycYw">公众号</a>。</p>
 ]]></content>
     </entry>
 </feed>
