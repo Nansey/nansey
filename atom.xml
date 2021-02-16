@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-16T05:52:55.010Z</updated>
+    <updated>2021-02-16T06:10:05.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[Logrus Global 发布新版 TMX/TBX 文件编辑器]]></title>
+        <id>https://nansey.github.io/post/logrus-global-release-tmx-tbx-new-version/</id>
+        <link href="https://nansey.github.io/post/logrus-global-release-tmx-tbx-new-version/">
+        </link>
+        <updated>2021-02-16T06:07:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>随着全球拥抱开放标准趋势，尤其是开放数据格式，用户需要兼容这些格式的专门工具。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>随着全球拥抱开放标准趋势，尤其是开放数据格式，用户需要兼容这些格式的专门工具。</p>
+<!-- more -->
+<p>Logrus Global 致力于持续改进并免费提供针对开放数据文件格式(XLIFF、TMX、TBX)的 Goldpan TMX/TBX 编辑器。新的<a href="https://slator.com/press-releases/the-new-version-of-free-tmx-tbx-file-editor-and-converter-is-released/">3.6版本</a>的 TMX/TBX File Editor and Converter 支持过滤和搜索/替换中的正则表达式。同时支持自动更新，并允许用户导入 Excel 文件。</p>
+<p>Goldpan TMX/TBX Editor 是一种术语专家、编辑、翻译以及数据科学家日常工作的必备工具。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[许渊冲的第一百个春节]]></title>
         <id>https://nansey.github.io/post/xu-yuan-chong-100th-spring-festival/</id>
@@ -136,20 +150,6 @@
 <!-- more -->
 <p>Yevgemya Malimon对法官说：&quot;我不懂你讲的非法入境是个啥。&quot;</p>
 <p>后续（译者注）：据记者Ema O'Connor 1月8日的<a href="https://twitter.com/o_ema/status/1347277034473586688">推文</a>，Yevgemya Malimon被安排了俄语翻译，且已被释放并允许返回俄勒冈州，等待判决。目前她已被禁止进入华盛顿（特区）。她的女儿据说是俄勒冈州共和党副主席。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2月份语言行业就业指数强劲反弹]]></title>
-        <id>https://nansey.github.io/post/february-job-index-rebounds/</id>
-        <link href="https://nansey.github.io/post/february-job-index-rebounds/">
-        </link>
-        <updated>2021-02-07T03:01:24.000Z</updated>
-        <summary type="html"><![CDATA[<p>在经历了2021年1月的季节性<a href="https://slator.com/industry-news/january-job-index-hit-by-usual-seasonal-dip/">下滑</a>后，语言行业的就业机会在2月<a href="https://slator.com/industry-news/february-2021-job-index-rebounds-from-january-dip/">强劲反弹</a>。2021年2月，Slator语言行业就业指数(LIJI)攀升超过4个点，成为自Covid-19爆发以来最大涨幅。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>在经历了2021年1月的季节性<a href="https://slator.com/industry-news/january-job-index-hit-by-usual-seasonal-dip/">下滑</a>后，语言行业的就业机会在2月<a href="https://slator.com/industry-news/february-2021-job-index-rebounds-from-january-dip/">强劲反弹</a>。2021年2月，Slator语言行业就业指数(LIJI)攀升超过4个点，成为自Covid-19爆发以来最大涨幅。</p>
-<!-- more -->
-<p>2021年2月的LIJI指数从2021年1月的108.45攀升至112.64。之前的<a href="https://slator.com/industry-news/slator-job-index-overtakes-baseline-in-october-2020/">2020年10月</a>算是一个具有里程碑意义的月份，因为该指数自2020年3月Covid-19以来首次反弹至基线（采用的是2018年7月（100））之上。该指数目前停留在2019年10月的水平。</p>
-<p>LIJI指数是为追踪全球语言行业的就业和招聘趋势而开发的。2018年7月的基线是衡量整个行业就业和招聘活动增长或收缩的起点。</p>
 ]]></content>
     </entry>
 </feed>
