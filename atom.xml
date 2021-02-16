@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-16T07:09:51.314Z</updated>
+    <updated>2021-02-16T07:27:13.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -22,6 +22,20 @@
 <!-- more -->
 <p>Logrus Global 致力于持续改进并免费提供针对开放数据文件格式(XLIFF、TMX、TBX)的 Goldpan TMX/TBX 编辑器。新的<a href="https://slator.com/press-releases/the-new-version-of-free-tmx-tbx-file-editor-and-converter-is-released/">3.6版本</a>的 TMX/TBX File Editor and Converter 支持过滤和搜索/替换中的正则表达式。同时支持自动更新，并允许用户导入 Excel 文件。</p>
 <p>Goldpan TMX/TBX Editor 是一种术语专家、编辑、翻译以及数据科学家日常工作的必备工具。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰诗集翻译提名美国笔会文学奖]]></title>
+        <id>https://nansey.github.io/post/Ukrainian-poetry-Translation-nominated-for-PEN-America-Literary-Awards/</id>
+        <link href="https://nansey.github.io/post/Ukrainian-poetry-Translation-nominated-for-PEN-America-Literary-Awards/">
+        </link>
+        <updated>2021-02-12T07:22:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>乌克兰诗人、小说家、散文家和翻译家 <a href="https://en.wikipedia.org/wiki/Serhiy_Zhadan">Serhiy Zhadan</a> 的诗集 <em><a href="https://www.amazon.com/New-Orthography-Poems-Serhiy-Zhadan/dp/1733340033">A New Orthography</a></em> 获得美国笔会文学奖翻译诗类（PEN America Literary Awards in the Poetry in Translation category）提名。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>乌克兰诗人、小说家、散文家和翻译家 <a href="https://en.wikipedia.org/wiki/Serhiy_Zhadan">Serhiy Zhadan</a> 的诗集 <em><a href="https://www.amazon.com/New-Orthography-Poems-Serhiy-Zhadan/dp/1733340033">A New Orthography</a></em> 获得美国笔会文学奖翻译诗类（PEN America Literary Awards in the Poetry in Translation category）提名。</p>
+<!-- more -->
+<p>美国笔会网站<a href="https://pen.org/literary-awards/2021-pen-america-literary-awards-finalists/?fbclid=IwAR1vfy9CQnrDuM3tvWDOpQ_uQ-Sg1jhblHKTvTB4Vbtg4v9F4Uu2hbYoUhg">指出</a>，因翻译 Zhadan 的诗集，John Hennessy 和 Ostap Kin 可能会因此获得3000美元的奖金，该诗集是 Lost Horse Press 出版社《当代乌克兰诗歌系列》（Contemporary Ukrainian Poetry Series）的第五卷。</p>
+<p>这也是<a href="https://pen.org/literary-awards/">2021年美国笔会文学奖</a>入围作品中唯一的乌克兰书目。</p>
 ]]></content>
     </entry>
     <entry>
@@ -135,18 +149,6 @@
 <!-- more -->
 <p>SYSTRAN Marketplace的目标是满足专业人士对翻译质量水平的期望，并根据他们的商业术语，行业特定词汇和品牌声音进行定制化。新技术将覆盖农业、教育、金融、IT、法律和卫生等行业。</p>
 <p>SYSTRAN Translate Pro（高级版）目前提供<a href="https://www.systransoft.com/translation-products/pro/">14天的试用</a>。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATA 发博文助美译员申请贷款]]></title>
-        <id>https://nansey.github.io/post/PPP-application-help-for-translators/</id>
-        <link href="https://nansey.github.io/post/PPP-application-help-for-translators/">
-        </link>
-        <updated>2021-02-08T09:05:32.000Z</updated>
-        <summary type="html"><![CDATA[<p>美国翻译协会（ATA）发表<a href="https://www.ata-chronicle.online/extra/what-you-need-to-know-about-the-small-business-administrations-second-draw-of-its-payment-protection-program/?platform=hootsuite">博文</a>，概述美国译员如何申请美国小企业管理支付保护计划（US Small Business Administration’s Payment Protection Program）。ATA表示，作为美国联邦政府新冠经济救助的一部分，自由职业者、有限责任公司和S型企业（<a href="https://en.wikipedia.org/wiki/S_corporation">S-Corps</a>）都可以申请贷款。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>美国翻译协会（ATA）发表<a href="https://www.ata-chronicle.online/extra/what-you-need-to-know-about-the-small-business-administrations-second-draw-of-its-payment-protection-program/?platform=hootsuite">博文</a>，概述美国译员如何申请美国小企业管理支付保护计划（US Small Business Administration’s Payment Protection Program）。ATA表示，作为美国联邦政府新冠经济救助的一部分，自由职业者、有限责任公司和S型企业（<a href="https://en.wikipedia.org/wiki/S_corporation">S-Corps</a>）都可以申请贷款。</p>
-<!-- more -->
 ]]></content>
     </entry>
 </feed>
