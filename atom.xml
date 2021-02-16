@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-16T06:24:12.968Z</updated>
+    <updated>2021-02-16T06:39:09.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -34,7 +34,7 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>2月11日，英国翻译管理系统(TMS)供应商 XTM International 宣布将公司多数股权出售给K1 Investment Management。交易于2021年1月22日达成，交易条款尚未披露。</p>
 <!-- more -->
-<p>XTM 由首席执行官 Bob Willans 和首席技术官 Andrzej Zydroń 于2002年成立，在K1投资之前，XTM 一直自力更生。Willans 对 Slator 表示，XTM管理层将保留该业务的少数却重要的股权。</p>
+<p>XTM 由首席执行官 Bob Willans 和首席技术官 Andrzej Zydroń 于2002年成立，在K1投资之前，XTM 一直自力更生。Willans 对 Slator <a href="https://slator.com/ma-and-funding/us-investment-firm-k1-buys-majority-stake-in-xtm-international/">表示</a>，XTM管理层将保留该业务的少数却重要的股权。</p>
 <p>XTM 拥有400家付费客户和8500名付费用户。Willans表示，其中有 &quot;许多一级客户&quot;。他们的客户名单涵盖了一系列终端客户，包括Expedia、索尼和沃尔沃。</p>
 ]]></content>
     </entry>
@@ -51,6 +51,20 @@
 <p>一百岁的许渊冲，依然肆意率性。他曾计划一百岁以前翻译完莎士比亚，如今完成一半。因翻到不喜欢的剧本，决定先行搁置。现在，他的新年计划是准备自传《百年梦》，坚持每天至少完成一千字。</p>
 <p>许渊冲说：“莎士比亚翻到一小半了，翻不满意，写的人物地点都不满意，很牵强，我不喜欢，所以我反正不想翻了。计划有还是有的，现在就写《百年梦》，我不写就没人写，莎士比亚我不翻也有人翻。”</p>
 <p>除去与家人、学生相聚的时间外，这一天与往常并没有什么不同。依旧是午睡起床后做操，下楼散步看报，然后工作到天亮。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱尔兰口译公司推出新的 RSI 技术]]></title>
+        <id>https://nansey.github.io/post/Translit-Offers-New-Technology/</id>
+        <link href="https://nansey.github.io/post/Translit-Offers-New-Technology/">
+        </link>
+        <updated>2021-02-10T06:35:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>在上个月成功推出新应用后，总部位于爱尔兰的语言解决方案供应商 <a href="https://translit.com/">TRANSLIT</a> 已将业务扩展到英国。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在上个月成功推出新应用后，总部位于爱尔兰的语言解决方案供应商 <a href="https://translit.com/">TRANSLIT</a> 已将业务扩展到英国。</p>
+<!-- more -->
+<p>这家翻译公司专家开发了一种新的远程同声传译(<a href="https://www.ata-chronicle.online/cover-feature/remote-simultaneous-interpreting-the-upside-and-downside/">RSI</a>)技术——<a href="https://rsi.translit.com/">TRANSLIT RSI</a>，并将在科克和利默里克的爱尔兰中心增加伦敦业务。</p>
+<p>TRANSLIT 首席执行官 Alex Chernenko 于2003年移居爱尔兰，6年后成立了公司。对于能在另一个国家提供 ISO 认证的专业语言服务，他<a href="https://slator.com/press-releases/irish-interpreting-company-offers-new-technology-after-brexit/">表示</a>很兴奋。</p>
 ]]></content>
     </entry>
     <entry>
@@ -132,24 +146,6 @@
         <content type="html"><![CDATA[<p>2月6日，记者从宁夏广播电视局<a href="http://fjnews.fjsen.com/2021-02/07/content_30636831.htm">获悉</a>，近期热播的扶贫电视剧《<a href="https://movie.douban.com/subject/35033654/">山海情</a>》将被翻译成英文等多种语言，在海外多国上映。</p>
 <!-- more -->
 <p>据了解，电视剧《山海情》1月12日起在浙江卫视、北京卫视、东方卫视、东南卫视、宁夏卫视黄金档首播，在腾讯视频、优酷、爱奇艺三家网络平台同步播出。豆瓣评分一路上涨至9.4，创下近几年来电视剧最高评分。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讣告：北约翻译 Feda Mohammad 遭塔利班杀害]]></title>
-        <id>https://nansey.github.io/post/Taliban-kills-NATO-interpreter/</id>
-        <link href="https://nansey.github.io/post/Taliban-kills-NATO-interpreter/">
-        </link>
-        <updated>2021-02-07T06:51:32.000Z</updated>
-        <summary type="html"><![CDATA[<p>据《每日邮报》<a href="https://www.dailymail.co.uk/news/article-9203227/Hero-Afghan-interpreter-worked-British-forces-slain-Taliban.html">报道</a>，塔利班杀害了阿富汗译员 Feda Mohammad。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据《每日邮报》<a href="https://www.dailymail.co.uk/news/article-9203227/Hero-Afghan-interpreter-worked-British-forces-slain-Taliban.html">报道</a>，塔利班杀害了阿富汗译员 Feda Mohammad。</p>
-<!-- more -->
-<p>Feda 的兄弟 Wali 告诉英国媒体，Feda 由于为英国皇家空军（<a href="https://en.wikipedia.org/wiki/Royal_Air_Force">RAF</a>）做口译工作，曾多次收到死亡威胁。《每日邮报》称， &quot;因为 Feda 没有直接为英国当局工作，所以他没有资格根据任何一项迁居计划（relocation schemes）向英国当局申请避难，而是根据计划，透过一家代表北约（<a href="https://www.nato.int/">NATO</a>）军队的私人公司进行了申请&quot;。</p>
-<p>报道称，现年42岁的 Feda 是在驾车进入一个以叛乱袭击著称的地区后，被近距离伏击枪杀。塔利班吹嘘他 &quot;死得像条狗一样&quot;（'died like a dog'），这在阿富汗文化中是一种极其贬义的描述。</p>
-<p>记者 David Williams 和 Larisa Brown <a href="https://www.dailymail.co.uk/news/article-9203227/Hero-Afghan-interpreter-worked-British-forces-slain-Taliban.html">写道</a>，Feda 是过去一周内被杀害的第二名阿富汗翻译，也是2021年第三位遇害译员。</p>
-<p>另外两名受害者之一是美国军方的<a href="https://afghanistan.liveuamap.com/en/2021/23-january-a-person-named-mangal--was-shot-dead-in-helmand">翻译 Mangal</a>，他在阿富汗首都喀布尔他家附近的街道上被塔利班枪杀。再之前，另一名为北约（NATO）军队工作的翻译 Noor 在靠近巴基斯坦边境的一个村庄被枪杀，他的兄弟也被叛乱分子杀害。</p>
-<p>英国驻喀布尔大使馆前军事参赞 Simon Diggins 上校说，这次谋杀是 &quot;暗杀翻译官行动 &quot;（'campaign to assassinate former interpreters'）的一部分。</p>
-<p>另一位为英国军方工作、被告知没有资格来英国的翻译 Najeeb 说：&quot;Feda 曾向当局报告了死亡威胁，他有担心过不测。”</p>
 ]]></content>
     </entry>
 </feed>
