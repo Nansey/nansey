@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-16T06:51:28.436Z</updated>
+    <updated>2021-02-16T07:09:51.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -22,6 +22,21 @@
 <!-- more -->
 <p>Logrus Global 致力于持续改进并免费提供针对开放数据文件格式(XLIFF、TMX、TBX)的 Goldpan TMX/TBX 编辑器。新的<a href="https://slator.com/press-releases/the-new-version-of-free-tmx-tbx-file-editor-and-converter-is-released/">3.6版本</a>的 TMX/TBX File Editor and Converter 支持过滤和搜索/替换中的正则表达式。同时支持自动更新，并允许用户导入 Excel 文件。</p>
 <p>Goldpan TMX/TBX Editor 是一种术语专家、编辑、翻译以及数据科学家日常工作的必备工具。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 事故数据库聚焦严重机译失误]]></title>
+        <id>https://nansey.github.io/post/AI-Incident-Database-Spotlights-Machine-Translation-Fails/</id>
+        <link href="https://nansey.github.io/post/AI-Incident-Database-Spotlights-Machine-Translation-Fails/">
+        </link>
+        <updated>2021-02-12T07:07:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>一种广泛但肤浅的争论——将人类译员与机器翻译（MT）对立起来，其中一个亘古不变的问题即质量问题——如何定义，如何衡量，以及如何改进。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一种广泛但肤浅的争论——将人类译员与机器翻译（MT）对立起来，其中一个亘古不变的问题即质量问题——如何定义，如何衡量，以及如何改进。</p>
+<!-- more -->
+<p>现在，一个新的网站——人工智能事故数据库（<a href="https://incidentdatabase.ai/">AIID</a>），旨在量化人工智能所带来的风险以及实际造成的伤害。Syntiant 的 ML 架构师和 AIID 的开发者 Sean McGregor 在2020年11月的一篇<a href="https://arxiv.org/abs/2011.08512">论文</a>中描述了这种&quot;[AI系统]故障的集体记忆&quot;（collective memory of [AI systems’] failings）。</p>
+<p>AIID 是 Partnership on AI（<a href="https://www.partnershiponai.org/">PAI</a>）的项目，该组织由科技公司资助，由企业合作伙伴和非营利组织组成的董事会管理。</p>
+<p>AIID 以其他行业的事故数据库为蓝本，如航空和网络安全，以促进其透明度。它的前身 &quot;<a href="https://map.ai-global.org/">Where in the World is AI?</a>&quot;地图维护着2005年以来的有害 AI 事故数据。</p>
 ]]></content>
     </entry>
     <entry>
@@ -132,20 +147,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>美国翻译协会（ATA）发表<a href="https://www.ata-chronicle.online/extra/what-you-need-to-know-about-the-small-business-administrations-second-draw-of-its-payment-protection-program/?platform=hootsuite">博文</a>，概述美国译员如何申请美国小企业管理支付保护计划（US Small Business Administration’s Payment Protection Program）。ATA表示，作为美国联邦政府新冠经济救助的一部分，自由职业者、有限责任公司和S型企业（<a href="https://en.wikipedia.org/wiki/S_corporation">S-Corps</a>）都可以申请贷款。</p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国门车站翻译员的跨国“接力赛”]]></title>
-        <id>https://nansey.github.io/post/guangxi-vietnam-station-translator/</id>
-        <link href="https://nansey.github.io/post/guangxi-vietnam-station-translator/">
-        </link>
-        <updated>2021-02-08T06:57:55.000Z</updated>
-        <summary type="html"><![CDATA[<p>2月5日15时40分，24511次跨境货物列车驶出广西凭祥火车站，翻译员马金萍坐在“守车”（挂在货物列车尾部，车长及翻译乘座的工作车——记者注）上，翻译货物编组单的品名信息。这是她今天第二次送车出国，目的地是几十公里外的越南同登站。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>2月5日15时40分，24511次跨境货物列车驶出广西凭祥火车站，翻译员马金萍坐在“守车”（挂在货物列车尾部，车长及翻译乘座的工作车——记者注）上，翻译货物编组单的品名信息。这是她今天第二次送车出国，目的地是几十公里外的越南同登站。</p>
-<!-- more -->
-<p>马金萍是中国铁路南宁局集团凭祥火车站的一名95后铁路翻译员，日常主要负责跨境列车旅客、车辆、货物相关的翻译交接工作。2018年，马金萍从广西民族大学越南语专业毕业后，回到家乡凭祥，成为了一名国门车站的铁路翻译员。</p>
-<p>据了解，像马金萍这样的翻译员，目前广西凭祥火车站有5名，大多数都是90后的小姑娘。她们在一趟趟跨境列车的往返接力中，挥洒着青春汗水，成为国门车站的青春担当。（<a href="http://www.xinhuanet.com/local/2021-02/08/c_1127077939.htm">来源</a>）</p>
 ]]></content>
     </entry>
 </feed>
