@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-16T07:27:13.225Z</updated>
+    <updated>2021-02-16T07:46:53.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -22,6 +22,22 @@
 <!-- more -->
 <p>Logrus Global 致力于持续改进并免费提供针对开放数据文件格式(XLIFF、TMX、TBX)的 Goldpan TMX/TBX 编辑器。新的<a href="https://slator.com/press-releases/the-new-version-of-free-tmx-tbx-file-editor-and-converter-is-released/">3.6版本</a>的 TMX/TBX File Editor and Converter 支持过滤和搜索/替换中的正则表达式。同时支持自动更新，并允许用户导入 Excel 文件。</p>
 <p>Goldpan TMX/TBX Editor 是一种术语专家、编辑、翻译以及数据科学家日常工作的必备工具。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年 Sheikh Hamad 翻译奖开放提名]]></title>
+        <id>https://nansey.github.io/post/7th-Sheikh-Hamad-Translation-Award-open/</id>
+        <link href="https://nansey.github.io/post/7th-Sheikh-Hamad-Translation-Award-open/">
+        </link>
+        <updated>2021-02-15T07:45:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>董事会昨日宣布2021年第七届 Sheikh Hamad 翻译与国际理解奖（Sheikh Hamad Award for Translation and International Understanding）启动，即日起至8月15日接受作品提名和评选。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>董事会昨日宣布2021年第七届 Sheikh Hamad 翻译与国际理解奖（Sheikh Hamad Award for Translation and International Understanding）启动，即日起至8月15日接受作品提名和评选。</p>
+<!-- more -->
+<p>该奖项于2015年设立，作为一项国际奖项，旨在表彰和奖励翻译家在强化世界各国友谊与合作纽带方面的作用，同时鼓励创新，传播多样性、多元化和开放性，增进国际理解，加强翻译在传播和平与知识，以及文化凝聚方面的作用。</p>
+<p>该奖项选择中文作为与英语并列的第二主要语言，成就类奖项（Achievement category）新选了四种语言，分别是乌尔都语、阿姆哈拉语、荷兰语和现代希腊语。 为了继续加强阿拉伯文化与世界不同文化之间的交流，2021年奖项聚焦了四种新语言。</p>
+<p>第七届的翻译奖包含四个分支：从阿拉伯文译成英文、从英文译成阿拉伯文、从阿拉伯文译成其他选定语言之一、从其他选定语言译成阿拉伯文。</p>
+<p>奖项价值20万美元，第一名10万美元，第二名6万美元，第三名4万美元。（<a href="https://menafn.com/1101601988/Entries-for-7th-edition-of-Sheikh-Hamad-Translation-Award-open&amp;source=138">来源</a>）</p>
 ]]></content>
     </entry>
     <entry>
@@ -135,20 +151,6 @@
 <!-- more -->
 <p>池州市政府办公室（外事办公室）将与池州学院、安徽省翻译协会联手，从学习培训、设施保障、业务实践等方面创造条件，着力打造一支外事翻译人才队伍。</p>
 <p>池州市内相关专业全日制本科及以上学历，有相关语言能力证书且5年内有翻译实践经历的外语人才均可联系市政府办公室（外事办公室）报名应征，经评审合格后择优纳入人才库。人才库实行信息资源共享，面向社会、服务社会，由市政府办公室（外事办公室）推荐参加市域各类重要涉外活动。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SYSTRAN 推出首个特定行业翻译模型]]></title>
-        <id>https://nansey.github.io/post/SYSTRAN-Launch-First--Industry-Specific-Translation-Models/</id>
-        <link href="https://nansey.github.io/post/SYSTRAN-Launch-First--Industry-Specific-Translation-Models/">
-        </link>
-        <updated>2021-02-08T09:19:25.000Z</updated>
-        <summary type="html"><![CDATA[<p>神经机器翻译技术领导者<a href="https://www.systransoft.com/">SYSTRAN</a>宣布推出新的多语言行业特定翻译模型目录。独特的模型由被称为 &quot;培训师 &quot;的专家——模型所有者、翻译、语言专家、大学、公共组织等设计，并以自助服务的方式提供给专业用户——中小企业、翻译、企业主——这些群体通常受到通用翻译的限制。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>神经机器翻译技术领导者<a href="https://www.systransoft.com/">SYSTRAN</a>宣布推出新的多语言行业特定翻译模型目录。独特的模型由被称为 &quot;培训师 &quot;的专家——模型所有者、翻译、语言专家、大学、公共组织等设计，并以自助服务的方式提供给专业用户——中小企业、翻译、企业主——这些群体通常受到通用翻译的限制。</p>
-<!-- more -->
-<p>SYSTRAN Marketplace的目标是满足专业人士对翻译质量水平的期望，并根据他们的商业术语，行业特定词汇和品牌声音进行定制化。新技术将覆盖农业、教育、金融、IT、法律和卫生等行业。</p>
-<p>SYSTRAN Translate Pro（高级版）目前提供<a href="https://www.systransoft.com/translation-products/pro/">14天的试用</a>。</p>
 ]]></content>
     </entry>
 </feed>
