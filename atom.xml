@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-16T09:09:41.408Z</updated>
+    <updated>2021-02-16T09:42:12.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[波兰法院介入机译裁决，开行业先河]]></title>
+        <id>https://nansey.github.io/post/Poland-Rules-on-LSP-Using-Google-Translate/</id>
+        <link href="https://nansey.github.io/post/Poland-Rules-on-LSP-Using-Google-Translate/">
+        </link>
+        <updated>2021-02-16T09:40:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>据 Slator <a href="https://slator.com/industry-news/poland-rules-on-lsp-using-google-translate-defines-professional-translator/">报道</a>，波兰一家法院介入谷歌翻译使用以及 &quot;专业翻译&quot;标准的案例，开了行业先例。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据 Slator <a href="https://slator.com/industry-news/poland-rules-on-lsp-using-google-translate-defines-professional-translator/">报道</a>，波兰一家法院介入谷歌翻译使用以及 &quot;专业翻译&quot;标准的案例，开了行业先例。</p>
+<!-- more -->
+<p>这项<a href="https://tlumaczenia-prawnicze.eu/wp-content/uploads/2021/01/20200813_wyrok-SR-Pozna%C5%84-Stare-Miasto_XII-GC-669-17_Google-Translate.pdf">裁决</a>于去年夏天作出，也是法律语言学家和法律翻译专家 <a href="https://www.linkedin.com/company/iuridico">IURIDICO</a> 的首席执行官 <a href="https://www.linkedin.com/authwall?trk=bf&amp;trkInfo=AQFHosCJPwezJAAAAXeqNQNoneUOygQHKLrHMoorS3rxlmyef-G347j6rJEJ_aH6xyMCtZLvlqUDQtQx-7rdEH_4mBDXqRoKWudbGaZSoOY4lmSEYLTFDnLccsFPA_uqHT5hPAo=&amp;originalReferer=&amp;sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwojciechwoloszyk%2F">Wojciech Woloszyk</a> 2021年2月8日撰写的<a href="https://tlumaczenia-prawnicze.eu/lsps-responsibility-for-the-process-of-translation-and-the-rules-of-using-machine-translation/">一篇文章</a>的主题。Woloszyk作为专家证人在法庭出席。</p>
+<p>据Woloszyk所知，这是波兰第一起关于使用免费机器翻译工具的判决，涉及保密性、知识产权以及语言服务提供商（LSP）在监督译员工作质量方面的责任。</p>
+<p>此前的2013年，一家 LSP 将一位客户告上法庭，要求后者支付一本书波兰语到英语的翻译费用。客户拒绝向该 LSP 付款，称译文不仅交付得很晚，而且质量很差，不得不雇用第二家 LSP 才完成翻译。该 LSP 的译员使用谷歌翻译完成了92%的翻译，然后进行了译后编辑（也就是PEMT或MTPE）。剩余8%的翻译则使用了计算机辅助翻译工具（又称CAT）。</p>
+<p>Woloszyk 说，LSP 和客户最后商定，翻译将由 &quot;一名专业译员完成，并由一名母语人士编辑，译文应达到专业用途标准&quot;。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logrus Global 发布新版 TMX/TBX 文件编辑器]]></title>
         <id>https://nansey.github.io/post/logrus-global-release-tmx-tbx-new-version/</id>
@@ -140,20 +156,6 @@
 <p>现在，一个新的网站——人工智能事故数据库（<a href="https://incidentdatabase.ai/">AIID</a>），旨在量化人工智能所带来的风险以及实际造成的伤害。Syntiant 的 ML 架构师和 AIID 的开发者 Sean McGregor 在2020年11月的一篇<a href="https://arxiv.org/abs/2011.08512">论文</a>中描述了这种&quot;[AI系统]故障的集体记忆&quot;（collective memory of [AI systems’] failings）。</p>
 <p>AIID 是 Partnership on AI（<a href="https://www.partnershiponai.org/">PAI</a>）的项目，该组织由科技公司资助，由企业合作伙伴和非营利组织组成的董事会管理。</p>
 <p>AIID 以其他行业的事故数据库为蓝本，如航空和网络安全，以促进其透明度。它的前身 &quot;<a href="https://map.ai-global.org/">Where in the World is AI?</a>&quot;地图维护着2005年以来的有害 AI 事故数据。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国投资公司 K1 收购 XTM International]]></title>
-        <id>https://nansey.github.io/post/K1-Buys-XTM-International/</id>
-        <link href="https://nansey.github.io/post/K1-Buys-XTM-International/">
-        </link>
-        <updated>2021-02-11T06:21:37.000Z</updated>
-        <summary type="html"><![CDATA[<p>2月11日，英国翻译管理系统(TMS)供应商 <a href="https://xtm.cloud/">XTM International</a> 宣布将公司多数股权出售给K1 Investment Management。交易于2021年1月22日达成，交易条款尚未披露。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>2月11日，英国翻译管理系统(TMS)供应商 <a href="https://xtm.cloud/">XTM International</a> 宣布将公司多数股权出售给K1 Investment Management。交易于2021年1月22日达成，交易条款尚未披露。</p>
-<!-- more -->
-<p>XTM 由首席执行官 Bob Willans 和首席技术官 Andrzej Zydroń 于2002年成立，在K1投资之前，XTM 一直自力更生。Willans 对 Slator <a href="https://slator.com/ma-and-funding/us-investment-firm-k1-buys-majority-stake-in-xtm-international/">表示</a>，XTM管理层将保留该业务的少数却重要的股权。</p>
-<p>XTM 拥有400家付费客户和8500名付费用户。Willans表示，其中有 &quot;许多一级客户&quot;。他们的客户名单涵盖了一系列终端客户，包括Expedia、索尼和沃尔沃。</p>
 ]]></content>
     </entry>
 </feed>
