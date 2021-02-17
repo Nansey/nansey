@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-17T13:46:26.172Z</updated>
+    <updated>2021-02-17T15:19:59.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[讣告：美国法庭译员 Daniel Felix 死于 Covid-19]]></title>
+        <id>https://nansey.github.io/post/obituary-Daniel-Felix/</id>
+        <link href="https://nansey.github.io/post/obituary-Daniel-Felix/">
+        </link>
+        <updated>2021-02-17T15:19:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>《洛杉矶时报》<a href="https://www.latimes.com/california/story/2021-02-05/covid-complicates-in-person-trials-la-courthouses">报道</a>，至少有两名洛杉矶的法庭译员在工作中因感染 Covid-19 而死亡：一位叫 Sergio Cafaro（参见翻译动态之前的<a href="https://fanyi.news/post/Sergio-Cafaro-covid-death/">报道</a>），另一位叫 Daniel Felix。对于 Felix 的情况，《时报》暗指，他是在工作所在地Bellflower法院爆发 Covid-19 后感染的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《洛杉矶时报》<a href="https://www.latimes.com/california/story/2021-02-05/covid-complicates-in-person-trials-la-courthouses">报道</a>，至少有两名洛杉矶的法庭译员在工作中因感染 Covid-19 而死亡：一位叫 Sergio Cafaro（参见翻译动态之前的<a href="https://fanyi.news/post/Sergio-Cafaro-covid-death/">报道</a>），另一位叫 Daniel Felix。对于 Felix 的情况，《时报》暗指，他是在工作所在地Bellflower法院爆发 Covid-19 后感染的。</p>
+<!-- more -->
+<p>2021年1月，有3名法院工作人员在因感染 Covid-19 死亡，3月以来，5100名法院工作者和法官中有至少445人检测呈阳性。</p>
+<p>12月份，刑事司法中心有法庭记者检测呈阳性，促使管理人员关闭了她工作的法庭。但当一名也曾在该法庭工作过的口译员申请带薪休假局隔离时——根据译员工会（interpreter’s union）的说法——她遭到了拒绝。</p>
+<p>这名口译员不得不继续工作，几天后，检测结果呈阳性，导致大约15名口译员居家隔离。译员工会（interpreter’s union）称，许多人带薪休假的请求亦被拒绝。</p>
+<p>口译员 <a href="https://fanyi.news/post/Sergio-Cafaro-covid-death/">Sergio Cafaro</a> 于12月18日检测呈阳性，1月12日去世，享年56岁。五天后，另一名译员 Daniel Felix，66岁，死于 Covid-19 并发症。</p>
+<p>他的女儿 Masiel Felix 说，&quot;这本来是可以避免的。爸爸本可以远程工作。&quot;</p>
+<p>译者注：除了 Sergio Cafaro 和 Daniel Felix，美国手语译员 <a href="https://fanyi.news/post/26-sui-mei-guo-shou-yu-yi-yuan-si-yu-covid-19/">Hannah Mansell</a> 和美国新冠新闻发布会译员 <a href="https://fanyi.news/post/American-Sign-Interpreter-Dies-of-COVID-19/">Patty Sakal</a> 也曾在1月份死于 Covid-19。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究揭示专业翻译与患者健康之间关系]]></title>
         <id>https://nansey.github.io/post/new-research-on-hospital-interpreter-use/</id>
@@ -143,20 +161,6 @@
 <p>主办方宣布，这本由 Ahmad Nadalizadeh 和 Idra Novey 翻译成英文的作品获得了笔会文学奖翻译诗歌类奖项的提名。</p>
 <p>英译本 <em>Lean against This Late Hour</em> 于2020年4月14日由企鹅出版社（Penguin Books）出版。</p>
 <p><a href="https://www.nytimes.com/section/magazine">《纽约时报》杂志</a>曾评价这本诗集为 &quot;在暴力和失落的阴影下，为英语和波斯语的读者提供了一幅生动的、令人着迷的生活画卷&quot;（A vivid, mesmerizing portrait of life in the shadow of violence and loss, for readers of both English and Persian.）。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google App 测试内置“翻译”功能]]></title>
-        <id>https://nansey.github.io/post/Google-app-tests-Translate-in-browser/</id>
-        <link href="https://nansey.github.io/post/Google-app-tests-Translate-in-browser/">
-        </link>
-        <updated>2021-02-13T08:06:26.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://9to5google.com/2021/02/11/google-app-browser-android-read-aloud-translate/">最近</a>，Android 版谷歌搜索 App 内置浏览器正在测试 &quot;朗读 &quot;和 &quot;翻译 &quot;快捷方式功能。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://9to5google.com/2021/02/11/google-app-browser-android-read-aloud-translate/">最近</a>，Android 版谷歌搜索 App 内置浏览器正在测试 &quot;朗读 &quot;和 &quot;翻译 &quot;快捷方式功能。</p>
-<!-- more -->
-<p>谷歌已经开始在浏览器的三点菜单中推出一对新的选项。第一，&quot;大声朗读&quot;（Read Aloud），相当于新增了一种使用 <a href="https://assistant.google.com/">Google Assistant</a> 在 Android 设备上为你朗读文章的方式。它的打开方式与你在 Chrome 浏览器中使用 &quot;read this to me &quot;的方式相同。在阅读页面时，文字会在屏幕上高亮显示，用户也可以控制阅读速度。</p>
-<p>同时，Android 设备上的谷歌 App 内置浏览器新增了一个 &quot;翻译 &quot;（Translate）选项，该功能与之前Android 版 Chrome 浏览器内置的谷歌翻译功能类似，支持将当前页面快速翻译成任何语言。</p>
 ]]></content>
     </entry>
 </feed>
