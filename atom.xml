@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-18T14:43:12.590Z</updated>
+    <updated>2021-02-18T14:55:49.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -16,9 +16,9 @@
         <link href="https://nansey.github.io/post/VDH-caught-using-Google-Translate-again/">
         </link>
         <updated>2021-02-19T10:04:38.000Z</updated>
-        <summary type="html"><![CDATA[<p>还记得弗吉尼亚州卫生部（<a href="https://www.vdh.virginia.gov/">VDH</a>）上个月因为使用谷歌翻译创建西语版 COVID-19 疫苗 FAQ 页面而被骂吗？（<a href="https://fanyi.news/post/vdh-translation-not-necessary/">点击这里</a>查看之前的报道）</p>
+        <summary type="html"><![CDATA[<p>还记得弗吉尼亚州卫生部（<a href="https://www.vdh.virginia.gov/">VDH</a>）上个月因为使用谷歌翻译创建西语版 COVID-19 疫苗 FAQ 页面而被骂吗？（点击<a href="https://fanyi.news/post/vdh-translation-not-necessary/">这里</a>查看之前的报道）</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>还记得弗吉尼亚州卫生部（<a href="https://www.vdh.virginia.gov/">VDH</a>）上个月因为使用谷歌翻译创建西语版 COVID-19 疫苗 FAQ 页面而被骂吗？（<a href="https://fanyi.news/post/vdh-translation-not-necessary/">点击这里</a>查看之前的报道）</p>
+        <content type="html"><![CDATA[<p>还记得弗吉尼亚州卫生部（<a href="https://www.vdh.virginia.gov/">VDH</a>）上个月因为使用谷歌翻译创建西语版 COVID-19 疫苗 FAQ 页面而被骂吗？（点击<a href="https://fanyi.news/post/vdh-translation-not-necessary/">这里</a>查看之前的报道）</p>
 <!-- more -->
 <p>Times-Dispatch 的记者周二在 Twitter 上<a href="https://twitter.com/MelLeonor_/status/1361733891887828998?s=20">报道</a>，新的 VDH 疫苗注册网站再次使用了谷歌翻译。</p>
 <p>&quot;这个网站本来应该包含英语和西语两个版本，但西语版本明显是英语原版的谷歌翻译形式，&quot;Times-Dispatch 政治版记者 Mel Leonor 在 Twitter 上说，&quot;我的母语是西语，这个翻译说得过去，但远远不够。第一个字段，'First Name'仍然是'Nombre de pila'。&quot;</p>
