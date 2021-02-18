@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-18T01:47:30.538Z</updated>
+    <updated>2021-02-18T02:17:13.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[Lengoo 获 Inkef 2000万美元B轮融资]]></title>
+        <id>https://nansey.github.io/post/Lengoo-Raises-20m-Series-B-From-Inkef/</id>
+        <link href="https://nansey.github.io/post/Lengoo-Raises-20m-Series-B-From-Inkef/">
+        </link>
+        <updated>2021-02-18T02:16:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>2021年2月10日，<a href="https://www.lengoo.com/">Lengoo</a> 宣布完成2000万美元的B轮融资，由总部位于阿姆斯特丹的 <a href="https://www.inkefcapital.com/">Inkef Capital</a> 领投。这使得这家总部位于柏林的语言服务提供商融资总额达到3400万美元。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2021年2月10日，<a href="https://www.lengoo.com/">Lengoo</a> 宣布完成2000万美元的B轮融资，由总部位于阿姆斯特丹的 <a href="https://www.inkefcapital.com/">Inkef Capital</a> 领投。这使得这家总部位于柏林的语言服务提供商融资总额达到3400万美元。</p>
+<!-- more -->
+<p>B轮融资于2021年1月29日完成，包括现有投资者 Redalpine、Creathor Ventures 和 Techstars，以及天使投资者 Matthias Hilpert 和 Michael Schmitt。新投资者包括 Polipo Ventures 和 Inkef 高级顾问 Volker Pyrtek。</p>
+<p>Lengoo 公司押注一种论点，即定制化机器翻译（<a href="https://www.translatefx.com/blog/why-your-company-needs-custom-trained-machine-translation-engine?lang=en">custom machine translation</a>）与人机交互服务（<a href="https://www.bmc.com/blogs/hitl-human-in-the-loop/">human-in-the-loop service</a>）结合，能够超越现有的语言服务提供商。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究显示英语能力有限患者COVID-19死亡概率更高]]></title>
         <id>https://nansey.github.io/post/LEP-patients-death-higher/</id>
@@ -146,20 +160,6 @@
 <!-- more -->
 <p>Kim 在国际作家文理学院研究比较文学项目，获得该奖学金使他得以支持 &quot;Cold Candies: Selected Poems of <a href="https://koreanliteraturenow.com/author/profile/lee-young-ju">Lee Young-ju</a>&quot;。该项目涉及策划和翻译韩国著名诗人 Lee Young-ju 在过去20年中出版的四部诗集中的散文诗。即将由 Black Ocean 出版社出版的新诗集将是 Lee Young-ju 的第一本英译作品集。</p>
 <p>Kim 是2021年24名国家艺术基金会（NEA）文学翻译研究员之一。他目前担任 <em>The Spectacle</em> 的翻译编辑。他的著作和译作曾在 <em>Los Angeles Review of Books</em>、<em>Kenyon Review</em>、<em>Guernica</em>、 <em>Conjunctions</em>、<em>Poetry</em> 等刊物上发表。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度教授获 Bharat Bhavan 翻译奖]]></title>
-        <id>https://nansey.github.io/post/P-Madhavan-Pillai-wins-translation-award/</id>
-        <link href="https://nansey.github.io/post/P-Madhavan-Pillai-wins-translation-award/">
-        </link>
-        <updated>2021-02-14T08:36:48.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://www.goodreads.com/author/show/8473447.P_Madhavan_Pillai">P Madhavan Pillai</a> 教授被选为Bharat Bhavan设立的第一个翻译综合贡献奖（overall contribution in translation）。该奖项包含30,001卢比的现金奖励。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://www.goodreads.com/author/show/8473447.P_Madhavan_Pillai">P Madhavan Pillai</a> 教授被选为Bharat Bhavan设立的第一个翻译综合贡献奖（overall contribution in translation）。该奖项包含30,001卢比的现金奖励。</p>
-<!-- more -->
-<p>2019-20年度Vivarthana Ratna奖授予作家K R Mallika，以表彰他翻译泰戈尔的 <em>Nouka Dubi</em>。译本名为 <em>Bottapakadam</em>。该奖项包含25,001卢比的奖金。</p>
-<p><a href="https://www.amazon.in/Books-Prof-P-Madhavan-Pillai/s?rh=n%3A976389031%2Cp_27%3AProf.+P+Madhavan+Pillai">P Madhavan Pillai</a> 教授译作超过25部作品，他同时也是多部字典的创作者。（<a href="https://english.mathrubhumi.com/books/authors/translation-award-for-prof-p-madhavan-pillai-1.5435644">来源</a>）</p>
 ]]></content>
     </entry>
 </feed>
