@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-18T07:02:43.191Z</updated>
+    <updated>2021-02-18T10:06:08.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[弗吉尼亚州卫生部因机翻再次被抓包]]></title>
+        <id>https://nansey.github.io/post/VDH-caught-using-Google-Translate-again/</id>
+        <link href="https://nansey.github.io/post/VDH-caught-using-Google-Translate-again/">
+        </link>
+        <updated>2021-02-19T10:04:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>还记得弗吉尼亚州卫生部（<a href="https://www.vdh.virginia.gov/">VDH</a>）上个月因为使用谷歌翻译创建西语版 COVID-19 疫苗 FAQ 页面而被骂吗？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>还记得弗吉尼亚州卫生部（<a href="https://www.vdh.virginia.gov/">VDH</a>）上个月因为使用谷歌翻译创建西语版 COVID-19 疫苗 FAQ 页面而被骂吗？</p>
+<!-- more -->
+<p>Times-Dispatch 的记者周二在 Twitter 上<a href="https://twitter.com/MelLeonor_/status/1361733891887828998?s=20">报道</a>，新的 VDH 疫苗注册网站再次使用了谷歌翻译。</p>
+<p>&quot;这个网站本来应该包含英语和西语两个版本，但西语版本明显是英语原版的谷歌翻译形式，&quot;Times-Dispatch 政治版记者 Mel Leonor 在 Twitter 上说，&quot;我的母语是西语，这个翻译说得过去，但远远不够。第一个字段，'First Name'仍然是'Nombre de pila'。&quot;</p>
+<p>这引起了弗吉尼亚州众议院议员 <a href="https://www.elizabethguzmanforvirginia.com/">Elizabeth Guzman</a> 的注意，她再次<a href="https://twitter.com/guzman4virginia/status/1361766156336586754">呼吁</a> VDH 不要再依靠谷歌翻译来传达西语 COVID-19 疫苗信息。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国冒牌翻译面临两年牢狱之灾]]></title>
         <id>https://nansey.github.io/post/Fake-Interpreter-Going-to-Prison/</id>
@@ -143,22 +158,6 @@
 <!-- more -->
 <p>Logrus Global 致力于持续改进并免费提供针对开放数据文件格式(XLIFF、TMX、TBX)的 Goldpan TMX/TBX 编辑器。新的<a href="https://slator.com/press-releases/the-new-version-of-free-tmx-tbx-file-editor-and-converter-is-released/">3.6版本</a>的 TMX/TBX File Editor and Converter 支持过滤和搜索/替换中的正则表达式。同时支持自动更新，并允许用户导入 Excel 文件。</p>
 <p>Goldpan TMX/TBX Editor 是一种术语专家、编辑、翻译以及数据科学家日常工作的必备工具。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约州立法者要求州政府提供翻译]]></title>
-        <id>https://nansey.github.io/post/NY-lawmakers-pitch-bill-requiring-translations/</id>
-        <link href="https://nansey.github.io/post/NY-lawmakers-pitch-bill-requiring-translations/">
-        </link>
-        <updated>2021-02-15T09:06:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>据《纽约每日新闻》（<a href="https://www.nydailynews.com/news/politics/new-york-elections-government/ny-covid-translations-immigrants-languages-20210209-u6xivloluvc3jdc4uc277p3zj4-story.html">NEW YORK DAILY NEWS</a>）两名纽约州立法者希望确保母语为非英语的纽约人能够获得COVID-19相关的最新信息。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据《纽约每日新闻》（<a href="https://www.nydailynews.com/news/politics/new-york-elections-government/ny-covid-translations-immigrants-languages-20210209-u6xivloluvc3jdc4uc277p3zj4-story.html">NEW YORK DAILY NEWS</a>）两名纽约州立法者希望确保母语为非英语的纽约人能够获得COVID-19相关的最新信息。</p>
-<!-- more -->
-<p>曼哈顿民主党参议员 Brad Hoylman 和众议员 Yuh-Line Niou 周二援引法条，要求州政府为非英语人士翻译所有网站，尤其是所有与流行病相关的网页。</p>
-<p>该法案要求州政府机构在30天内为所有COVID-19信息提供翻译服务，然后在90天内为所有其他网站提供翻译服务。</p>
-<p>&quot;超过500万纽约人生活在主要语言不是英语的家庭中，&quot;Hoylman 在一份声明中说。&quot;所以我们不能让语言成为拯救生命的信息障碍，特别是在当前COVID-19大流行期间。</p>
-<p>&quot;我们的州政府应该说纽约人懂的语言，这样他们就可以预约疫苗，申请失业保险，获得住房信息，和国家提供的其他重要服务，&quot;他补充说。</p>
 ]]></content>
     </entry>
 </feed>
