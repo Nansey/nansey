@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-18T14:55:49.304Z</updated>
+    <updated>2021-02-19T15:31:30.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,51 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[法院因翻译问题而撤销猥亵案]]></title>
+        <id>https://nansey.github.io/post/court-reverses-case-because-of-inadequate-translations/</id>
+        <link href="https://nansey.github.io/post/court-reverses-case-because-of-inadequate-translations/">
+        </link>
+        <updated>2021-02-20T15:12:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>印第安纳州上诉法院批准推翻了一名安德森市男子在2011年被判犯有的两项A级重罪猥亵儿童罪，原因是他在认罪听证会上获得西班牙语翻译的权利没有得到充分保障。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>印第安纳州上诉法院批准推翻了一名安德森市男子在2011年被判犯有的两项A级重罪猥亵儿童罪，原因是他在认罪听证会上获得西班牙语翻译的权利没有得到充分保障。</p>
+<!-- more -->
+<p>&quot;准确来说，他认为在认罪听证会上西班牙语翻译没有充分传达他通过认罪而放弃的三项宪法权利。&quot;法院在1月29日的意见书中表示。</p>
+<p>意见书指出，被告有被告知由陪审审判的宪法权利、有与不利于他的证人对质的权利和不自证其罪的权利。（<a href="https://news.yahoo.com/appeals-court-reverses-molest-case-231900691.html">来源</a>）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因翻译怠工迟迟领不到抚恤金的日本遗孀]]></title>
+        <id>https://nansey.github.io/post/translation-delays-widows-benefits/</id>
+        <link href="https://nansey.github.io/post/translation-delays-widows-benefits/">
+        </link>
+        <updated>2021-02-20T14:50:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>Tadashi Tanabe 和妻子 Mosuko 于65年前在日本结婚。但有一天，Tadashi 不幸中风，手术后不久便在湾区去世。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Tadashi Tanabe 和妻子 Mosuko 于65年前在日本结婚。但有一天，Tadashi 不幸中风，手术后不久便在湾区去世。</p>
+<!-- more -->
+<p>葬礼结束后，妻子收集并提交了社保局要求的所有文件，包括他们在日本结婚的结婚证。</p>
+<p>办案人员告知，提交日文结婚证不会有问题，他们会翻译成英文，然后一个月后即可领取死亡抚恤金。但将近一年过去了，事情毫无进展。</p>
+<p>&quot;当我妈妈给他们打电话，他们居然说，'证件翻译拿去了，只是还没有翻完。&quot;夫妇的女儿Aileen Nelson说。（<a href="https://abc7news.com/7oys-7-on-your-side-michael-finney-social-security/10345602/">来源</a>）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年《圣经》译本数量创历史新高]]></title>
+        <id>https://nansey.github.io/post/More-Bible-translations-in-2020/</id>
+        <link href="https://nansey.github.io/post/More-Bible-translations-in-2020/">
+        </link>
+        <updated>2021-02-19T15:29:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>Wycliffe Associates 目前有773本《圣经》正在翻译中，他们还收到了273个语言团体的请求——请求在2021年的《圣经》翻译中提供帮助。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Wycliffe Associates 目前有773本《圣经》正在翻译中，他们还收到了273个语言团体的请求——请求在2021年的《圣经》翻译中提供帮助。</p>
+<!-- more -->
+<p>Wycliffe Associates是一个为母语《圣经》译者和当地教会合作者赋能的国际组织，旨在推进《圣经》翻译。</p>
+<p>&quot;翻译工作不但没有因为COVID-19而放缓，实际反而加快了速度。&quot;Wycliffe Associates的临时总裁兼CEO Tim Neu说。</p>
+<p>&quot;COVID-19虽然将《圣经》译者困在家里，&quot;Neu说，&quot;但我们的线上《圣经》翻译系统能使更多人一起继续工作。&quot;</p>
+<p>在过去的一年里，打电话索求《圣经》的人，比以往任何时候都要多。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弗吉尼亚州卫生部因机翻再次被抓包]]></title>
         <id>https://nansey.github.io/post/VDH-caught-using-Google-Translate-again/</id>
@@ -111,53 +156,6 @@
         <content type="html"><![CDATA[<p>有明确证据表明，专业的翻译能显著改善患者健康状况——但为什么没有更多的美国医疗机构提供翻译呢？本月出版的美国儿科学会（American Academy of Pediatrics）官方杂志《儿科学》（<a href="https://pediatrics.aappublications.org/">Pediatrics</a>）上的两项新研究给出了答案。<a href="https://multilingual.com/new-research-on-hospital-interpreter-use/?utm_source=ZohoCampaigns&amp;utm_campaign=MultiLingual+News+Weekly&amp;utm_medium=email">具体而言</a>，这两项研究考察了医院急诊室（ER）儿童治疗方面对专业医学翻译的缺乏状况。</p>
 <!-- more -->
 <p>第一项&quot;解决英语能力有限患者的健康不平等问题&quot;（<a href="https://pediatrics.aappublications.org/content/147/2/e2020032383">Addressing Health Inequities for Limited English Proficiency Patients</a>），由加州大学儿科重症医学部（University of California’s Division of Pediatric Critical Care Medicine）研究。第二项&quot;儿科急诊室使用专业翻译的模式和预测因素&quot;（<a href="https://pediatrics.aappublications.org/content/147/2/e20193312">Patterns and Predictors of Professional Interpreter Use in the Pediatric Emergency Department</a>），由西雅图儿童研究所的儿童健康、行为和发展中心及临床和转化研究中心（Center for Child Health, Behavior and Development and the Center for Clinical and Translational Research at Seattle Children’s Research Institute）联合研究。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青年图书译者的玻璃心]]></title>
-        <id>https://nansey.github.io/post/Die-Schlafwandler-translator-liuchang/</id>
-        <link href="https://nansey.github.io/post/Die-Schlafwandler-translator-liuchang/">
-        </link>
-        <updated>2021-02-17T09:23:25.000Z</updated>
-        <summary type="html"><![CDATA[<p>是什么力量让90后汕头青年花十年之功凭一己之力翻译出布洛赫代表作《<a href="https://book.douban.com/subject/35094007/">梦游人</a>》——一部被中国读者期待了几十年的重量级作品，又是什么原因让未曾上过大学的流畅做到翻译界许多大咖都无法做到的事？</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>是什么力量让90后汕头青年花十年之功凭一己之力翻译出布洛赫代表作《<a href="https://book.douban.com/subject/35094007/">梦游人</a>》——一部被中国读者期待了几十年的重量级作品，又是什么原因让未曾上过大学的流畅做到翻译界许多大咖都无法做到的事？</p>
-<!-- more -->
-<p>在给米兰·昆德拉的<a href="https://book.douban.com/review/12848253/">信</a>中，译者流畅写道：“对于我来说，您就是小说艺术里的歌德，但愿我不是‘令人难以忍受的牛虻’贝蒂娜。”“我19岁就在您的书中了解到赫尔曼·布洛赫并开始翻译《梦游人》。我花了将近十年的时间才完成它。虽然我无缘翻译您那些伟大的作品，但这个译本是由那些作品促成的，所以应该将它献给您。”</p>
-<p>《梦游人》在发表90年后才有中文版，足见翻译的难度。哲学博士、执教于同济大学中文系的诗人胡桑认为，《梦游人》是一本德语世界公认难翻译的书，因为其中涉及了太多的知识和哲学背景。《梦游人》的编辑也在其<a href="https://book.douban.com/review/12848253/">手记</a>中写道：“它的难度的确让很多翻译家却步。在认识流畅以前，我曾找过翻译了《没有个性的人》的张荣昌先生，翻译了卡夫卡的叶廷芳先生，以及翻译了贡布罗维奇的杨德友先生，但在十年前已是八十高龄的三位译界翘楚，他们都表示没有时间和精力去译这个大部头。”</p>
-<p>尽管如此，在《梦游人》的豆瓣条目<a href="https://book.douban.com/subject/35094007/">页面</a>，也不乏读者对于英文转译和译者水平的<a href="https://book.douban.com/review/12848253/">质疑</a>，包括译者对读者的<a href="https://book.douban.com/review/12825388/">攻击</a>和对德语直译版本的<a href="https://book.douban.com/review/12855024/">打压</a>。系统显示，译者流畅已于2020年9月28日<a href="https://www.douban.com/people/54293325/">注销了</a>自己的豆瓣账号。</p>
-<p>1992年出生在潮阳和平镇的流畅原名郑富豪，有一个妹妹两个弟弟。他的父亲是个泥瓦匠，后来改开出租车。母亲在医务所学过一些接生知识，在村里当接生婆。在2011年第二次高考失败之后，流畅在一个远房表哥的介绍下，到广州的一家货运站打工。</p>
-<p>为了能专心致志的完成这项神圣的使命，流畅辞去仓库管理员的工作，回到了家乡。2011年开始，流畅一边翻译、写作，一边在淘宝售卖内衣。“窘迫之时，他曾做过买5条内裤，送他翻译的《未知量》译者签名本一册。5条内裤34.5元，一本《未知量》价格32.4元，小说包在内裤里一起发货。”</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波兰法院介入机译裁决，开行业先河]]></title>
-        <id>https://nansey.github.io/post/Poland-Rules-on-LSP-Using-Google-Translate/</id>
-        <link href="https://nansey.github.io/post/Poland-Rules-on-LSP-Using-Google-Translate/">
-        </link>
-        <updated>2021-02-16T09:40:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>据 Slator <a href="https://slator.com/industry-news/poland-rules-on-lsp-using-google-translate-defines-professional-translator/">报道</a>，波兰一家法院介入谷歌翻译使用以及 &quot;专业翻译&quot;标准的案例，开了行业先例。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据 Slator <a href="https://slator.com/industry-news/poland-rules-on-lsp-using-google-translate-defines-professional-translator/">报道</a>，波兰一家法院介入谷歌翻译使用以及 &quot;专业翻译&quot;标准的案例，开了行业先例。</p>
-<!-- more -->
-<p>这项<a href="https://tlumaczenia-prawnicze.eu/wp-content/uploads/2021/01/20200813_wyrok-SR-Pozna%C5%84-Stare-Miasto_XII-GC-669-17_Google-Translate.pdf">裁决</a>于去年夏天作出，也是法律语言学家和法律翻译专家 <a href="https://www.linkedin.com/company/iuridico">IURIDICO</a> 的首席执行官 <a href="https://www.linkedin.com/authwall?trk=bf&amp;trkInfo=AQFHosCJPwezJAAAAXeqNQNoneUOygQHKLrHMoorS3rxlmyef-G347j6rJEJ_aH6xyMCtZLvlqUDQtQx-7rdEH_4mBDXqRoKWudbGaZSoOY4lmSEYLTFDnLccsFPA_uqHT5hPAo=&amp;originalReferer=&amp;sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwojciechwoloszyk%2F">Wojciech Woloszyk</a> 2021年2月8日撰写的<a href="https://tlumaczenia-prawnicze.eu/lsps-responsibility-for-the-process-of-translation-and-the-rules-of-using-machine-translation/">一篇文章</a>的主题。Woloszyk作为专家证人在法庭出席。</p>
-<p>据Woloszyk所知，这是波兰第一起关于使用免费机器翻译工具的判决，涉及保密性、知识产权以及语言服务提供商（LSP）在监督译员工作质量方面的责任。</p>
-<p>此前的2013年，一家 LSP 将一位客户告上法庭，要求后者支付一本书波兰语到英语的翻译费用。客户拒绝向该 LSP 付款，称译文不仅交付得很晚，而且质量很差，不得不雇用第二家 LSP 才完成翻译。该 LSP 的译员使用谷歌翻译完成了92%的翻译，然后进行了译后编辑（<a href="https://www.memsource.com/blog/post-editing-machine-translation-best-practices/">PEMT/MTPE</a>）。剩余8%的翻译则使用了计算机辅助翻译工具（<a href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E8%BC%94%E5%8A%A9%E7%BF%BB%E8%AD%AF">CAT</a>）。</p>
-<p>Woloszyk 说，LSP 和客户最后商定，翻译将由 &quot;一名专业译员完成，并由一名母语人士编辑，译文应达到专业用途标准&quot;。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logrus Global 发布新版 TMX/TBX 文件编辑器]]></title>
-        <id>https://nansey.github.io/post/logrus-global-release-tmx-tbx-new-version/</id>
-        <link href="https://nansey.github.io/post/logrus-global-release-tmx-tbx-new-version/">
-        </link>
-        <updated>2021-02-16T06:07:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>随着全球拥抱开放标准趋势，尤其是开放数据格式，用户需要兼容这些格式的专门工具。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>随着全球拥抱开放标准趋势，尤其是开放数据格式，用户需要兼容这些格式的专门工具。</p>
-<!-- more -->
-<p>Logrus Global 致力于持续改进并免费提供针对开放数据文件格式(XLIFF、TMX、TBX)的 Goldpan TMX/TBX 编辑器。新的<a href="https://slator.com/press-releases/the-new-version-of-free-tmx-tbx-file-editor-and-converter-is-released/">3.6版本</a>的 TMX/TBX File Editor and Converter 支持过滤和搜索/替换中的正则表达式。同时支持自动更新，并允许用户导入 Excel 文件。</p>
-<p>Goldpan TMX/TBX Editor 是一种术语专家、编辑、翻译以及数据科学家日常工作的必备工具。</p>
 ]]></content>
     </entry>
 </feed>
