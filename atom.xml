@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-21T04:38:56.551Z</updated>
+    <updated>2021-02-21T05:03:52.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[新冠推动欧洲议会支持远程口译]]></title>
+        <id>https://nansey.github.io/post/European-Parliaments-Pivot-to-Remote-Interpreting/</id>
+        <link href="https://nansey.github.io/post/European-Parliaments-Pivot-to-Remote-Interpreting/">
+        </link>
+        <updated>2021-02-21T05:02:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>因Covid-19大流行，欧洲议会（<a href="https://www.europarl.europa.eu/portal/en">European Parliament</a>）采用新的平台支撑远程口译。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>因Covid-19大流行，欧洲议会（<a href="https://www.europarl.europa.eu/portal/en">European Parliament</a>）采用新的平台支撑远程口译。</p>
+<!-- more -->
+<p>据欧洲议会会议组织主任 <a href="https://slator.com/technology/behind-the-scenes-of-the-european-parliaments-pivot-to-remote-interpreting/">Anna Grzybowska 说</a>，在Covid-19大流行之前，该机构已有计划为与会者提供远程选择。Covid-19已促使欧洲议会将最初设想的服务纳入主流，以扩大有限的会议能力。</p>
+<p>在转向远程多语言技术的过程中，欧洲议会还须考虑到在布鲁塞尔现场工作的人员和自由译员的需求。因会议设备一次只能供一名译员使用，口译员必须分开工作。欧洲议会选择的工具须与现有的现场设备相对接。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年《圣经》译本数量创历史新高]]></title>
         <id>https://nansey.github.io/post/More-Bible-translations-in-2020/</id>
@@ -140,24 +154,6 @@
 <!-- more -->
 <p>位于波士顿马萨诸塞州的布莱根妇女医院是哈佛医学院的<a href="https://hms.harvard.edu/affiliates/brigham-womens-hospital">教学附属机构</a>。3月份当疫情首次冲击美国时，当地公共广播电台 <a href="https://www.wbur.org/commonhealth/2021/01/29/mass-general-brigham-covid-community-intervention">WBUR</a> 报道，布莱根病人安全报告即提醒了 &quot;对护理不平等的担忧&quot;。长期以来的研究表明，美国拉丁裔患者死于 covid-19 的比例相对于白人患者而言<a href="https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-death-by-race-ethnicity.html">高得不成比例</a>。而且，记者 Martha Bebinger 报道，布莱根的工作人员注意到了另一种差异：英语能力有限（<a href="https://en.wikipedia.org/wiki/Limited_English_proficiency">LEP</a>）患者的死亡比例更高。</p>
 <p>&quot;我们很早就预感到语言会成为一个问题，&quot;布莱根负责质量、安全和公平的医务主任 Karthik Sivashanker 博士告诉 Bebinger，&quot;而且我们收到证明该问题的安全报告。&quot; 因此，Sivashanker 和他的团队将少数族裔患者的预后与患有类似慢性病的白人患者的预后进行了比较，发现 covid-19 的死亡风险并没有差异，而差异在于语言。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讣告：美国法庭译员 Daniel Felix 死于 Covid-19]]></title>
-        <id>https://nansey.github.io/post/obituary-Daniel-Felix/</id>
-        <link href="https://nansey.github.io/post/obituary-Daniel-Felix/">
-        </link>
-        <updated>2021-02-17T15:19:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>《洛杉矶时报》<a href="https://www.latimes.com/california/story/2021-02-05/covid-complicates-in-person-trials-la-courthouses">报道</a>，至少有两名洛杉矶的法庭译员在工作中因感染 Covid-19 而死亡：一位叫 Sergio Cafaro（参见翻译动态之前的<a href="https://fanyi.news/post/Sergio-Cafaro-covid-death/">报道</a>），另一位叫 Daniel Felix。对于 Felix 的情况，《时报》暗指，他是在工作所在地Bellflower法院爆发 Covid-19 后感染的。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>《洛杉矶时报》<a href="https://www.latimes.com/california/story/2021-02-05/covid-complicates-in-person-trials-la-courthouses">报道</a>，至少有两名洛杉矶的法庭译员在工作中因感染 Covid-19 而死亡：一位叫 Sergio Cafaro（参见翻译动态之前的<a href="https://fanyi.news/post/Sergio-Cafaro-covid-death/">报道</a>），另一位叫 Daniel Felix。对于 Felix 的情况，《时报》暗指，他是在工作所在地Bellflower法院爆发 Covid-19 后感染的。</p>
-<!-- more -->
-<p>2021年1月，有3名法院工作人员在因感染 Covid-19 死亡，3月以来，5100名法院工作者和法官中有至少445人检测呈阳性。</p>
-<p>12月份，刑事司法中心有法庭记者检测呈阳性，促使管理人员关闭了她工作的法庭。但当一名也曾在该法庭工作过的口译员申请带薪休假局隔离时——根据译员工会（interpreter’s union）的说法——她遭到了拒绝。</p>
-<p>这名口译员不得不继续工作，几天后，检测结果呈阳性，导致大约15名口译员居家隔离。译员工会（interpreter’s union）称，许多人带薪休假的请求亦被拒绝。</p>
-<p>口译员 <a href="https://fanyi.news/post/Sergio-Cafaro-covid-death/">Sergio Cafaro</a> 于12月18日检测呈阳性，1月12日去世，享年56岁。五天后，另一名译员 Daniel Felix，66岁，死于 Covid-19 并发症。</p>
-<p>他的女儿 Masiel Felix 说，&quot;这本来是可以避免的。爸爸本可以远程工作。&quot;</p>
-<p>译者注：除了 Sergio Cafaro 和 Daniel Felix，美国手语译员 <a href="https://fanyi.news/post/26-sui-mei-guo-shou-yu-yi-yuan-si-yu-covid-19/">Hannah Mansell</a> 和美国新冠新闻发布会译员 <a href="https://fanyi.news/post/American-Sign-Interpreter-Dies-of-COVID-19/">Patty Sakal</a> 也曾在1月份死于 Covid-19。</p>
 ]]></content>
     </entry>
 </feed>
