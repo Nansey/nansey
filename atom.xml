@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-22T07:01:49.229Z</updated>
+    <updated>2021-02-22T07:20:08.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[微软发布新的文档翻译功能]]></title>
+        <id>https://nansey.github.io/post/MS-Introducing-Document-Translation/</id>
+        <link href="https://nansey.github.io/post/MS-Introducing-Document-Translation/">
+        </link>
+        <updated>2021-02-22T07:19:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>微软以预览形式发布文档翻译功能。文档翻译是微软翻译服务（<a href="https://azure.microsoft.com/zh-cn/services/cognitive-services/translator/">Translator service</a>）的一项全新功能，可翻译整个文档或不同格式的批量文档，且保留其原始结构和格式。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>微软以预览形式发布文档翻译功能。文档翻译是微软翻译服务（<a href="https://azure.microsoft.com/zh-cn/services/cognitive-services/translator/">Translator service</a>）的一项全新功能，可翻译整个文档或不同格式的批量文档，且保留其原始结构和格式。</p>
+<!-- more -->
+<p>文档翻译专为内容丰富的大文件翻译而设计——可将 Word、PowerPoint、Excel 或 PDF 等翻译成<a href="https://www.microsoft.com/translator/business/languages/">70多种语言</a>。用户还可以利用自定义翻译器（<a href="https://www.microsoft.com/translator/business/customization/">Custom Translator</a>）建立自定义词汇表和自定义翻译模型，以确保文档完全按照用户的要求进行翻译。</p>
+<p>一般翻译模型的价格为百万字符15美元，自定义翻译模型的价格为百万字符40美元起。</p>
+<p>详细文档可参考<a href="https://docs.microsoft.com/zh-cn/azure/cognitive-services/translator/document-translation/overview">这里</a>。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[孟加拉国高院推出 AI 翻译软件]]></title>
         <id>https://nansey.github.io/post/Bangladesh-Supreme-Court-launched-AI-translation-software/</id>
@@ -142,21 +157,6 @@
 <p>葬礼结束后，妻子收集并提交了社保局要求的所有文件，包括他们在日本结婚的结婚证。</p>
 <p>办案人员告知，提交日文结婚证不会有问题，他们会翻译成英文，然后一个月后即可领取死亡抚恤金。但将近一年过去了，事情毫无进展。</p>
 <p>&quot;当我妈妈给他们打电话，他们居然说，'证件翻译拿去了，只是还没有翻完‘。&quot;夫妇的女儿 Aileen Nelson 说。（<a href="https://abc7news.com/7oys-7-on-your-side-michael-finney-social-security/10345602/">来源</a>）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弗吉尼亚州卫生部因机翻再次被抓包]]></title>
-        <id>https://nansey.github.io/post/VDH-caught-using-Google-Translate-again/</id>
-        <link href="https://nansey.github.io/post/VDH-caught-using-Google-Translate-again/">
-        </link>
-        <updated>2021-02-19T10:04:38.000Z</updated>
-        <summary type="html"><![CDATA[<p>还记得弗吉尼亚州卫生部（<a href="https://www.vdh.virginia.gov/">VDH</a>）上个月因为使用谷歌翻译创建西语版 COVID-19 疫苗 FAQ 页面而被骂吗？（点击<a href="https://fanyi.news/post/vdh-translation-not-necessary/">这里</a>查看之前的报道）</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>还记得弗吉尼亚州卫生部（<a href="https://www.vdh.virginia.gov/">VDH</a>）上个月因为使用谷歌翻译创建西语版 COVID-19 疫苗 FAQ 页面而被骂吗？（点击<a href="https://fanyi.news/post/vdh-translation-not-necessary/">这里</a>查看之前的报道）</p>
-<!-- more -->
-<p>Times-Dispatch 的记者周二在 Twitter 上<a href="https://twitter.com/MelLeonor_/status/1361733891887828998?s=20">报道</a>，新的 VDH 疫苗注册网站再次使用了谷歌翻译。</p>
-<p>&quot;这个网站本来应该包含英语和西语两个版本，但西语版本明显是英语原版的谷歌翻译形式，&quot;Times-Dispatch 政治版记者 Mel Leonor 在 Twitter 上说，&quot;我的母语是西语，这个翻译说得过去，但远远不够。第一个字段，'First Name'仍然是'Nombre de pila'。&quot;</p>
-<p>这引起了弗吉尼亚州众议院议员 <a href="https://www.elizabethguzmanforvirginia.com/">Elizabeth Guzman</a> 的注意，她再次<a href="https://twitter.com/guzman4virginia/status/1361766156336586754">呼吁</a> VDH 不要再依靠谷歌翻译来传达西语 COVID-19 疫苗信息。</p>
 ]]></content>
     </entry>
 </feed>
