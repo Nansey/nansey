@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-21T09:23:46.596Z</updated>
+    <updated>2021-02-22T02:40:45.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[蒙特利尔出版商向谷歌翻译情愿支持本地语]]></title>
+        <id>https://nansey.github.io/post/petition-Cree-add-Google-Translate/</id>
+        <link href="https://nansey.github.io/post/petition-Cree-add-Google-Translate/">
+        </link>
+        <updated>2021-02-22T02:40:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>蒙特利尔的出版商 Joseph John 希望他的漫画书《加拿大公民》（<a href="https://citizen-canada.ca/">Citizen Canada</a>）中的挂名英雄可以说英语、法语和克里语（<a href="https://en.wikipedia.org/wiki/Cree">Cree</a>），以此反映这个国家的多元历史。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>蒙特利尔的出版商 Joseph John 希望他的漫画书《加拿大公民》（<a href="https://citizen-canada.ca/">Citizen Canada</a>）中的挂名英雄可以说英语、法语和克里语（<a href="https://en.wikipedia.org/wiki/Cree">Cree</a>），以此反映这个国家的多元历史。</p>
+<!-- more -->
+<p>但当他开始在<a href="https://translate.google.com/?hl=zh-CN">谷歌翻译</a>中输入这位土著超级英雄的对话时，却发现加拿大最常见的第一民族语言克里语并不被谷歌翻译支持。</p>
+<p>于是，John 主动在网上创建了一份请愿书，敦促谷歌在其翻译应用中提供克里语支持。John 的请愿书序言中指出，新西兰原住民的语言毛利语（<a href="https://en.wikipedia.org/wiki/M%C4%81ori_language">Maori</a>）在谷歌翻译中是可以使用的。新西兰政府的数据显示，那里大约有5万讲毛利语的人，但加拿大统计局2016年的人口普查数据显示，加拿大有超过9.6万名讲克里语的人。</p>
+<p>根据地区政府的数据，克里语是阿尔冈昆语系（<a href="https://en.wikiversity.org/wiki/Algonquian_languages">Algonquin language family</a>）的一部分，包含9种方言，从拉布拉多（Labrador）到阿尔伯塔（Alberta）和西北地区的广大地域内都有人使用。</p>
+<p>谷歌发言人 Molly Morgan 表示，克里语是该公司 <a href="https://www.google.com/get/noto/">Noto 字体项目</a>中包含的众多土著语言之一，将其纳入翻译应用是一个比较复杂的过程。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[张爱玲小说散文集将于今年在美国出版]]></title>
         <id>https://nansey.github.io/post/eileen-chang-collection-to-be-published-in-us/</id>
@@ -143,21 +159,6 @@
 <p>据《独立报》<a href="https://www.independent.co.uk/news/uk/crime/court-interpreter-fake-mirwais-patang-b1801634.html">报道</a>，从2012年3月到2016年8月，Patang 在140个案件中获得了超过6.55万英镑的口译收入（这些口译服务被伦敦法院<a href="https://www.standard.co.uk/news/crime/mirwais-patang-ministry-of-justice-court-translator-qualifications-capita-b919645.html">裁定</a>为&quot;差 &quot;或 &quot;极差 &quot;水平）。</p>
 <p>2015年，Capita 公司指派 Patang 去为一个备受瞩目的案件担任口译——<a href="https://www.bbc.com/news/uk-england-32786263">Aylesbury 儿童团伙性侵案</a>。但帕唐却把工作<a href="https://www.independent.co.uk/news/uk/crime/court-interpreter-fake-mirwais-patang-b1801634.html">转包</a>给了他的朋友 Solimann David。</p>
 <p>《独立报》<a href="https://www.standard.co.uk/news/crime/mirwais-patang-ministry-of-justice-court-translator-qualifications-capita-b919645.html">称</a>，2016年10月，Patang 与 Capita 的合同结束。Patang对8项欺诈罪、3项伪造罪和1项共谋欺诈罪表示认罪。2月12日，法院判处他两年监禁，缓期两年执行，外加300小时社区服务。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讣告：中国社科院哲学所译审王炳文逝世]]></title>
-        <id>https://nansey.github.io/post/obituary-wangbingwen/</id>
-        <link href="https://nansey.github.io/post/obituary-wangbingwen/">
-        </link>
-        <updated>2021-02-19T04:02:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>《<a href="https://www.thepaper.cn/newsDetail_forward_11385343">澎湃</a>》新闻记者从中国社会科学院哲学研究所方面获悉：中国社会科学院哲学研究所译审王炳文先生于2021年2月9日在北京去世，享年87岁。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>《<a href="https://www.thepaper.cn/newsDetail_forward_11385343">澎湃</a>》新闻记者从中国社会科学院哲学研究所方面获悉：中国社会科学院哲学研究所译审王炳文先生于2021年2月9日在北京去世，享年87岁。</p>
-<!-- more -->
-<p>公开资料显示，王炳文先生生1934年出生于山西文水一个贫苦农民家庭。五十年代曾在北京三中从事政治与语文教学。1963年毕业于北京大学哲学系，同年分配到中国科学院哲学研究所工作，1995年退休。</p>
-<p>王炳文先生先后于哲学所《哲学译丛》编辑部和现代外国哲学研究室工作。王炳文先生通晓德、俄、英、法、日等外语，翻译了大量重要的哲学著作。他主译的《当代哲学主流》和《现象学运动》在国内哲学界产生了广泛影响。他参与翻译的《苏联哲学纪事（1953—1976）》对于国内哲学界了解斯大林去世之后的苏联哲学起到了重要作用。</p>
-<p>他尤其对胡塞尔著作的翻译倾注了大量心血，以一人之力翻译了《欧洲科学的危机与超越论的现象学》《第一哲学》《共主观性的现象学》等煌煌巨著，尤其是2018年出版的三卷本的《共主观性的现象学》译著是他年过八旬之后完成的杰作，这些著作对国内学界准确理解和深入研究胡塞尔的哲学思想做出了杰出贡献。</p>
 ]]></content>
     </entry>
 </feed>
