@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-23T10:28:53.743Z</updated>
+    <updated>2021-02-23T10:30:28.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -16,10 +16,11 @@
         <link href="https://nansey.github.io/post/Microsoft-Translator-releases-nine-new-languages/">
         </link>
         <updated>2021-02-23T10:27:15.000Z</updated>
-        <summary type="html"><![CDATA[<p>据微软官网2月22日<a href="https://www.microsoft.com/en-us/translator/blog/2021/02/22/microsoft-translator-releases-nine-new-languages-for-international-mother-language-day-2021/">博文</a>，Microsoft Translator 新增九种新的文本翻译语言。阿尔巴尼亚语、阿姆哈拉语、亚美尼亚语、阿塞拜疆语、高棉语、老挝语、缅甸语、尼泊尔语和提格里尼亚语。这一消息是在联合国教育、科学及文化组织(<a href="https://en.unesco.org/">UNESCO</a>)每年2月21日举行的 &quot;国际母语日 &quot;（<a href="https://www.un.org/en/observances/mother-language-day">International Mother Language Day</a>）活动之后宣布的，旨在促进语言和文化的多样性和多语制（<a href="https://en.wikipedia.org/wiki/Multilingualism">multilingualism</a>）。</p>
+        <summary type="html"><![CDATA[<p>据微软官网2月22日<a href="https://www.microsoft.com/en-us/translator/blog/2021/02/22/microsoft-translator-releases-nine-new-languages-for-international-mother-language-day-2021/">博文</a>，Microsoft Translator 新增九种新的文本翻译语言：阿尔巴尼亚语、阿姆哈拉语、亚美尼亚语、阿塞拜疆语、高棉语、老挝语、缅甸语、尼泊尔语和提格里尼亚语。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>据微软官网2月22日<a href="https://www.microsoft.com/en-us/translator/blog/2021/02/22/microsoft-translator-releases-nine-new-languages-for-international-mother-language-day-2021/">博文</a>，Microsoft Translator 新增九种新的文本翻译语言。阿尔巴尼亚语、阿姆哈拉语、亚美尼亚语、阿塞拜疆语、高棉语、老挝语、缅甸语、尼泊尔语和提格里尼亚语。这一消息是在联合国教育、科学及文化组织(<a href="https://en.unesco.org/">UNESCO</a>)每年2月21日举行的 &quot;国际母语日 &quot;（<a href="https://www.un.org/en/observances/mother-language-day">International Mother Language Day</a>）活动之后宣布的，旨在促进语言和文化的多样性和多语制（<a href="https://en.wikipedia.org/wiki/Multilingualism">multilingualism</a>）。</p>
+        <content type="html"><![CDATA[<p>据微软官网2月22日<a href="https://www.microsoft.com/en-us/translator/blog/2021/02/22/microsoft-translator-releases-nine-new-languages-for-international-mother-language-day-2021/">博文</a>，Microsoft Translator 新增九种新的文本翻译语言：阿尔巴尼亚语、阿姆哈拉语、亚美尼亚语、阿塞拜疆语、高棉语、老挝语、缅甸语、尼泊尔语和提格里尼亚语。</p>
 <!-- more -->
+<p>这一消息是在联合国教育、科学及文化组织(<a href="https://en.unesco.org/">UNESCO</a>)每年2月21日举行的 &quot;国际母语日 &quot;（<a href="https://www.un.org/en/observances/mother-language-day">International Mother Language Day</a>）活动之后宣布的，旨在促进语言和文化的多样性和多语制（<a href="https://en.wikipedia.org/wiki/Multilingualism">multilingualism</a>）。</p>
 <p>新增这九种新语言后，<a href="https://www.microsoft.com/zh-cn/translator/">Microsoft Translator</a> 文本翻译现在有83种不同的语言可供选择，法语和葡萄牙语等语言可提供额外的方言，中文和塞尔维亚语等语言可提供多种书写系统。</p>
 <p>这些语言均支持 <a href="https://www.microsoft.com/en-us/p/translator/9wzdncrfj3pg">Microsoft Translator 应用</a>、<a href="https://www.microsoft.com/en-us/download/office.aspx">Office办公软件</a>和 <a href="https://www.bing.com/translator">Bing Translator</a>，以及83种语言的文本互译。</p>
 <p>联合国教科文组织于1999年宣布2月21日为国际母语日，自2000年起每年庆祝。选择这个日子是为了纪念1952年<a href="https://en.wikipedia.org/wiki/Bengali_language_movement">孟加拉语运动</a>——倡导承认孟加拉语在现代孟加拉国的地位。2002年，联合国大会对国际母语日进行了宣布。</p>
