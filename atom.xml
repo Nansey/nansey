@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-23T00:28:31.657Z</updated>
+    <updated>2021-02-23T05:15:13.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[全国首个智能手语双向政务服务]]></title>
+        <id>https://nansey.github.io/post/1st-smart-sign-gov-service/</id>
+        <link href="https://nansey.github.io/post/1st-smart-sign-gov-service/">
+        </link>
+        <updated>2021-02-23T05:14:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>据《长沙晚报》<a href="https://www.icswb.com/newspaper_article-detail-1748808.html">报道</a>，全国首个智能手语双向政务服务2月19日在开福区启用，覆盖该区政务服务大厅和16个街道政务服务中心，通过人工智能的虚拟翻译，为听力障碍人士提供全方位双向无障碍沟通环境。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据《长沙晚报》<a href="https://www.icswb.com/newspaper_article-detail-1748808.html">报道</a>，全国首个智能手语双向政务服务2月19日在开福区启用，覆盖该区政务服务大厅和16个街道政务服务中心，通过人工智能的虚拟翻译，为听力障碍人士提供全方位双向无障碍沟通环境。</p>
+<!-- more -->
+<p>在开福区政务服务大厅，点击楼层业务引导系统的触屏，一个穿黑套装、留短发的漂亮小姐姐就会现身屏上，全程用手语介绍；在该大厅的4号综合窗口，这位小姐姐还会配合人工手语翻译，双向同“手”传译帮助前来办事的听障人士。</p>
+<p>虚拟手语翻译“千语”服务系统由语义媒体大数据、媒体计算工作流框架构成，基于语义媒体大数据，打通语音文字到手语手势、手语手势到语音文字的双向映射，实现听障人无障碍获取汉语及文本信息，听障人与健听人之间无障碍沟通。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软发布新的文档翻译功能]]></title>
         <id>https://nansey.github.io/post/MS-Introducing-Document-Translation/</id>
@@ -142,21 +156,6 @@
 <!-- more -->
 <p>&quot;准确来说，他认为在认罪听证会上西班牙语翻译没有充分传达他通过认罪而放弃的三项宪法权利。&quot;法院在1月29日的意见书中表示。</p>
 <p>意见书指出，被告有被告知由陪审审判的宪法权利（right to trial by jury）、有与不利于他的证人对质的权利（right to confront the witnesses against him）和不自证其罪的权利（right against self-incrimination）。（<a href="https://news.yahoo.com/appeals-court-reverses-molest-case-231900691.html">来源</a>）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因翻译怠工迟迟领不到抚恤金的日本遗孀]]></title>
-        <id>https://nansey.github.io/post/translation-delays-widows-benefits/</id>
-        <link href="https://nansey.github.io/post/translation-delays-widows-benefits/">
-        </link>
-        <updated>2021-02-20T14:50:59.000Z</updated>
-        <summary type="html"><![CDATA[<p>Tadashi Tanabe 和妻子 Mosuko 于65年前在日本结婚。但有一天，Tadashi 不幸中风，手术后不久便在湾区去世。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>Tadashi Tanabe 和妻子 Mosuko 于65年前在日本结婚。但有一天，Tadashi 不幸中风，手术后不久便在湾区去世。</p>
-<!-- more -->
-<p>葬礼结束后，妻子收集并提交了社保局要求的所有文件，包括他们在日本结婚的结婚证。</p>
-<p>办案人员告知，提交日文结婚证不会有问题，他们会翻译成英文，然后一个月后即可领取死亡抚恤金。但将近一年过去了，事情毫无进展。</p>
-<p>&quot;当我妈妈给他们打电话，他们居然说，'证件翻译拿去了，只是还没有翻完‘。&quot;夫妇的女儿 Aileen Nelson 说。（<a href="https://abc7news.com/7oys-7-on-your-side-michael-finney-social-security/10345602/">来源</a>）</p>
 ]]></content>
     </entry>
 </feed>
