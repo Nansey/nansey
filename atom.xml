@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-24T03:31:13.819Z</updated>
+    <updated>2021-02-24T09:03:42.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[Visus LLC 和 Lionbridge 宣布合作]]></title>
+        <id>https://nansey.github.io/post/Visus-LLC-Lionbridge-Announce-Language-Translation-Joint-Offering/</id>
+        <link href="https://nansey.github.io/post/Visus-LLC-Lionbridge-Announce-Language-Translation-Joint-Offering/">
+        </link>
+        <updated>2021-02-24T09:02:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>软件解决方案公司 <a href="https://visusllc.com/about">Visus LLC</a> 与本地化和数据训练领域的全球领导者 <a href="https://www.lionbridge.com/who-we-are/#about-us">Lionbridge</a> 宣布合作，以促进寻求多语言和翻译功能的网站整合语言翻译。Visus LLC 的 <a href="https://visusllc.com/sitefinity-cms">Sitefinity CMS</a> 专业技术与 Lionbridge 的多语言翻译能力相结合，为中大型网站提供了一个易于使用和管理的 CMS 平台集成语言翻译方案。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>软件解决方案公司 <a href="https://visusllc.com/about">Visus LLC</a> 与本地化和数据训练领域的全球领导者 <a href="https://www.lionbridge.com/who-we-are/#about-us">Lionbridge</a> 宣布合作，以促进寻求多语言和翻译功能的网站整合语言翻译。Visus LLC 的 <a href="https://visusllc.com/sitefinity-cms">Sitefinity CMS</a> 专业技术与 Lionbridge 的多语言翻译能力相结合，为中大型网站提供了一个易于使用和管理的 CMS 平台集成语言翻译方案。</p>
+<!-- more -->
+<p>Lionbridge 的机器和人工翻译平台与 Sitefinity CMS 全面集成，有助于解决多语言内容交付的挑战。Visus LLC 和 Lionbridge 的结合也有助于公司翻译项目、页面和模板流程的自动化，从而使其网站的多语言使用更加简单、快速和节约。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌语音翻译服务正式添加哈萨克语]]></title>
         <id>https://nansey.github.io/post/google-voice-translation-add-kazak/</id>
@@ -141,20 +154,6 @@
         <content type="html"><![CDATA[<p>据 Slator <a href="https://slator.com/deal-wins/semantix-partners-with-esteam-summa-linguae-on-eur-34m-eu-translation-contract/">报道</a>，总部位于瑞典的语言服务提供商（LSP）<a href="https://www.semantix.com/">Semantix</a> 在2020年12月赢得了欧盟的3400万欧元（4100万美元）合同。</p>
 <!-- more -->
 <p>此次招标内容包括为<a href="https://ec.europa.eu/info/index_en">欧盟委员会</a><a href="https://ec.europa.eu/growth/about-us_en">内部市场、工业、创业和中小企业总局</a>（DG）提供翻译服务，其目的是促进欧洲的经济增长和 &quot;创业文化&quot;。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新冠推动欧洲议会支持远程口译]]></title>
-        <id>https://nansey.github.io/post/European-Parliaments-Pivot-to-Remote-Interpreting/</id>
-        <link href="https://nansey.github.io/post/European-Parliaments-Pivot-to-Remote-Interpreting/">
-        </link>
-        <updated>2021-02-21T05:02:23.000Z</updated>
-        <summary type="html"><![CDATA[<p>因 Covid-19 大流行，欧洲议会（<a href="https://www.europarl.europa.eu/portal/en">European Parliament</a>）采用新的平台支撑远程口译。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>因 Covid-19 大流行，欧洲议会（<a href="https://www.europarl.europa.eu/portal/en">European Parliament</a>）采用新的平台支撑远程口译。</p>
-<!-- more -->
-<p>据欧洲议会会议组织主任 <a href="https://slator.com/technology/behind-the-scenes-of-the-european-parliaments-pivot-to-remote-interpreting/">Anna Grzybowska 说</a>，在 Covid-19 大流行之前，该机构已有计划为与会者提供远程选择。Covid-19 已促使欧洲议会将最初设想的服务纳入主流，以扩大有限的会议能力。</p>
-<p>在转向远程多语言技术的过程中，欧洲议会还须考虑到在布鲁塞尔现场工作的人员和自由译员的需求。因会议设备一次只能供一名译员使用，口译员必须分开工作。欧洲议会选择的工具须与现有的现场设备相对接。</p>
 ]]></content>
     </entry>
 </feed>
