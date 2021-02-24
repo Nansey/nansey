@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-23T10:31:52.690Z</updated>
+    <updated>2021-02-24T03:31:13.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌语音翻译服务正式添加哈萨克语]]></title>
+        <id>https://nansey.github.io/post/google-voice-translation-add-kazak/</id>
+        <link href="https://nansey.github.io/post/google-voice-translation-add-kazak/">
+        </link>
+        <updated>2021-02-24T03:30:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>哈萨克斯坦国家翻译局公共基金执行总裁热万·肯杰汗吾勒2月23日<a href="https://www.inform.kz/cn/article_a3756803">表示</a>，谷歌语音翻译服务正式添加哈萨克语。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>哈萨克斯坦国家翻译局公共基金执行总裁热万·肯杰汗吾勒2月23日<a href="https://www.inform.kz/cn/article_a3756803">表示</a>，谷歌语音翻译服务正式添加哈萨克语。</p>
+<!-- more -->
+<p>肯杰汗吾勒在Facebook主页上写道：“朋友们，好消息！哈萨克语正式加入谷歌语音翻译功能。这是我们与谷歌之间5年以来开展的工作成果。为此，我们向谷歌提供了数以千计的翻译文字、数百小时哈萨克语录音和音量字典。谷歌翻译功能是采用神经机器翻译（GNMT：<a href="https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation">Google Neural Machine Translation</a>）技术的最领先翻译系统。因此，对于语言的保护和发展而言，这是非常重要的事件。”</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国际母语日微软翻译新增九种语言支持]]></title>
         <id>https://nansey.github.io/post/Microsoft-Translator-releases-nine-new-languages/</id>
@@ -142,22 +155,6 @@
 <!-- more -->
 <p>据欧洲议会会议组织主任 <a href="https://slator.com/technology/behind-the-scenes-of-the-european-parliaments-pivot-to-remote-interpreting/">Anna Grzybowska 说</a>，在 Covid-19 大流行之前，该机构已有计划为与会者提供远程选择。Covid-19 已促使欧洲议会将最初设想的服务纳入主流，以扩大有限的会议能力。</p>
 <p>在转向远程多语言技术的过程中，欧洲议会还须考虑到在布鲁塞尔现场工作的人员和自由译员的需求。因会议设备一次只能供一名译员使用，口译员必须分开工作。欧洲议会选择的工具须与现有的现场设备相对接。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020年《圣经》译本数量创历史新高]]></title>
-        <id>https://nansey.github.io/post/More-Bible-translations-in-2020/</id>
-        <link href="https://nansey.github.io/post/More-Bible-translations-in-2020/">
-        </link>
-        <updated>2021-02-20T15:29:58.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://wycliffeassociates.org/">Wycliffe Associates</a> 目前有773本《圣经》正在翻译中，他们还收到了273个语言团体的请求——请求在2021年的《圣经》翻译中提供帮助。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://wycliffeassociates.org/">Wycliffe Associates</a> 目前有773本《圣经》正在翻译中，他们还收到了273个语言团体的请求——请求在2021年的《圣经》翻译中提供帮助。</p>
-<!-- more -->
-<p>Wycliffe Associates 是一个为母语《圣经》译者和当地教会合作者赋能的国际组织，旨在推进《圣经》翻译。</p>
-<p>&quot;翻译工作不但没有因为COVID-19而放缓，实际反而加快了速度。&quot;Wycliffe Associates 的临时总裁兼CEO Tim Neu说。</p>
-<p>&quot;COVID-19 虽然将《圣经》译者困在家里，&quot;Neu 说，&quot;但我们的线上《圣经》翻译系统能使更多人一起继续工作。&quot;</p>
-<p>在过去的一年里，打电话索求《圣经》的人，比以往任何时候都要多。（<a href="https://chvnradio.com/articles/more-bible-translations-in-2020-than-any-other-single-year">来源</a>）</p>
 ]]></content>
     </entry>
 </feed>
