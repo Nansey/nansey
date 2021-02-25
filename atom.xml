@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-25T09:17:19.351Z</updated>
+    <updated>2021-02-25T09:51:40.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[堪萨斯州西语教授就医疗翻译建议立法]]></title>
+        <id>https://nansey.github.io/post/New-Medical-Interpreter-Law-Proposed/</id>
+        <link href="https://nansey.github.io/post/New-Medical-Interpreter-Law-Proposed/">
+        </link>
+        <updated>2021-02-25T09:51:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>在美国，已有联邦法律规定，医院必须为英语能力有限（<a href="https://en.wikipedia.org/wiki/Limited_English_proficiency">LEP</a>）的患者提供平等的语言使用权——包括合格的医疗翻译。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在美国，已有联邦法律规定，医院必须为英语能力有限（<a href="https://en.wikipedia.org/wiki/Limited_English_proficiency">LEP</a>）的患者提供平等的语言使用权——包括合格的医疗翻译。</p>
+<!-- more -->
+<p>但 Rachel Showstack 希望在堪萨斯州也能将此作为一项法律，让不提供翻译的医院同时受到联邦和州的约束。Showstack 是堪萨斯州威奇托州立大学的西班牙语教授，她专注于医疗服务中的语言无障碍问题。&quot;最大的问题之一就是，人们不知道他们有权获得翻译，他们应该提出要求。&quot;她告诉威奇托的报纸 <em><a href="https://thesunflower.com/">The Sunflower</a></em>。</p>
+<p>自2009年起，美国就开始了医疗翻译的认证。但尽管如此，堪萨斯州并没有强制要求医院和诊所的口译员必须获得认证。</p>
+<p>Showstack 正与州议员 Susan Ruiz 就立法建议进行合作，最早可能在该州下一届立法会议上提出。（<a href="https://multilingual.com/new-medical-interpreter-law-proposed/">来源</a>）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[语言阻碍在英拉丁裔人群接种新冠疫苗]]></title>
         <id>https://nansey.github.io/post/Language-barrier-blocks-Latinos-from-vaccines/</id>
@@ -135,21 +150,6 @@
 <!-- more -->
 <p>在开福区政务服务大厅，点击楼层业务引导系统的触屏，一个穿黑套装、留短发的漂亮小姐姐就会现身屏上，全程用手语介绍；在该大厅的4号综合窗口，这位小姐姐还会配合人工手语翻译，双向同“手”传译帮助前来办事的听障人士。</p>
 <p>虚拟手语翻译“千语”服务系统由语义媒体大数据、媒体计算工作流框架构成，基于语义媒体大数据，打通语音文字到手语手势、手语手势到语音文字的双向映射，实现听障人无障碍获取汉语及文本信息，听障人与健听人之间无障碍沟通。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软发布新的文档翻译功能]]></title>
-        <id>https://nansey.github.io/post/MS-Introducing-Document-Translation/</id>
-        <link href="https://nansey.github.io/post/MS-Introducing-Document-Translation/">
-        </link>
-        <updated>2021-02-22T07:19:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>微软以预览形式发布文档翻译功能。文档翻译是微软翻译服务（<a href="https://azure.microsoft.com/zh-cn/services/cognitive-services/translator/">Translator service</a>）的一项全新功能，可翻译整个文档或不同格式的批量文档，且保留其原始结构和格式。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>微软以预览形式发布文档翻译功能。文档翻译是微软翻译服务（<a href="https://azure.microsoft.com/zh-cn/services/cognitive-services/translator/">Translator service</a>）的一项全新功能，可翻译整个文档或不同格式的批量文档，且保留其原始结构和格式。</p>
-<!-- more -->
-<p>文档翻译专为内容丰富的大文件翻译而设计——可将 Word、PowerPoint、Excel 或 PDF 等翻译成<a href="https://www.microsoft.com/translator/business/languages/">70多种语言</a>。用户还可以利用自定义翻译器（<a href="https://www.microsoft.com/translator/business/customization/">Custom Translator</a>）建立自定义词汇表和自定义翻译模型，以确保文档完全按照用户的要求进行翻译。</p>
-<p>一般翻译模型的价格为百万字符15美元，自定义翻译模型的价格为百万字符40美元起。</p>
-<p>详细文档可参考<a href="https://docs.microsoft.com/zh-cn/azure/cognitive-services/translator/document-translation/overview">这里</a>。</p>
 ]]></content>
     </entry>
 </feed>
