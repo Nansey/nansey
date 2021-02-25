@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-25T02:50:03.531Z</updated>
+    <updated>2021-02-25T09:11:48.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[语言阻碍在英拉丁裔人群新冠疫苗接种]]></title>
+        <id>https://nansey.github.io/post/Language-barrier-blocks-Latinos-from-vaccines/</id>
+        <link href="https://nansey.github.io/post/Language-barrier-blocks-Latinos-from-vaccines/">
+        </link>
+        <updated>2021-02-25T09:06:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>据《卫报》报道，居住在英国的西班牙语人群可能很难获得 covid-19 疫苗接种。2月15日的这篇<a href="https://www.theguardian.com/society/2021/feb/15/low-gp-access-rates-among-latin-americans-in-uk-raise-vaccine-concerns?CMP=Share_iOSApp_Other">报道</a>称，两名来自拉丁美洲的移民告诉《卫报》，医生拒绝给他们注射（疫苗），因为他们不会说英语。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据《卫报》报道，居住在英国的西班牙语人群可能很难获得 covid-19 疫苗接种。2月15日的这篇<a href="https://www.theguardian.com/society/2021/feb/15/low-gp-access-rates-among-latin-americans-in-uk-raise-vaccine-concerns?CMP=Share_iOSApp_Other">报道</a>称，两名来自拉丁美洲的移民告诉《卫报》，医生拒绝给他们注射（疫苗），因为他们不会说英语。</p>
+<!-- more -->
+<p>一项调查发现，七分之一的低薪拉美裔没有在全科医生（General Practitioner）那里登记，人们越来越担心伦敦的拉美社区人群会因此错过疫苗接种。</p>
+<p>据估计，有25万拉美裔生活在英国，其中一半人住在伦敦。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国负责窃听的译员面临刑事指控]]></title>
         <id>https://nansey.github.io/post/US-Interpreter-Faces-Criminal-Charges/</id>
@@ -136,20 +150,6 @@
 <p>文档翻译专为内容丰富的大文件翻译而设计——可将 Word、PowerPoint、Excel 或 PDF 等翻译成<a href="https://www.microsoft.com/translator/business/languages/">70多种语言</a>。用户还可以利用自定义翻译器（<a href="https://www.microsoft.com/translator/business/customization/">Custom Translator</a>）建立自定义词汇表和自定义翻译模型，以确保文档完全按照用户的要求进行翻译。</p>
 <p>一般翻译模型的价格为百万字符15美元，自定义翻译模型的价格为百万字符40美元起。</p>
 <p>详细文档可参考<a href="https://docs.microsoft.com/zh-cn/azure/cognitive-services/translator/document-translation/overview">这里</a>。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孟加拉国高院推出 AI 翻译软件]]></title>
-        <id>https://nansey.github.io/post/Bangladesh-Supreme-Court-launched-AI-translation-software/</id>
-        <link href="https://nansey.github.io/post/Bangladesh-Supreme-Court-launched-AI-translation-software/">
-        </link>
-        <updated>2021-02-22T06:57:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>孟加拉国最高法院周四通过线上活动推出了基于人工智能（AI）的翻译软件 &quot;Amar Vasha&quot;。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>孟加拉国最高法院周四通过线上活动推出了基于人工智能（AI）的翻译软件 &quot;Amar Vasha&quot;。</p>
-<!-- more -->
-<p>该软件可以把最高法院的命令和判决从英语翻译成孟加拉语。</p>
-<p>该软件由孟加拉与印度的 &quot;EkStep &quot;基金会基于印度的翻译软件&quot;Anuvaad &quot;共同研发，Anuvaad 2019年11月被印度最高法院部署为SUVAS（最高法院Vidhik Anuvaad软件），可将英语翻译成印度语言，包括孟加拉语。（<a href="http://www.ddinews.gov.in/international/ai-based-translation-software-inaugurated-bangladesh-supreme-court">来源</a>）</p>
 ]]></content>
     </entry>
 </feed>
