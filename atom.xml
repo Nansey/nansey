@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-25T09:11:48.930Z</updated>
+    <updated>2021-02-25T09:17:19.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
     <entry>
-        <title type="html"><![CDATA[语言阻碍在英拉丁裔人群新冠疫苗接种]]></title>
+        <title type="html"><![CDATA[语言阻碍在英拉丁裔人群接种新冠疫苗]]></title>
         <id>https://nansey.github.io/post/Language-barrier-blocks-Latinos-from-vaccines/</id>
         <link href="https://nansey.github.io/post/Language-barrier-blocks-Latinos-from-vaccines/">
         </link>
