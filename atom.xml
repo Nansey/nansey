@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-26T01:39:07.594Z</updated>
+    <updated>2021-02-26T02:49:48.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[术语在线网站英文版上线]]></title>
+        <id>https://nansey.github.io/post/term-online-launch-english-version/</id>
+        <link href="https://nansey.github.io/post/term-online-launch-english-version/">
+        </link>
+        <updated>2021-02-26T02:46:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>据术语中国公众号<a href="https://mp.weixin.qq.com/s/vJlz7ZOLrEUrQbWweKFlxw">消息</a>，术语在线网站英文版上线试运行。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据术语中国公众号<a href="https://mp.weixin.qq.com/s/vJlz7ZOLrEUrQbWweKFlxw">消息</a>，术语在线网站英文版上线试运行。</p>
+<!-- more -->
+<p><a href="www.termonline.cn">术语在线</a>是<a href="http://www.cnctst.cn/">全国科学技术名词审定委员会</a>着力打造的术语知识公共服务平台，于2016年5月正式上线提供服务。网站涵盖了全国科学技术名词审定委员会历年来公布的规范名词、发布的科技新词、出版的海峡两岸对照名词和工具书等全部审定成果，又融入了中央编译局、中国外文局、国务院新闻办、外语中文译写规范部际联席会议等机构发布的规范成果。上线五年来已累计提供1.06亿次检索服务，用户来自全球100多个国家和地区。</p>
+<p>术语在线通过自适应技术实现中英文版本的页面显示，网站根据用户浏览器默认语种自动选择合适的语言，中文环境的默认显示中文版，其他的语言环境默认显示英文版。用户也可通过网站导航栏和侧边栏处语言图标进行语言切换。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堪萨斯州西语教授就医疗翻译建议立法]]></title>
         <id>https://nansey.github.io/post/New-Medical-Interpreter-Law-Proposed/</id>
@@ -137,20 +151,6 @@
 <p>新增这九种新语言后，<a href="https://www.microsoft.com/zh-cn/translator/">Microsoft Translator</a> 文本翻译现在有83种不同的语言可供选择，法语和葡萄牙语等语言可提供额外的方言，中文和塞尔维亚语等语言可提供多种书写系统。</p>
 <p>这些语言均支持 <a href="https://www.microsoft.com/en-us/p/translator/9wzdncrfj3pg">Microsoft Translator 应用</a>、<a href="https://www.microsoft.com/en-us/download/office.aspx">Office办公软件</a>和 <a href="https://www.bing.com/translator">Bing Translator</a>，以及83种语言的文本互译。</p>
 <p>联合国教科文组织于1999年宣布2月21日为国际母语日，自2000年起每年庆祝。选择这个日子是为了纪念1952年<a href="https://en.wikipedia.org/wiki/Bengali_language_movement">孟加拉语运动</a>——倡导承认孟加拉语在现代孟加拉国的地位。2002年，联合国大会对国际母语日进行了宣布。国际母语日的目标是 &quot;促进保存和保护世界各国人民使用的各种语言&quot;（to promote the preservation and protection of all languages used by peoples of the world）。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全国首个智能手语双向政务服务]]></title>
-        <id>https://nansey.github.io/post/1st-smart-sign-gov-service/</id>
-        <link href="https://nansey.github.io/post/1st-smart-sign-gov-service/">
-        </link>
-        <updated>2021-02-23T05:14:46.000Z</updated>
-        <summary type="html"><![CDATA[<p>据《长沙晚报》<a href="https://www.icswb.com/newspaper_article-detail-1748808.html">报道</a>，全国首个智能手语双向政务服务2月19日在开福区启用，覆盖该区政务服务大厅和16个街道政务服务中心，通过人工智能的虚拟翻译，为听力障碍人士提供全方位双向无障碍沟通环境。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据《长沙晚报》<a href="https://www.icswb.com/newspaper_article-detail-1748808.html">报道</a>，全国首个智能手语双向政务服务2月19日在开福区启用，覆盖该区政务服务大厅和16个街道政务服务中心，通过人工智能的虚拟翻译，为听力障碍人士提供全方位双向无障碍沟通环境。</p>
-<!-- more -->
-<p>在开福区政务服务大厅，点击楼层业务引导系统的触屏，一个穿黑套装、留短发的漂亮小姐姐就会现身屏上，全程用手语介绍；在该大厅的4号综合窗口，这位小姐姐还会配合人工手语翻译，双向同“手”传译帮助前来办事的听障人士。</p>
-<p>虚拟手语翻译“千语”服务系统由语义媒体大数据、媒体计算工作流框架构成，基于语义媒体大数据，打通语音文字到手语手势、手语手势到语音文字的双向映射，实现听障人无障碍获取汉语及文本信息，听障人与健听人之间无障碍沟通。</p>
 ]]></content>
     </entry>
 </feed>
