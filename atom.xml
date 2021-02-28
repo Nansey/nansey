@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-26T09:45:26.841Z</updated>
+    <updated>2021-02-28T01:13:41.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[Chrome 浏览器推出 Live Captions 实时翻译功能]]></title>
+        <id>https://nansey.github.io/post/chrome-release-live-caption/</id>
+        <link href="https://nansey.github.io/post/chrome-release-live-caption/">
+        </link>
+        <updated>2021-02-27T01:12:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>早在 2019 年，谷歌就已经介绍过在 Android 平台上的“Live Captions”实时字幕翻译功能。无论收听播客、观看视频、查看语音邮件、还是与某人进行呼叫通话，Live Captions 都会自动创建并显示设备上正在播放的任何音频的字幕。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>早在 2019 年，谷歌就已经介绍过在 Android 平台上的“Live Captions”实时字幕翻译功能。无论收听播客、观看视频、查看语音邮件、还是与某人进行呼叫通话，Live Captions 都会自动创建并显示设备上正在播放的任何音频的字幕。</p>
+<!-- more -->
+<p>现在，我们终于可以在 Chrome 浏览器上也启用这项功能。启用实时字幕功能并重启 Chrome 浏览器之后，你可随意访问包括播客等在内的媒体资源（不只是自带翻译功能的 YouTube 流媒体服务），然后就可以在浏览器底部看字幕。</p>
+<p>详细的使用可参考 Android Police <a href="https://www.androidpolice.com/2021/02/25/live-caption-is-now-available-on-google-chrome-on-desktops/">这篇</a>。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SDL 机器翻译新增新的智能功能]]></title>
         <id>https://nansey.github.io/post/Smart-New-Features-Added-to-SDL-Machine-Translation/</id>
@@ -135,19 +149,6 @@
         <content type="html"><![CDATA[<p>软件解决方案公司 <a href="https://visusllc.com/about">Visus LLC</a> 与本地化和数据训练领域的全球领导者 <a href="https://www.lionbridge.com/who-we-are/#about-us">Lionbridge</a> 宣布合作，以促进寻求多语言和翻译功能的网站整合语言翻译。Visus LLC 的 <a href="https://visusllc.com/sitefinity-cms">Sitefinity CMS</a> 专业技术与 Lionbridge 的多语言翻译能力相结合，为中大型网站提供了一个易于使用和管理的 CMS 平台集成语言翻译方案。</p>
 <!-- more -->
 <p>Lionbridge 的机器和人工翻译平台与 Sitefinity CMS 全面集成，有助于解决多语言内容交付的挑战。Visus LLC 和 Lionbridge 的结合也有助于公司翻译项目、页面和模板流程的自动化，从而使其网站的多语言使用更加简单、快速和节约。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌语音翻译服务正式添加哈萨克语]]></title>
-        <id>https://nansey.github.io/post/google-voice-translation-add-kazak/</id>
-        <link href="https://nansey.github.io/post/google-voice-translation-add-kazak/">
-        </link>
-        <updated>2021-02-24T03:30:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>哈萨克斯坦国家翻译局公共基金执行总裁热万·肯杰汗吾勒2月23日<a href="https://www.inform.kz/cn/article_a3756803">表示</a>，谷歌语音翻译服务正式添加哈萨克语。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>哈萨克斯坦国家翻译局公共基金执行总裁热万·肯杰汗吾勒2月23日<a href="https://www.inform.kz/cn/article_a3756803">表示</a>，谷歌语音翻译服务正式添加哈萨克语。</p>
-<!-- more -->
-<p>肯杰汗吾勒在Facebook主页上写道：“朋友们，好消息！哈萨克语正式加入谷歌语音翻译功能。这是我们与谷歌之间5年以来开展的工作成果。为此，我们向谷歌提供了数以千计的翻译文字、数百小时哈萨克语录音和音量字典。谷歌翻译功能是采用神经机器翻译（GNMT：<a href="https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation">Google Neural Machine Translation</a>）技术的最领先翻译系统。因此，对于语言的保护和发展而言，这是非常重要的事件。”</p>
 ]]></content>
     </entry>
 </feed>
