@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-02-28T01:38:40.618Z</updated>
+    <updated>2021-02-28T01:52:36.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[新冠致布达佩斯口译员遭市场困境]]></title>
+        <id>https://nansey.github.io/post/Interpretation-Harder-hit-Than-Translation-Market/</id>
+        <link href="https://nansey.github.io/post/Interpretation-Harder-hit-Than-Translation-Market/">
+        </link>
+        <updated>2021-02-28T01:51:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>新冠爆发以来，远程口译持续增长，但由于COVID-19的影响，市场蛋糕本来就太小，以至于因旅游和会议市场崩溃而失去固定工作的口译员难以谋生。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>新冠爆发以来，远程口译持续增长，但由于COVID-19的影响，市场蛋糕本来就太小，以至于因旅游和会议市场崩溃而失去固定工作的口译员难以谋生。</p>
+<!-- more -->
+<p>根据匈牙利笔译和口译协会（MFTE）的春季调查，笔译人员遭受COVID-19的影响比口译人员轻得多。后者中有85%的人说，自3月中旬以来，他们还没有收到工作邀约。</p>
+<p>MFTE 主席 Zsuzsanna Lakatos-Báldy 认为，那些没有多样化收入来源的人处境最为困难。一些口译员已经迈出一步，购买了专门的软件，如果没有这些软件的，现在很难进入翻译行业。受益最大的是年轻的专业译员。（<a href="https://bbj.hu/economy/statistics/analysis/interpretation-harder-hit-than-translation-market">来源</a>）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尼克松访华时首席翻译谈中美关系]]></title>
         <id>https://nansey.github.io/post/Charles-Freeman-on-us-china-relation/</id>
@@ -137,19 +151,6 @@
 <p>第五届年会的主题是 &quot;Together At Home&quot;—#eliatogether，年会分为两条主线：&quot;翻译和LSP（语言服务提供商）的最佳实践 &quot;（best practices for translators and LSP’s [language services providers]）和 &quot;展望未来——趋势和工具&quot;（looking ahead — trends and tools），将由经验丰富的行业专家主持。</p>
 <p>年会旨在将语言行业自由职业者和 LSP 聚集一堂，进行建设性的对话和共同成长。活动对所有人开放，尤其那些对自由职业者与 LSP 之间关系抱持信心的人。</p>
 <p>年会持续三天（2月24日至2月26日），采用线上形式，需要注册（会员219欧；非会员249欧；自由译员129欧）。发言嘉宾信息和会议详细议程可在官网浏览和<a href="https://elia-association.org/event/together-2021/#ChildTab-11">下载</a>。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马里语言学家将班巴拉语翻译成盲文]]></title>
-        <id>https://nansey.github.io/post/Malian-Linguists-Translate-Bambara-into-Braille/</id>
-        <link href="https://nansey.github.io/post/Malian-Linguists-Translate-Bambara-into-Braille/">
-        </link>
-        <updated>2021-02-24T09:45:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>马里语言学家将班巴拉语（<a href="https://en.wikipedia.org/wiki/Bambara_language">Bambara</a>）翻译成盲文，这对盲人来说是极其重要的一步。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>马里语言学家将班巴拉语（<a href="https://en.wikipedia.org/wiki/Bambara_language">Bambara</a>）翻译成盲文，这对盲人来说是极其重要的一步。</p>
-<!-- more -->
-<p>马里语言学家和盲文专家将马里使用最广泛的非洲语言班巴拉语翻译成盲文，以供该国盲人使用。 大约有1500万马里人使用和懂得班巴拉语，甚至超过了殖民时期的法语。在本篇发自马里首都巴马科（Bamako）的<a href="https://www.voanews.com/episode/important-step-blind-people-malian-linguists-translate-bambara-language-braille-4587341">报道</a>中，Annie Risemberg 介绍了一位新盲文翻译教师的情况。</p>
 ]]></content>
     </entry>
 </feed>
