@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-03-02T07:43:33.660Z</updated>
+    <updated>2021-03-02T08:04:01.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[17国出版机构与中国签署翻译出版备忘录]]></title>
+        <id>https://nansey.github.io/post/17-countries-sign-moa-with-cipg-on-The-Governance-of-China/</id>
+        <link href="https://nansey.github.io/post/17-countries-sign-moa-with-cipg-on-The-Governance-of-China/">
+        </link>
+        <updated>2021-03-02T08:03:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>据中国外文局<a href="https://mp.weixin.qq.com/s/D2G_tezWZ2kaXw9jaM3Kxg">消息</a>，近日，17个国家的知名出版机构分别同中国外文局外文出版社签署《<a href="https://zh.wikipedia.org/zh-hans/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF">习近平谈治国理政</a>》第三卷国际合作翻译出版备忘录，共同翻译出版多语种版本《习近平谈治国理政》第三卷。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据中国外文局<a href="https://mp.weixin.qq.com/s/D2G_tezWZ2kaXw9jaM3Kxg">消息</a>，近日，17个国家的知名出版机构分别同中国外文局外文出版社签署《<a href="https://zh.wikipedia.org/zh-hans/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF">习近平谈治国理政</a>》第三卷国际合作翻译出版备忘录，共同翻译出版多语种版本《习近平谈治国理政》第三卷。</p>
+<!-- more -->
+<p>这17个国家分别是阿尔巴尼亚、波兰、罗马尼亚、白俄罗斯、乌克兰、阿富汗、柬埔寨、尼泊尔、老挝、孟加拉国、泰国、印度、巴基斯坦、斯里兰卡、塔吉克斯坦、吉尔吉斯斯坦和蒙古国。</p>
+<p>由中央宣传部（国务院新闻办公室）会同中央党史和文献研究院、中国外文局编辑的《习近平谈治国理政》第三卷，已于2020年6月30日由外文出版社以中英文版出版，面向海内外发行。据了解，《习近平谈治国理政》第三卷法、俄、西、阿、德、日、葡等语种的版本正在陆续翻译出版。</p>
+<p><em>编者注：「翻译动态」往期报道：“<a href="https://fanyi.news/post/China-South-Korea-sign-memorandum-on-translation/">中韩签署经典著作互译出版备忘录</a>”、“<a href="https://fanyi.news/post/China,-Pakistan-sign-memorandum-on-translation/">中巴签署关于经典著作互译出版的备忘录</a>”</em></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tmxmall 语料商城永久关闭]]></title>
         <id>https://nansey.github.io/post/tmxmall-tm-mall-closed/</id>
@@ -133,20 +148,6 @@
         <content type="html"><![CDATA[<p><a href="https://www.rws.com/">RWS</a> 集团旗下的 <a href="https://www.sdl.com/">SDL</a> 今天宣布，其机器翻译技术增加了新的智能功能和能力，包括内容洞察（content insight）、采用扩展选项（expanded options for adaptation）和自动质量评估（automated quality assessment），为翻译公司提供了更智能的方式来服务全球客户。</p>
 <!-- more -->
 <p>SDL 于2020年11月被 RWS <a href="https://www.sdl.com/about/news/2020/rws/">收购</a>。RWS 为全球百强品牌中的90家、全球前10制药公司和全球前20家专利公司中的半数提供服务。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[术语在线网站英文版上线]]></title>
-        <id>https://nansey.github.io/post/term-online-launch-english-version/</id>
-        <link href="https://nansey.github.io/post/term-online-launch-english-version/">
-        </link>
-        <updated>2021-02-26T02:46:49.000Z</updated>
-        <summary type="html"><![CDATA[<p>据术语中国公众号<a href="https://mp.weixin.qq.com/s/vJlz7ZOLrEUrQbWweKFlxw">消息</a>，术语在线网站英文版上线试运行。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据术语中国公众号<a href="https://mp.weixin.qq.com/s/vJlz7ZOLrEUrQbWweKFlxw">消息</a>，术语在线网站英文版上线试运行。</p>
-<!-- more -->
-<p><a href="www.termonline.cn">术语在线</a>是<a href="http://www.cnctst.cn/">全国科学技术名词审定委员会</a>着力打造的术语知识公共服务平台，于2016年5月正式上线提供服务。网站涵盖了全国科学技术名词审定委员会历年来公布的规范名词、发布的科技新词、出版的海峡两岸对照名词和工具书等全部审定成果，又融入了中央编译局、中国外文局、国务院新闻办、外语中文译写规范部际联席会议等机构发布的规范成果。上线五年来已累计提供1.06亿次检索服务，用户来自全球100多个国家和地区。</p>
-<p>术语在线通过自适应技术实现中英文版本的页面显示，网站根据用户浏览器默认语种自动选择合适的语言，中文环境的默认显示中文版，其他的语言环境默认显示英文版。用户也可通过网站导航栏和侧边栏处语言图标进行语言切换。</p>
 ]]></content>
     </entry>
 </feed>
