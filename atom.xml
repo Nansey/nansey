@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-03-01T09:56:55.272Z</updated>
+    <updated>2021-03-02T01:39:07.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -22,6 +22,19 @@
 <!-- more -->
 <p>Hyperconnect的市场定位是让不同语言的用户之间进行实时对话。这家初创公司开发了两款应用：用于在线直播的 Hakuna（<a href="https://hakuna.live/zh">Hakuna.Live</a>）和用于一对一视频聊天的 <a href="https://azarlive.com/">Azar</a>。</p>
 <p>关于 Match 收购的有趣之处在于，Hyperconnect 的应用运行在谷歌语音转文本（<a href="https://cloud.google.com/speech-to-text">Speech-to-Text</a>）和翻译 API上，正如谷歌在其案例研究中<a href="https://cloud.google.com/customers/hyperconnect">展示的那样</a>。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产游戏《鬼谷八荒》称正式开始翻译工作]]></title>
+        <id>https://nansey.github.io/post/Tale-of-Immortal-add-translation/</id>
+        <link href="https://nansey.github.io/post/Tale-of-Immortal-add-translation/">
+        </link>
+        <updated>2021-03-01T01:38:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>国产游戏《<a href="https://store.steampowered.com/app/1468810/_/?l=schinese">鬼谷八荒</a>》自今年1月27日在Steam发售以来一直有着很高的热度，这款极具特色的国产修仙题材作品，在国外也受到了很多玩家的欢迎，但目前作品只有中文一种语言。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>国产游戏《<a href="https://store.steampowered.com/app/1468810/_/?l=schinese">鬼谷八荒</a>》自今年1月27日在Steam发售以来一直有着很高的热度，这款极具特色的国产修仙题材作品，在国外也受到了很多玩家的欢迎，但目前作品只有中文一种语言。</p>
+<!-- more -->
+<p>去年A测时期《鬼谷八荒》的英文翻译呼声就已经非常之高，由于翻译难度较高，官方此前称他们将尽力加入英文翻译。而近日官方的最新回复表示他们即将正式开始英文翻译工作，同时将在国外社交媒体Discord开设讨论频道。</p>
 ]]></content>
     </entry>
     <entry>
@@ -137,20 +150,6 @@
 <p>自2009年起，美国就开始了医疗翻译的认证。但尽管如此，堪萨斯州并没有强制要求医院和诊所的口译员必须获得认证。</p>
 <p>Showstack 正与州议员 Susan Ruiz 就立法建议进行合作，最早可能在该州下一届立法会议上提出。（<a href="https://multilingual.com/new-medical-interpreter-law-proposed/">来源</a>）</p>
 <p><em>译者注：关于翻译对医疗健康的重要性可参考「翻译动态」之前的报道《<a href="https://fanyi.news/post/LEP-patients-death-higher/">研究显示英语能力有限患者COVID-19死亡概率更高</a>》、《<a href="https://fanyi.news/post/Language-barrier-blocks-Latinos-from-vaccines/">语言阻碍在英拉丁裔人群接种新冠疫苗</a>》、《<a href="https://fanyi.news/post/new-research-on-hospital-interpreter-use/">研究揭示专业翻译与患者健康之间关系</a>》、《<a href="https://fanyi.news/post/NY-lawmakers-pitch-bill-requiring-translations/">纽约州立法者要求州政府提供翻译</a>》、《<a href="https://fanyi.news/post/coronavirus-warnings-lost-failure-translate-in-uganda/">疫情中东非小镇上的语言困境</a>》、《<a href="https://fanyi.news/post/vdh-translation-not-necessary/">弗吉尼亚州卫生部官网现错误机译</a>》 。</em></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[语言阻碍在英拉丁裔人群接种新冠疫苗]]></title>
-        <id>https://nansey.github.io/post/Language-barrier-blocks-Latinos-from-vaccines/</id>
-        <link href="https://nansey.github.io/post/Language-barrier-blocks-Latinos-from-vaccines/">
-        </link>
-        <updated>2021-02-25T09:06:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>据《卫报》报道，居住在英国的西班牙语人群可能很难获得 covid-19 疫苗接种。2月15日的这篇<a href="https://www.theguardian.com/society/2021/feb/15/low-gp-access-rates-among-latin-americans-in-uk-raise-vaccine-concerns?CMP=Share_iOSApp_Other">报道</a>称，两名来自拉丁美洲的移民告诉《卫报》，医生拒绝给他们注射（疫苗），因为他们不会说英语。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据《卫报》报道，居住在英国的西班牙语人群可能很难获得 covid-19 疫苗接种。2月15日的这篇<a href="https://www.theguardian.com/society/2021/feb/15/low-gp-access-rates-among-latin-americans-in-uk-raise-vaccine-concerns?CMP=Share_iOSApp_Other">报道</a>称，两名来自拉丁美洲的移民告诉《卫报》，医生拒绝给他们注射（疫苗），因为他们不会说英语。</p>
-<!-- more -->
-<p>一项调查发现，七分之一的低薪拉美裔没有在全科医生（General Practitioner）那里登记，人们越来越担心伦敦的拉美社区人群会因此错过疫苗接种。</p>
-<p>据估计，有25万拉美裔生活在英国，其中一半人住在伦敦。</p>
 ]]></content>
     </entry>
 </feed>
