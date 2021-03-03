@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-03-03T05:02:20.715Z</updated>
+    <updated>2021-03-03T05:53:11.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[CATTI 官方公布2020年口笔译合格率数据]]></title>
+        <id>https://nansey.github.io/post/catti-realse-percentage-of-pass/</id>
+        <link href="https://nansey.github.io/post/catti-realse-percentage-of-pass/">
+        </link>
+        <updated>2021-03-03T05:52:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>微信公众账号@CATTI中心 官方发布2020年 CATTI 英语笔译和口译考试相关数据。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>微信公众账号@CATTI中心 官方发布2020年 CATTI 英语笔译和口译考试相关数据。</p>
+<!-- more -->
+<p>2020年 CATTI 英语笔译考试共有<a href="https://mp.weixin.qq.com/s/HHmphc0jP0y3CYc4ccCqaw">14576人通过</a>，三级笔译合格率为23.57%（2019年为25.08%），二级笔译合格率为9.16%（2019年为10.49%），一级笔译合格率为8.43%（2019年为13.67%）。</p>
+<p>2020年 CATTI 英语口译考试共有<a href="https://mp.weixin.qq.com/s/svrLI-wXbUH3maBKv6j0Tw">1132人通过</a>，三级口译合格率为9.12%（2019年为6.03%），二级口译合格率为9.70%（2019年为9.36%），一级口译合格率为8.05%（2019年为11.65%），同声传译合格率为9.41%（2019年为2.45%）。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当 CATTI 官方开始“恰烂钱”]]></title>
         <id>https://nansey.github.io/post/when-catti-starts-making-dirty-money/</id>
@@ -146,20 +160,6 @@
 <!-- more -->
 <p>该服务是通过预约的方式免费向客户提供的。用户可以访问就近的 Apple Store，预约下次到店时间提供手语翻译服务。之后苹果公司会跟进安排预约。目前手语翻译服务已经在美国、英国、澳大利亚、加拿大、法国、德国、意大利、瑞典、瑞士、比利时和奥地利的 Apple Store 提供预约了。</p>
 <p>苹果公司长期以来一直是零售业无障碍服务的领导者，2019年开始在华盛顿卡内基图书馆旗舰店提供ASL翻译。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 浏览器推出 Live Captions 实时翻译功能]]></title>
-        <id>https://nansey.github.io/post/chrome-release-live-caption/</id>
-        <link href="https://nansey.github.io/post/chrome-release-live-caption/">
-        </link>
-        <updated>2021-02-27T01:12:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>早在 2019 年，谷歌就已经介绍过在 Android 平台上的“Live Captions”实时字幕翻译功能。无论收听播客、观看视频、查看语音邮件、还是与某人进行呼叫通话，Live Captions 都会自动创建并显示设备上正在播放的任何音频的字幕。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>早在 2019 年，谷歌就已经介绍过在 Android 平台上的“Live Captions”实时字幕翻译功能。无论收听播客、观看视频、查看语音邮件、还是与某人进行呼叫通话，Live Captions 都会自动创建并显示设备上正在播放的任何音频的字幕。</p>
-<!-- more -->
-<p>现在，我们终于可以在 Chrome 浏览器上也启用这项功能。启用实时字幕功能并重启 Chrome 浏览器之后，你可随意访问包括播客等在内的媒体资源（不只是自带翻译功能的 YouTube 流媒体服务），然后就可以在浏览器底部看字幕。</p>
-<p>详细的使用可参考 Android Police <a href="https://www.androidpolice.com/2021/02/25/live-caption-is-now-available-on-google-chrome-on-desktops/">这篇</a>。</p>
 ]]></content>
     </entry>
 </feed>
