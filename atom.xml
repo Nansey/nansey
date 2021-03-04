@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-03-03T09:19:40.346Z</updated>
+    <updated>2021-03-04T01:57:39.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -11,7 +11,21 @@
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
     <entry>
-        <title type="html"><![CDATA[Nimdzi 发布2021 LSP Top 100榜单]]></title>
+        <title type="html"><![CDATA[思科 Webex 将加入即时翻译功能]]></title>
+        <id>https://nansey.github.io/post/cisco-webex-debuts-real-time-translation/</id>
+        <link href="https://nansey.github.io/post/cisco-webex-debuts-real-time-translation/">
+        </link>
+        <updated>2021-03-04T01:54:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>据 Engadget 中国版<a href="https://cn.engadget.com/cisco-webex-real-time-translation-010051371.html">报道</a>，为应对疫情期间增加的使用需要，日前<a href="https://www.cisco.com/">思科</a>正式宣布，旗下的 <a href="https://www.webex.com.cn/">Webex</a> 会议软件将会加入即时翻译功能。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>据 Engadget 中国版<a href="https://cn.engadget.com/cisco-webex-real-time-translation-010051371.html">报道</a>，为应对疫情期间增加的使用需要，日前<a href="https://www.cisco.com/">思科</a>正式宣布，旗下的 <a href="https://www.webex.com.cn/">Webex</a> 会议软件将会加入即时翻译功能。</p>
+<!-- more -->
+<p>官方称这项工具目前支持英语到超过 100 种语言的翻译，能减少 Webex 使用者另寻第三方服务的烦恼。在此之前，Webex 的一些竞品已经在相关特性上做出了改进（比如 Google Meet 就整合了 Otter 的 AI 转换功能）。</p>
+<p>Webex 的即时翻译将从本月起开放测试，预计到五月的时候便会全面开放。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nimdzi 发布2021 Top 100 LSP 榜单]]></title>
         <id>https://nansey.github.io/post/nimdzi-fa-bu-2021-lsp-top-100-bang-dan/</id>
         <link href="https://nansey.github.io/post/nimdzi-fa-bu-2021-lsp-top-100-bang-dan/">
         </link>
@@ -146,20 +160,6 @@
 <p>但出版商本周早些时候表示，Rijneveld 是其梦寐以求的译者，并表示 &quot;Amanda Gorman 本人也对选择这位年轻诗人（作为译者）满腔热情&quot;。</p>
 <p>而批评选择 Rijneveld 之一的是一位活动家和记者 Janice Deul，她在荷兰国家日报de Volkskrant 上写了一篇关于这个话题的评论文章。&quot;并不是要贬低 Rijneveld 的品质，但为什么不选择一个就像 Gorman 这样的——朗诵艺术家（spoken word artist）、年轻、女性和不折不扣的黑人作家呢？&quot;</p>
 <p>周五，Deul 在推特上<a href="https://twitter.com/JaniceDeul/status/1365303006279909377">写道</a>，&quot;感谢出版商的决定&quot; 。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新冠致布达佩斯口译员遭市场困境]]></title>
-        <id>https://nansey.github.io/post/Interpretation-Harder-hit-Than-Translation-Market/</id>
-        <link href="https://nansey.github.io/post/Interpretation-Harder-hit-Than-Translation-Market/">
-        </link>
-        <updated>2021-02-28T01:51:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>新冠爆发以来，远程口译持续增长，但由于COVID-19的影响，市场蛋糕本来就太小，以至于因旅游和会议市场崩溃而失去固定工作的口译员难以谋生。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>新冠爆发以来，远程口译持续增长，但由于COVID-19的影响，市场蛋糕本来就太小，以至于因旅游和会议市场崩溃而失去固定工作的口译员难以谋生。</p>
-<!-- more -->
-<p>根据匈牙利笔译和口译协会（MFTE）的春季调查，笔译人员遭受COVID-19的影响比口译人员轻得多。后者中有85%的人说，自3月中旬以来，他们还没有收到工作邀约。</p>
-<p>MFTE 主席 Zsuzsanna Lakatos-Báldy 认为，那些没有多样化收入来源的人处境最为困难。一些口译员已经迈出一步，购买了专门的软件，如果没有这些软件的，现在很难进入翻译行业。受益最大的是年轻的专业译员。（<a href="https://bbj.hu/economy/statistics/analysis/interpretation-harder-hit-than-translation-market">来源</a>）</p>
 ]]></content>
     </entry>
 </feed>
