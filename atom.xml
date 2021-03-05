@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-03-05T03:51:24.667Z</updated>
+    <updated>2021-03-05T03:53:10.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -16,9 +16,9 @@
         <link href="https://nansey.github.io/post/gt4t-add-subtitle-translation-function/">
         </link>
         <updated>2021-03-05T03:31:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>据 <a href="https://mp.weixin.qq.com/s/SYtX8XbnpDvWOEUNr97bdw">@GT4T 公众号消息</a>，<a href="https://gt4t.cn/">GT4T</a> 推出字幕翻译器功能，和翻译其他格式的文件一样，用户只需把单语种的 .srt、.ass 或者 .ssa 格式文件拖动到 GT4T 文件翻译器界面，文件即可分分翻译好，且可完美保留时间戳，同时支持输出双语字幕。</p>
+        <summary type="html"><![CDATA[<p>据 <a href="https://mp.weixin.qq.com/s/SYtX8XbnpDvWOEUNr97bdw">@GT4T 公众号消息</a>，<a href="https://gt4t.cn/">GT4T</a> 推出字幕翻译器功能，和翻译其他格式的文件一样，用户只需把单语种的 .srt、.ass 或者 .ssa 格式文件拖动到 GT4T 文件翻译器界面，文件即可分分钟翻译好，且可完美保留时间戳，同时支持输出双语字幕。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>据 <a href="https://mp.weixin.qq.com/s/SYtX8XbnpDvWOEUNr97bdw">@GT4T 公众号消息</a>，<a href="https://gt4t.cn/">GT4T</a> 推出字幕翻译器功能，和翻译其他格式的文件一样，用户只需把单语种的 .srt、.ass 或者 .ssa 格式文件拖动到 GT4T 文件翻译器界面，文件即可分分翻译好，且可完美保留时间戳，同时支持输出双语字幕。</p>
+        <content type="html"><![CDATA[<p>据 <a href="https://mp.weixin.qq.com/s/SYtX8XbnpDvWOEUNr97bdw">@GT4T 公众号消息</a>，<a href="https://gt4t.cn/">GT4T</a> 推出字幕翻译器功能，和翻译其他格式的文件一样，用户只需把单语种的 .srt、.ass 或者 .ssa 格式文件拖动到 GT4T 文件翻译器界面，文件即可分分钟翻译好，且可完美保留时间戳，同时支持输出双语字幕。</p>
 <!-- more -->
 <p>中国用户使用 GT4T 文件翻译器翻译字幕文件，如使用机译<a href="https://niutrans.com/Trans?type=text">小牛翻译</a>，可免费至2021年年底。</p>
 <p>GT4T 专注于使机器翻译更加易用，其开发者@曹首光（<a href="https://twitter.com/ShouguangCao">Dallas</a>）致力于桌面平台机译辅助人工应用和文件翻译应用的开发，公司总部位于中国海口。</p>
