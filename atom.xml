@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-03-06T04:57:06.628Z</updated>
+    <updated>2021-03-06T05:06:51.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[帮助阿拉伯世界“读懂中国”的摩洛哥女孩]]></title>
+        <id>https://nansey.github.io/post/Morocco-girl-El-Batoul-NEJJAOUI-translate-chinese-books-into-arabic/</id>
+        <link href="https://nansey.github.io/post/Morocco-girl-El-Batoul-NEJJAOUI-translate-chinese-books-into-arabic/">
+        </link>
+        <updated>2021-03-06T05:06:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>阿拉伯国家有句谚语：文化哪怕远在中国，也应该去追求它。摩洛哥女孩宝云(El Batoul NEJJAOUI)来到中国，也是为了追寻和传播那些令她着迷的中国文化。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>阿拉伯国家有句谚语：文化哪怕远在中国，也应该去追求它。摩洛哥女孩宝云(El Batoul NEJJAOUI)来到中国，也是为了追寻和传播那些令她着迷的中国文化。</p>
+<!-- more -->
+<p>2015年，对中国文化有着浓厚兴趣的宝云开始在摩洛哥当地的孔子学院学习汉语，她的老师为她起了“宝云”这个“中国风”的名字；两年后，宝云又作为交换生前往北京第二外国语学院进修。毕业后，宝云申请了工作签证，来到宁夏工作。</p>
+<p>如今，宝云在宁夏智慧宫文化传媒有限公司从事《<a href="http://www.ciids.cn/node_64392.htm">读懂中国</a>》系列丛书的翻译、审校工作，以及将中文书籍翻译成阿拉伯文，用宝云的话来说，她是在让阿拉伯国家“读懂中国”。（<a href="http://www.chinanews.com/cul/2021/03-05/9425354.shtml">来源</a>）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人大代表：尽快启动设置翻译博士专业学位]]></title>
         <id>https://nansey.github.io/post/cppcc-member-advise-set-dti/</id>
@@ -133,19 +147,6 @@
 <!-- more -->
 <p>排名基于营收，列出了全球最大的100家语言服务提供商（LSP）。数据显示，这100家LSP的年增长率已经明显放缓，2019年至2020年期间仅增长6.8%，而之前一年前100家的年增长率为11.5%。不过，2020年前十大 LSP 合计收入较上年增长了9%。</p>
 <p>尽管巨头持续整合，但整个行业仍在持续增长，每年都在产生更大的 LSP。即使在排名的后排位置，趋势亦然，排名第100的 LSP 今年收入1200万美元，而2019年和2018年排名第100位的 LSP 收入分别为1160万美元和1030万美元。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月份语言行业就业回归新冠之前水平]]></title>
-        <id>https://nansey.github.io/post/Job-Index-Rises-to-Pre-Covid-Levels-in-March/</id>
-        <link href="https://nansey.github.io/post/Job-Index-Rises-to-Pre-Covid-Levels-in-March/">
-        </link>
-        <updated>2021-03-03T07:51:48.000Z</updated>
-        <summary type="html"><![CDATA[<p>2021年3月，语言行业的招聘活动延续了2月以来的上升势头，保持强劲增长。3月份 Slator 语言行业就业指数(LIJI)攀升了近10个点，这是自Covid-19爆发以来的<a href="https://slator.com/industry-news/job-index-rises-to-pre-covid-levels-in-march-2021/">最大涨幅</a>。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>2021年3月，语言行业的招聘活动延续了2月以来的上升势头，保持强劲增长。3月份 Slator 语言行业就业指数(LIJI)攀升了近10个点，这是自Covid-19爆发以来的<a href="https://slator.com/industry-news/job-index-rises-to-pre-covid-levels-in-march-2021/">最大涨幅</a>。</p>
-<!-- more -->
-<p>3月的LIJI从2021年2月的112.64增长至122.49。该指数目前约为2020年2月（新冠大流行前）的水平，距离2020年3月的历史最高点126.82约差4个点。</p>
 ]]></content>
     </entry>
 </feed>
