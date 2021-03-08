@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-03-08T03:59:16.291Z</updated>
+    <updated>2021-03-08T06:21:55.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[外资品牌在中国的超本土化战略]]></title>
+        <id>https://nansey.github.io/post/A-Pivot-in-Localization-Strategy/</id>
+        <link href="https://nansey.github.io/post/A-Pivot-in-Localization-Strategy/">
+        </link>
+        <updated>2021-03-08T06:21:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>中国顾客如果想在麦当劳吃个巨无霸，可能要在菜单上多看两眼。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>中国顾客如果想在麦当劳吃个巨无霸，可能要在菜单上多看两眼。</p>
+<!-- more -->
+<p>陕西特产肉夹馍、油泼辣子圣代、皮蛋瘦肉粥等令人头晕目眩的菜品已经<a href="https://pandaily.com/not-a-fail-a-pivot-in-localization-strategy-is-behind-mcdonalds-chinese-burger-and-kfcs-hot-dry-noodles/">登陆</a>麦当劳菜单。肯德基的菜单同样如此——川式酱烧牛肉、武汉热干面和螺蛳粉。</p>
+<p>早餐市场激烈的竞争促使麦当劳和肯德基采取超本地化（ <a href="https://www.smartling.com/resources/101/what-is-hyper-localization/">hyper-localize</a>）的营销方式——因此有了肉夹馍和热干面。自1987年在天安门广场开设第一家分店起，肯德基在中国的成功故事离不开其先发优势和<a href="https://en.wikipedia.org/wiki/Localization">本土化</a>战略。</p>
+<p>根据营销情报机构Mintel的数据，中国消费者的早餐消费总额预计将从2015年的1.3万亿元人民币（2010亿美元）增长到2021年的1.9万亿元人民币。如今，随着外资品牌慢慢了解到中国不同省份饮食习惯的异性，在餐饮需求日益多元化、进入门槛越来越低的中国快餐行业，超本地化（ hyper-localize）战略显得尤为重要。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阎克文、刘苏里、唐小兵谈社科翻译乱象]]></title>
         <id>https://nansey.github.io/post/yankewen-liusuli-tangxiaobing-on-translation/</id>
@@ -132,21 +147,6 @@
         <content type="html"><![CDATA[<p>机器翻译(MT)供应商 <a href="https://cn.onehourtranslation.com/">One Hour Translation</a> 3月3日宣布获得1000万美元的私募股权投资(PE)，由现有投资者 <a href="http://www.ffcapital.com/">Fortissimo Capital</a> 领投。作为品牌重塑的一部分，该公司还将其名称改为 <a href="https://www.getblend.com/">BLEND</a>。</p>
 <!-- more -->
 <p>关于品牌重塑，BLEND 的独立传播顾问 Estee Yaari 通过电子邮件<a href="https://multilingual.com/one-hour-translation-raises-10m-rebrands/?utm_source=ZohoCampaigns&amp;utm_campaign=MultiLingual+News+Weekly&amp;utm_medium=email">表示</a>：&quot;公司正在重新定位，将从翻译转到全面的本地化服务。&quot; 该公司的<a href="https://www.getblend.com/">网站</a>和<a href="https://twitter.com/BLENDLocal">社交媒体账户</a>已经启用了新的名称和logo。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政协委员：建议取消英语在中小学的主科地位]]></title>
-        <id>https://nansey.github.io/post/cppcc-member-xujin-suggest-cancel-english-major/</id>
-        <link href="https://nansey.github.io/post/cppcc-member-xujin-suggest-cancel-english-major/">
-        </link>
-        <updated>2021-03-04T10:32:46.000Z</updated>
-        <summary type="html"><![CDATA[<p>据《中国青年报》3月4日<a href="https://www.toutiao.com/i6935614711585047070">报道</a>，今年两会，全国政协委员、九三学社中央委员许进建议改革义务教育阶段英语的必修课地位。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>据《中国青年报》3月4日<a href="https://www.toutiao.com/i6935614711585047070">报道</a>，今年两会，全国政协委员、九三学社中央委员许进建议改革义务教育阶段英语的必修课地位。</p>
-<!-- more -->
-<p>许进指出，在美国，大学毕业生通常能掌握3万至5万个单词。在我国，掌握4千个单词就可以通过大学英语四级考试。为了上重点中学，很多小学生取得了相当于大学英语4级考试或者更高级的英语考试证书。英语教学课时约占学生总课时的10%，但英语只对不到10%的大学毕业生有用。成果应用率低，课程设置不普惠。</p>
-<p>许进通过调研发现，现在，翻译机可以提供包括英语在内多种语言的、衣食住行等领域的、不低于大学英语6级水平的口语翻译服务，技术十分成熟。。在人工智能时代，翻译职业位居即将被淘汰职业的前10名。</p>
-<p>因此，许进建议，改革在义务教育阶段由国家投资、全体学生必学英语（外语）的现状。“在义务教育阶段，英语等外语课程不再设为与语文和数学同等的主课，增加素质教育课程占比；不再将英语（或外语）设为高考必考的科目；禁止义务教育阶段学生参加非官方的各种外语考试。”许进说。</p>
 ]]></content>
     </entry>
 </feed>
