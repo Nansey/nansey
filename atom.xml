@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nansey.github.io</id>
     <title>翻译动态</title>
-    <updated>2021-03-10T10:25:45.810Z</updated>
+    <updated>2021-03-12T03:00:14.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nansey.github.io"/>
     <link rel="self" href="https://nansey.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://nansey.github.io/images/avatar.png</logo>
     <icon>https://nansey.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 翻译动态</rights>
+    <entry>
+        <title type="html"><![CDATA[Linguistica International 在密歇根州再次陷入低薪丑闻]]></title>
+        <id>https://nansey.github.io/post/more-controversy-for-Linguistica-International/</id>
+        <link href="https://nansey.github.io/post/more-controversy-for-Linguistica-International/">
+        </link>
+        <updated>2021-03-11T02:36:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>2月4日，《<a href="https://fanyi.news/">翻译动态</a>》曾报道过电话口译（OPI）提供商 <a href="https://www.linguisticainternational.com/">Linguistica International</a> 的低薪丑闻（参见《<a href="https://fanyi.news/post/NYC-Mayor-requests-LSP-investigation/">纽约市长介入 LSP 低薪调查</a>》）。最近，Linguistica International 再次在密歇根州成为热锅里的蚂蚁。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2月4日，《<a href="https://fanyi.news/">翻译动态</a>》曾报道过电话口译（OPI）提供商 <a href="https://www.linguisticainternational.com/">Linguistica International</a> 的低薪丑闻（参见《<a href="https://fanyi.news/post/NYC-Mayor-requests-LSP-investigation/">纽约市长介入 LSP 低薪调查</a>》）。最近，Linguistica International 再次在密歇根州成为热锅里的蚂蚁。</p>
+<!-- more -->
+<p>据 <a href="https://cnsmaryland.org/"><em>Capital News Service</em></a> 3月5日<a href="https://news.jrn.msu.edu/2021/03/interpreters-for-michigan-agencies-paid-as-little-as-4-per-hour/">报道</a>，Linguistica International 在密歇根州同样支付了超低的译员薪酬，该报道引用该公司一位离职翻译的话说：&quot;他们就像怪物一样，吃你的肉，吃完之后，随时把你丢掉。&quot; 该公司与密歇根州多个部门签订了 OPI 合同，合约期至2023年9月。</p>
+<p>在与 <a href="https://multilingual.com/"><em>MultiLingual</em></a> 的通话中，Linguistica International 的公关公司 Red Banyan 的媒体战略总监 Kelcey Kintner 表示，向 <a href="https://www.nydailynews.com/"><em>Daily News</em></a> 和 <em>Capital News Service</em> 提供工资文件的翻译已经被 &quot;解聘&quot;。随后，她指责 <em>MultiLingual</em> 的报道根本就是 &quot;断章取义&quot;和 &quot;诽谤&quot;（“a hit piece”and“being abusive”），然后便挂断了电话。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超过50%的 LSP 总部位于这5个国家]]></title>
+        <id>https://nansey.github.io/post/Over-50%-LSP-Headquartered-in-Just-5-Countries/</id>
+        <link href="https://nansey.github.io/post/Over-50%-LSP-Headquartered-in-Just-5-Countries/">
+        </link>
+        <updated>2021-03-11T01:50:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>2021年3月初，Slator 曾发布了 Slator 2021语言服务提供商指数（<a href="https://slator.com/language-service-provider-index/the-slator-2021-language-service-provider-index/">LSPI</a>），收录了184家语言服务提供商（LSP），并按2020年收入（美元）排名。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2021年3月初，Slator 曾发布了 Slator 2021语言服务提供商指数（<a href="https://slator.com/language-service-provider-index/the-slator-2021-language-service-provider-index/">LSPI</a>），收录了184家语言服务提供商（LSP），并按2020年收入（美元）排名。</p>
+<!-- more -->
+<p>据统计，这184家 LSP 的总部位于38个不同的国家，分布于北美、南美、亚洲、澳大拉西亚、中东和非洲以及欧洲。</p>
+<p>在 LSPI 收录的公司中，排名前五位的总部所在地为美国、英国、德国、波兰和瑞典。这五个国家的 LSP 合计占到2021年 LSPI 的50%以上，收入占比超过70%。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊朗译者因翻译叙利亚书籍被判刑]]></title>
         <id>https://nansey.github.io/post/Iranian-translator-sentenced-due-to-translating-syria-book/</id>
@@ -125,33 +153,6 @@
 <p>陕西特产肉夹馍、油泼辣子圣代、皮蛋瘦肉粥等令人头晕目眩的菜品已经<a href="https://pandaily.com/not-a-fail-a-pivot-in-localization-strategy-is-behind-mcdonalds-chinese-burger-and-kfcs-hot-dry-noodles/">登陆</a>麦当劳菜单。肯德基的菜单同样如此——川式酱烧牛肉、武汉热干面和螺蛳粉。</p>
 <p>早餐市场激烈的竞争促使麦当劳和肯德基采取超本地化（ <a href="https://www.smartling.com/resources/101/what-is-hyper-localization/">hyper-localize</a>）的营销方式——因此有了肉夹馍和热干面。自1987年在天安门广场开设第一家分店起，肯德基在中国的成功故事离不开其先发优势和<a href="https://en.wikipedia.org/wiki/Localization">本土化</a>战略。</p>
 <p>根据营销情报机构Mintel的数据，中国消费者的早餐消费总额预计将从2015年的1.3万亿元人民币（2010亿美元）增长到2021年的1.9万亿元人民币。如今，随着外资品牌慢慢了解到中国不同省份饮食习惯的异性，在餐饮需求日益多元化、进入门槛越来越低的中国快餐行业，超本地化（ hyper-localize）战略显得尤为重要。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阎克文、刘苏里、唐小兵谈社科翻译乱象]]></title>
-        <id>https://nansey.github.io/post/yankewen-liusuli-tangxiaobing-on-translation/</id>
-        <link href="https://nansey.github.io/post/yankewen-liusuli-tangxiaobing-on-translation/">
-        </link>
-        <updated>2021-03-07T03:19:37.000Z</updated>
-        <summary type="html"><![CDATA[<p>近几十年来，随着“打开国门”的进程，中国出版界引进了大量外版著作，译著为促进中国的学术发展和文化交流立下了汗马功劳。但是，糟糕的译作也糟蹋了名著，甚至会误导读者。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>近几十年来，随着“打开国门”的进程，中国出版界引进了大量外版著作，译著为促进中国的学术发展和文化交流立下了汗马功劳。但是，糟糕的译作也糟蹋了名著，甚至会误导读者。</p>
-<!-- more -->
-<p>为此，《新京报》记者徐悦东采访了浙江大学兼任教授、《新教伦理与资本主义精神》的译者阎克文、华东师范大学历史学系教授唐小兵和万圣书园的创始人刘苏里，他们分别从译者、学者和书店创始人的角度，聊了聊国内学术翻译的乱象，以及形成的原因。</p>
-<p><a href="https://mp.weixin.qq.com/s/JDHQw461bvn1ypDTLA44Sw">采访全文</a>发表于《新京报书评周刊》公众号。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国本地化集团 VSI 收购 Vox Mundi]]></title>
-        <id>https://nansey.github.io/post/media-localizer-vsi-acquires-vox-mundi/</id>
-        <link href="https://nansey.github.io/post/media-localizer-vsi-acquires-vox-mundi/">
-        </link>
-        <updated>2021-03-07T02:36:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>总部位于伦敦的媒体本地化公司 <a href="https://www.vsi.tv/">VSI 集团</a>于2021年2月24日宣布，已经收购了位于巴西圣保罗的配音、字幕和媒体本地化工作室 <a href="https://www.voxmundi.eu/">Vox Mundi</a>。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>总部位于伦敦的媒体本地化公司 <a href="https://www.vsi.tv/">VSI 集团</a>于2021年2月24日宣布，已经收购了位于巴西圣保罗的配音、字幕和媒体本地化工作室 <a href="https://www.voxmundi.eu/">Vox Mundi</a>。</p>
-<!-- more -->
-<p>据 VSI 集团常务董事 Norman Dawood，这笔交易于2021年2月10日完成。（[来源}(https://slator.com/ma-and-funding/media-localizer-vsi-acquires-vox-mundi/)）</p>
 ]]></content>
     </entry>
 </feed>
